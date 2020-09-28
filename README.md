@@ -1,1 +1,3 @@
-# Introducao-a-Programacao
+# Introdução à Programação
+
+Prof. Eduardo Ono
