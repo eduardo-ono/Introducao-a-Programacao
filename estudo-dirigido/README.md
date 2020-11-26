@@ -1,4 +1,6 @@
-# Introdução à Programação / Algoritmos e Linguagem de Programação > Estudo Dirigido
+### Introdução à Programação
+
+# Algoritmos e Linguagem de Programação (Estudo Dirigido)
 
 Prof. Eduardo Ono
 
