@@ -5,14 +5,19 @@ Prof. Eduardo Ono
 <br>
 
 ## Descrição
+
+Disciplina em regime de Estudo Dirigido.
+
 <br>
 
-Disciplina em regime de Estudo Dirigido. Haverá uma única avaliação ao final do semestre, cujo conteúdo será baseado nos tópicos descritos em Conteúdo Programático e nos exercícios propostos.
+## Avaliação
+
+Haverá uma única avaliação ao final do semestre, cujo conteúdo será baseado nos tópicos descritos em Conteúdo Programático e nos exercícios propostos.
+A Avaliação será online e realizada através do AVA com início no dia 03/12, 19:00, e finalizada no dia 09/12 (22:35).
 
 <br>
 
 ## Conteúdo Programático
-<br>
 
 1. Introdução e Fundamentos
 
@@ -107,7 +112,6 @@ Disciplina em regime de Estudo Dirigido. Haverá uma única avaliação ao final
 <br>
 
 ## Softwares
-<br>
 
 - Orwell Dev-C++ - http://orwelldevcpp.blogspot.com
 
@@ -116,3 +120,5 @@ Disciplina em regime de Estudo Dirigido. Haverá uma única avaliação ao final
 ## Bibliografia
 
 * [DEITEL_2011] DEITEL, P. J.; DEITEL, H. [C: Como Programar, 6 ed.](https://plataforma.bvirtual.com.br/Acervo/Publicacao/2660), São Paulo: Pearson Prentice Hall, 2011.
+
+<br>
