@@ -4,27 +4,29 @@ Prof. Eduardo Ono
 
 <br>
 
+<img src="./imagens/how-to-code-with-no-bugs.png" width="300px">
+
 ## Descrição
 
 <br>
 
-## Conteúdo
+## Conteúdo Programático
 
-* Conceitos de Programação de Computadores
-* Tipos de Dados
-* Variáveis
-* Estruturas Sequenciais
-* Estruturas de Decisão
-    * if
-    * if-else
-    * switch
-* Estruturas de Repetição
-    * for
-    * while
-    * do-while
-* Vetores (Arrays)
-* Funções definidas pelo usuário
-    Passagem de parâmetros por valor e por referência
+| Aula | Data | Conteúdo |
+| :-: | :-: | --- |
+| 01 | | Conceito de Algoritmos e Programação de Computadores
+| 03 | | Tipos de Dados e Variáveis
+| 04 | | Operadores Aritméticos, Lógicos e Relacionais; Álgebra dos Inteiros;
+| 04 | | Estruturas Sequenciais
+| 05 | | Álgebra Booleana
+| 06 | | Estruturas de Decisão: if, if-else, switch
+| 07 | | Estruturas de Repetição: for, while, do-while
+| 08 | | Vetores (Arrays)
+| 09 | | Funções definidas pelo usuário
+| 10 | | Ponteiros/Apontadores
+| 11 | | Passagem de parâmetros por valor e por referência
+| 12 | | Strings
+| 13 | | Arquivos
 
 <br>
 
