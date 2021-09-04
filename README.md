@@ -4,7 +4,7 @@ Prof. Eduardo Ono
 
 <br>
 
-<img src="./imagens/how-to-code-with-no-bugs.png" width="480px">
+<img src="./imagens/how-to-code-with-no-bugs.png" width="360px">
 
 ## Descrição
 
