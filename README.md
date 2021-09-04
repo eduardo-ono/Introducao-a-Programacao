@@ -4,7 +4,7 @@ Prof. Eduardo Ono
 
 <br>
 
-<img src="./imagens/how-to-code-with-no-bugs.png" width="300px">
+<img src="./imagens/how-to-code-with-no-bugs.png" width="480px">
 
 ## Descrição
 
@@ -15,8 +15,8 @@ Prof. Eduardo Ono
 | Aula | Data | Conteúdo |
 | :-: | :-: | --- |
 | 01 | | Conceito de Algoritmos e Programação de Computadores
-| 03 | | Tipos de Dados e Variáveis
-| 04 | | Operadores Aritméticos, Lógicos e Relacionais; Álgebra dos Inteiros;
+| 02 | | Tipos de Dados e Variáveis
+| 03 | | Operadores Aritméticos, Lógicos e Relacionais; Álgebra dos Inteiros;
 | 04 | | Estruturas Sequenciais
 | 05 | | Álgebra Booleana
 | 06 | | Estruturas de Decisão: if, if-else, switch
