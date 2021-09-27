@@ -12,10 +12,10 @@ Prof. Eduardo Ono
 
 ## Conteúdo Programático
 
-| Aula | Data | Conteúdo |
+| Aula | Data | Descrição |
 | :-: | :-: | --- |
 | 01 | | Conceito de Algoritmos e Programação de Computadores
-| 02 | | Tipos de Dados e Variáveis
+| 02 | | Tipos de Dados e Variáveis; Declaração e Definição de Variáveis
 | 03 | | Operadores Aritméticos, Lógicos e Relacionais; Álgebra dos Inteiros;
 | 04 | | Estruturas Sequenciais
 | 05 | | Álgebra Booleana
@@ -38,8 +38,12 @@ Prof. Eduardo Ono
 
 ## Bibliografia
 
-* [DEITEL_2011] DEITEL, P. J.; DEITEL, H. [C: Como Programar, 6 ed.](https://plataforma.bvirtual.com.br/Acervo/Publicacao/2660), São Paulo: Pearson Prentice Hall, 2011.
+| Capa | Descrição |
+| :-: | --- |
+| <img src="./referencias/capas/DEITEL-6e_2011.jpg" alt="Capa" width="120px"> | <sup>[DEITEL-6e_2011]</sup> <br> DEITEL, P. J.; DEITEL, H. [__C: Como Programar, 6 ed.__](https://plataforma.bvirtual.com.br/Acervo/Publicacao/2660), São Paulo: Pearson Prentice Hall, 2011. <br> <sub>https://www.bvirtual.com.br/NossoAcervo/Publicacao/2660</sub>
 
 <br>
 
 ## Bibliografia Complementar
+
+<br>
