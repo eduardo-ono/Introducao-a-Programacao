@@ -49,7 +49,7 @@ Prof. Eduardo Ono
   </tr>
   <tr>
     <td valign="middle"><img src="./referencias/capas/DEITEL-6e_2011.jpg" width="100px"></td>
-    <td valign="middle"><sup>[DEITEL-6e_2011]</sup><br><mark>DEITEL, P. J.; DEITEL, H. <strong>C: Como Programar, 6 ed.</strong>, São Paulo: Pearson Prentice Hall, 2011.</mark> <br> <sub>https://www.bvirtual.com.br/NossoAcervo/Publicacao/2660</sub></td>
+    <td valign="top"><sup>[DEITEL-6e_2011]</sup><br><mark>DEITEL, P. J.; DEITEL, H. <strong>C: Como Programar, 6 ed.</strong>, São Paulo: Pearson Prentice Hall, 2011.</mark> <br> <sub>https://www.bvirtual.com.br/NossoAcervo/Publicacao/2660</sub></td>
   </tr>
 </table>
 
