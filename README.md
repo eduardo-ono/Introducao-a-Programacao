@@ -34,7 +34,7 @@ Prof. Eduardo Ono
 
 | Capa | Descrição |
 | :-: | --- |
-| <img src="./referencias/capas/DEITEL-6e_2011.jpg" alt="Capa" width="120px"> | <sup>[DEITEL-6e_2011]</sup> <br> DEITEL, P. J.; DEITEL, H. [__C: Como Programar, 6 ed.__](https://plataforma.bvirtual.com.br/Acervo/Publicacao/2660), São Paulo: Pearson Prentice Hall, 2011. <br> <sub>https://www.bvirtual.com.br/NossoAcervo/Publicacao/2660</sub>
+| <img src="./referencias/capas/DEITEL-6e_2011.jpg" alt="Capa" width="120px"> | <sup>[DEITEL-6e_2011]</sup> <br> <mark>DEITEL, P. J.; DEITEL, H. [__C: Como Programar, 6 ed.__](https://plataforma.bvirtual.com.br/Acervo/Publicacao/2660), São Paulo: Pearson Prentice Hall, 2011.</mark> <br> <sub>https://www.bvirtual.com.br/NossoAcervo/Publicacao/2660</sub>
 
 <br>
 
