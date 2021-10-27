@@ -42,9 +42,16 @@ Prof. Eduardo Ono
 
 ## Bibliografia Básica
 
-| Capa | Descrição |
-| :-: | --- |
-| <img src="./referencias/capas/DEITEL-6e_2011.jpg" alt="Capa" width="100px" align="left"> | <sup>[DEITEL-6e_2011]</sup> <br> <mark>DEITEL, P. J.; DEITEL, H. __C: Como Programar, 6 ed.__, São Paulo: Pearson Prentice Hall, 2011.</mark> <br> <sub>https://www.bvirtual.com.br/NossoAcervo/Publicacao/2660</sub> |
+<table>
+  <tr>
+    <th>Capa</th>
+    <th>Descrição</th>
+  </tr>
+  <tr>
+    <td><img src="./referencias/capas/DEITEL-6e_2011.jpg" width="100px"></td>
+    <td><sup>[DEITEL-6e_2011]</sup><br><mark>DEITEL, P. J.; DEITEL, H. <strong>C: Como Programar, 6 ed.</strong>, São Paulo: Pearson Prentice Hall, 2011.</mark> <br> <sub>https://www.bvirtual.com.br/NossoAcervo/Publicacao/2660</sub></td>
+  </tr>
+</table>
 
 <br>
 
