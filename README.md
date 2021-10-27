@@ -2,7 +2,7 @@
 
 Prof. Eduardo Ono
 
-##### Versão Web: https://github.com/eduardo-ono/introducao-a-programacao
+##### Website: https://eduardo-ono.github.io/Introducao-a-Programacao
 
 <br>
 
