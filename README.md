@@ -49,7 +49,7 @@ Prof. Eduardo Ono
   </tr>
   <tr>
     <td valign="bottom">
-      <img src="./referencias/capas/DEITEL-6e_2011.jpg" alt="img" width="100px">
+      <img src="./referencias/capas/DEITEL-6e_2011.jpg" alt="img" width="100px" align="middle">
     </td>
     <td valign="middle">
       <sup>[DEITEL-6e_2011]</sup><br>
@@ -70,5 +70,3 @@ Prof. Eduardo Ono
 * [3Blue1Brown] [Tips to be a better problem solver [Last lecture] | Lockdown math ep. 10](https://www.youtube.com/watch?v=QvuQH4_05LI) (YouTube, 1:08:19)
 
 <br>
-
-ono
