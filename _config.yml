@@ -1,8 +1,12 @@
-theme: jekyll-theme-slate
+theme            : jekyll-theme-slate
+title            : "Introdução à Programação"
+title_separator  : "-"
+author           : Eduardo Ono
 
-title: Introdução à Programação
-
-author: Eduardo Ono
+# https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml
+# https://github.com/daattali/beautiful-jekyll/blob/master/_config.yml
+# https://github.com/WebThingsIO/docs/blob/master/_config.yml
+# https://github.com/amzn/jekyll-doc-project/blob/master/_config.yml
 
 navbar-links:
   About Me: "aboutme"
