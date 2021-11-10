@@ -14,9 +14,9 @@ Prof. Eduardo Ono
 int num = 123456;
 
 if ((num & 1) == 0)
-    printf("O numero %d e par!", num);
+    printf("Par\n");
 if ((num & 1) == 1)
-    printf("O numero %d e impar!", num);
+    printf("Impar\n");
 ```
 
 <br>
