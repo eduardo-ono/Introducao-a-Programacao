@@ -2,8 +2,6 @@
 
 Prof. Eduardo Ono
 
-##### Website: https://eduardo-ono.github.io/Introducao-a-Programacao
-
 <br>
 
 <img src="./imagens/how-to-code-with-no-bugs.png" width="360px">
@@ -18,8 +16,8 @@ Prof. Eduardo Ono
 
 | Aula | Data | Descrição |
 | :-: | :-: | --- |
-| 01 | | Conceito de Algoritmos e Programação de Computadores
-| 02 | | Tipos de Dados e Variáveis; Declaração e Definição de Variáveis
+| 01 | 14/02 | Conceito de Algoritmos e Programação de Computadores
+| 02 | 21/02 | Revisão de Arquitetura e Organização de Computadores; Ambiente de Desenvolvimento; Tipos de Dados e Variáveis; Declaração e Definição de Variáveis
 | 03 | | Operadores Aritméticos, Lógicos e Relacionais; Álgebra dos Inteiros;
 | 04 | | Estruturas Sequenciais
 | 05 | | Álgebra Booleana
@@ -53,7 +51,7 @@ Prof. Eduardo Ono
     </td>
     <td valign="middle">
       <sup>[DEITEL-6e_2011]</sup><br>
-      <mark>DEITEL, P. J.; DEITEL, H. <strong>C: Como Programar, 6 ed.</strong>, São Paulo: Pearson Prentice Hall, 2011.</mark><br>
+      DEITEL, P. J.; DEITEL, H. <strong>C: Como Programar, 6 ed.</strong>, São Paulo: Pearson Prentice Hall, 2011.<br>
       <sub>https://www.bvirtual.com.br/NossoAcervo/Publicacao/2660</sub>
     </td>
   </tr>
