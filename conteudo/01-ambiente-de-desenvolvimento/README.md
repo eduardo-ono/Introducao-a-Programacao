@@ -12,7 +12,7 @@ Prof. Eduardo Ono
 
 * Fazer o download do arquivo instalador 'tdm64-gcc-10.3.0-2.exe' ou da versão mais antiga (e mais leve) 'tdm64-gcc-9.2.0.exe'.
 
-* Download do site oficial:
+* Download da versão atual (site oficial):
   * https://jmeubank.github.io/tdm-gcc/
 
 * Downlaod da versão 9.2.0:
@@ -36,9 +36,7 @@ Prof. Eduardo Ono
 
 ### Instalação no Pen Drive
 
-* Baixar o arquivo .zip (64-bit). Criar uma pasta no Pen Drive, por exemplo, 'VSCode', e descompactar os arquivos dentro deste diretório. Criar também dentro do diretório VSCode o diretório 'data'.
-
-<br>
+* Baixar o arquivo .zip (64-bit). Criar uma pasta no Pen Drive, por exemplo, `VSCode`, e descompactar os arquivos dentro deste diretório. Criar também dentro do diretório VSCode o diretório `data`.
 
 ### Configuração do TDM-GCC no Pen Drive
 
