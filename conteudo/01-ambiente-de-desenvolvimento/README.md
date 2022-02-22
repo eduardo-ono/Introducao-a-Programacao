@@ -36,7 +36,7 @@ Prof. Eduardo Ono
 
 ### Instalação no Pen Drive
 
-* Baixar o arquivo .zip (64-bit). Criar um diretório no Pen Drive, por exemplo, `VSCode`, e descompactar o arquivo .zip dentro do diretório criado. Criar também dentro do diretório `VSCode` o diretório `data`.
+* Baixar o arquivo .zip (64-bit). Criar um diretório no Pen Drive, por exemplo, `VSCode`, e descompactar o arquivo .zip dentro do diretório criado. Criar também o diretório `data` dentro do diretório `VSCode`.
 
 ### Configuração do TDM-GCC no Pen Drive
 
