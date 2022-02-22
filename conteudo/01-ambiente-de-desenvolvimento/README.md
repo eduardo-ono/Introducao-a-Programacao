@@ -10,7 +10,7 @@ Prof. Eduardo Ono
 
 ### Download e Instalação
 
-* Fazer o download do arquivo instalador 'tdm64-gcc-10.3.0-2.exe' ou da versão mais antiga (e mais leve) 'tdm64-gcc-9.2.0.exe'.
+* Fazer o download do arquivo instalador `tdm64-gcc-10.3.0-2.exe` ou da versão mais antiga (e mais leve) `tdm64-gcc-9.2.0.exe`.
 
 * Download da versão atual (site oficial):
   * https://jmeubank.github.io/tdm-gcc/
@@ -20,7 +20,7 @@ Prof. Eduardo Ono
 
 * Versão 10.3.0: Instalar com as opções "default".
 
-* Versão 9.2.0: Desabilitar a opção de busca no servidor por versões mais recentes, na primeira tela do instalador.
+* Versão 9.2.0: Desabilitar a opção de busca no servidor por versões mais recentes, na primeira tela do instalador. Continuar a instalação com as opções "default".
 
 ### Instalação no Pen Drive
 
@@ -30,19 +30,19 @@ Prof. Eduardo Ono
 
 ## VS Code (Microsoft Visual Studio Code)
 
-### Instalaçao Local
+### Instalação Local
 
 * Baixar o arquivo instalador na página principal do site. Instalar com as opções "default".
 
 ### Instalação no Pen Drive
 
-* Baixar o arquivo .zip (64-bit). Criar uma pasta no Pen Drive, por exemplo, `VSCode`, e descompactar os arquivos dentro deste diretório. Criar também dentro do diretório VSCode o diretório `data`.
+* Baixar o arquivo .zip (64-bit). Criar um diretório no Pen Drive, por exemplo, `VSCode`, e descompactar o arquivo .zip dentro deste diretório. Criar também dentro do diretório `VSCode` o diretório `data`.
 
 ### Configuração do TDM-GCC no Pen Drive
 
-* Instalar a extensão 'Code Runner'.
+* Instalar a extensão [Jun Han] `Code Runner`.
 
-* Supondo que o VS Code esteja instalado no diretório `F:\Apps\VSCode`, atualizar o arquivo `F:\Apps\VSCode\data\user-data\User\settings.json` conforme a configuração a seguir:
+* Supondo que o VS Code esteja instalado no diretório `F:\Apps\VSCode`, adicionar no arquivo `F:\Apps\VSCode\data\user-data\User\settings.json` a configuração a seguir:
 
   ```json
   "code-runner.executorMap": {
@@ -50,7 +50,7 @@ Prof. Eduardo Ono
   },
   ```
 
-  OBS.: Para acessar o arquivo `settings.json`, teclar <kbd>F1</kbd> e selecionar a opção `Preferences: Open Settings (JSON)`.
+  OBS.: Para acessar o arquivo `settings.json`, teclar <kbd>F1</kbd> no VS Code e selecionar a opção `Preferences: Open Settings (JSON)`.
 
 <br>
 
