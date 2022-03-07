@@ -53,6 +53,9 @@ Prof. Eduardo Ono
 
 ## Vídeos Recomendados
 
-* [3Blue1Brown] [Tips to be a better problem solver [Last lecture] | Lockdown math ep. 10](https://www.youtube.com/watch?v=QvuQH4_05LI) (YouTube, 1:08:19)
+| Thumb | Título |
+| --- | --- |
+| [![Thumb](https://img.youtube.com/vi/ED2aoLnr0oA/default.jpg)](https://youtu.be/ED2aoLnr0oA) | <sup>[Bóson Treinamentos]</sup> [O que é preciso para ser um bom programador de computadores?](https://www.youtube.com/watch?v=ED2aoLnr0oA)<br><sub>(19:03, YouTube, Mai/2017)</sub>
+| [![Thumb](https://img.youtube.com/vi/2xoJjEgecZM/default.jpg)](https://youtu.be/2xoJjEgecZM) | <sup>[Filipe Deschamps]</sup> [50 Dicas Essenciais Que Todo Programador Deveria Saber](https://www.youtube.com/watch?v=2xoJjEgecZM)<br><sub>(11:10, YouTube, Out/2020)</sub>
 
 <br>

@@ -54,9 +54,9 @@ Prof. Eduardo Ono
 
 <br>
 
-## Compilando e Executando Programas em C
+## Compilando e Executando Programas
 
-* Para compilar e executar um programa em C, clicar na combinação de teclas <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>N</kbd>.
+* Para compilar e executar um programa, clicar na combinação de teclas <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>N</kbd>.
 
 <br>
 
