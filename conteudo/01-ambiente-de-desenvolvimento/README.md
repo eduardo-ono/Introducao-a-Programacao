@@ -80,7 +80,6 @@ Prof. Eduardo Ono
         "c": "cd $dir && $driveLetter\\Apps\\TDM-GCC-64\\bin\\gcc -Wall -o $fileNameWithoutExt $fileName && $dir$fileNameWithoutExt",
       },
     }
-
     ```
 
 <br>
