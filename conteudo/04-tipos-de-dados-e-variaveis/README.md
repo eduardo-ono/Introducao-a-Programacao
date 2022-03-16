@@ -49,11 +49,11 @@ Prof. Eduardo Ono
 
 * short, long, unsigned
 
-## Especificadores de Tipos
+## Especificadores de Formatos
 
 * Utilizados dentro de strings
 
-| Tipo | Especificador de Tipo (Máscara) |
+| Tipo | Especificador de Formato (Máscara) |
 | --- | :-: |
 | char | `%c`
 | int | `%d` ou `%i`

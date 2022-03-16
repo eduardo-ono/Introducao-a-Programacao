@@ -34,7 +34,7 @@ Prof. Eduardo Ono
   </summary>
   <section markdown="1">
 
-* Algoritmo
+* Algoritmos
 
 * Programa de Computador
 
@@ -53,8 +53,9 @@ Prof. Eduardo Ono
   </summary>
   <section markdown="1">
 
+* Programa "Olá mundo!"
 
-* ### [Tabela ASCII](../conteudo/03-primeiro-programa-em-c/tabela-ascii.md)
+* [Tabela ASCII](../conteudo/03-primeiro-programa-em-c/tabela-ascii.md)
 
   </section>
 </details>
@@ -73,7 +74,7 @@ Prof. Eduardo Ono
 
   * Tamanho dos Tipos
 
-  * Especificadores de Tipos
+  * Especificadores de Formatos
 
 * ### Variáveis
 

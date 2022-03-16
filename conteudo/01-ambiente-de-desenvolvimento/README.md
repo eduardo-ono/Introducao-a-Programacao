@@ -6,23 +6,34 @@ Prof. Eduardo Ono
 
 <br>
 
-## Compilador TDM-GCC
+## Compilador TDM-GCC (Windows)
 
-### Download e Instalação
+### Download e Instalação (Versão atual)
 
-* Fazer o download do arquivo instalador `tdm64-gcc-10.3.0-2.exe` ou da versão mais antiga (e mais leve) `tdm64-gcc-9.2.0.exe`.
+* Download
 
-* Download da versão mais atual (site oficial):
+  * Fazer o download do arquivo instalador `tdm64-gcc-10.3.0-2.exe` (ou mais atual) no site oficial:
 
-  * https://jmeubank.github.io/tdm-gcc/
+    * https://jmeubank.github.io/tdm-gcc/
 
-* Downlaod da versão 9.2.0 (antiga):
 
-  * https://app.box.com/s/qow9ky3qabzeu16woo7umsk1a1yunv9h
+* Instação
 
-* Versão 10.3.0: Instalar com as opções "default".
+    * Executar o instalador e instalar com as opções "default".
 
-* Versão 9.2.0: Na primeira tela do instalador, desabilitar a opção de busca no servidor por versões mais recentes. Continuar a instalação com as opções "default".
+### Download e Instalação (Versões antigas do TDM-GCC)
+
+* Download
+
+  * Fazer o download do arquivo instalador (escolha a versão desejada):
+
+    * [`tdm64-gcc-9.2.0.exe`](https://github.com/jmeubank/tdm-gcc/releases/download/v9.2.0-tdm64-1/tdm64-gcc-9.2.0.exe) (2019)<br><sub>SHA256: 8385fdd88e68a4b0401a853a636d24782f9a504bd4e5c61c88e900746efc3854</sub>
+
+    * [`tdm64-gcc-5.1.0-2.exe`](https://app.box.com/s/dujmht3ld9l3a2zb0wt0uvx8afjedoip)<br><sub>SHA256: e2cf5b4bae71356ef97381da352ac8ade7e5f93e61385f36f4baf97c2bc6a16b</sub>
+
+* Instalação
+
+  * Executar o instalador. Na primeira tela de execução, __desabilitar__ a opção `Check for updated files on the TDM-GCC server`. Continuar a instalação com as opções "default".
 
 ### Instalação no Pen Drive
 
@@ -32,33 +43,49 @@ Prof. Eduardo Ono
 
 ## Microsoft Visual Studio Code (VS Code)
 
-### Instalação Local
+### Instalação e Configuração Local
 
-* Baixar o arquivo instalador no site oficial:
+* Instalação
 
-  * https://code.visualstudio.com
+  * Baixar o arquivo instalador no site oficial:
+
+    * https://code.visualstudio.com
 
   * Instalar com as opções "default".
 
-### Instalação no Pen Drive
+* Configuração do TDM-GCC
 
-* Baixar o arquivo .zip (64-bit) no site oficial:
+  * No VS Code, instalar a extensão `[Jun Han] Code Runner`.
 
-  * https://code.visualstudio.com/#alt-downloads
+  * Configurar a extensão `Code Runner`:
+
+    1. Selecionar a extensão `Code Runner`;
+    1. Clicar na "engrenagem" e selecionar o item `Extension Settings`;
+    1. Desmarcar a opção `Code-runner: Preserve Focus`;
+    1. Marcar a opção `Code-runner: Run In Terminal`;
+    1. Marcar a opção `Save File Before Run`.
+
+### Instalação e Configuração no Pen Drive
+
+* Instalação
+
+  * Baixar o arquivo .zip (64-bit) no site oficial:
+
+    * https://code.visualstudio.com/#alt-downloads
   
-  * Criar um diretório no Pen Drive, por exemplo, `P:\Apps\VSCode`, e descompactar o arquivo .zip dentro do diretório criado. Criar também o diretório `data` dentro do diretório `VSCode`, de modo a obter `P:\Apps\VSCode\data`.
+  * Criar um diretório no Pen Drive, por exemplo, `P:\Apps\VSCode`, e descompactar o arquivo .zip baixado dentro do diretório criado. Criar também o diretório `data` dentro do diretório `VSCode`, de modo a se obter o diretório `P:\Apps\VSCode\data`.
 
-### Configuração do TDM-GCC no Pen Drive
+* Configuração do TDM-GCC no Pen Drive
 
-* No VS Code, instalar a extensão [Jun Han] `Code Runner`.
+  * No VS Code, instalar a extensão `[Jun Han] Code Runner`.
 
-* Configurar a extensão `Code Runner`:
+  * Configurar a extensão `Code Runner`:
 
-  1. Selecionar a extensão `Code Runner`;
-  1. Clicar na "engrenagem" e selecionar o item `Extension Settings`
-  1. Desmarcar a opção `Code-runner: Preserve Focus`
-  1. Marcar a opção `Code-runner: Run In Terminal`
-  1. Marcar a opção `Save File Before Run`
+    1. Selecionar a extensão `Code Runner`;
+    1. Clicar na "engrenagem" e selecionar o item `Extension Settings`;
+    1. Desmarcar a opção `Code-runner: Preserve Focus`;
+    1. Marcar a opção `Code-runner: Run In Terminal`;
+    1. Marcar a opção `Save File Before Run`.
 
   * Supondo que o VS Code esteja instalado no diretório `P:\Apps\VSCode`, adicionar no arquivo `P:\Apps\VSCode\data\user-data\User\settings.json` a configuração a seguir:
 
@@ -67,20 +94,23 @@ Prof. Eduardo Ono
         "c": "cd $dir && $driveLetter\\Apps\\TDM-GCC-64\\bin\\gcc -Wall -o $fileNameWithoutExt $fileName && $dir$fileNameWithoutExt",
     },
     ```
-    OBS.: Para acessar o arquivo `settings.json`, teclar <kbd>F1</kbd> no VS Code e selecionar a opção `Preferences: Open Settings (JSON)`.
 
-  * O arquivo de configuração deverá ficar da seguinte forma:
+    * Para acessar o arquivo `settings.json`, teclar <kbd>F1</kbd> no VS Code e selecionar a opção `Preferences: Open Settings (JSON)`.
 
-    ```json
-    {
-      "code-runner.preserveFocus": false,
-      "code-runner.runInTerminal": true,
-      "code-runner.saveFileBeforeRun": true,
-      "code-runner.executorMap": {
-        "c": "cd $dir && $driveLetter\\Apps\\TDM-GCC-64\\bin\\gcc -Wall -o $fileNameWithoutExt $fileName && $dir$fileNameWithoutExt",
-      },
-    }
-    ```
+    * No _path_ do GCC, altere o nome do diretório `Apps` conforme o nome escolhido no seu Pen Drive.
+
+    * Com essas configuração realizadas, o arquivo de configuração `settings.json` deverá conter os seguintes itens:
+
+      ```json
+      {
+        "code-runner.preserveFocus": false,
+        "code-runner.runInTerminal": true,
+        "code-runner.saveFileBeforeRun": true,
+        "code-runner.executorMap": {
+          "c": "cd $dir && $driveLetter\\Apps\\TDM-GCC-64\\bin\\gcc -Wall -o $fileNameWithoutExt $fileName && $dir$fileNameWithoutExt",
+        },
+      }
+      ```
 
 <br>
 
@@ -90,7 +120,7 @@ Prof. Eduardo Ono
 
 <br>
 
-## Manipulação de Projetos em C
+## Gerenciamento de Projetos em C
 
 | Thumb | Descrição |
 | :-: | --- |

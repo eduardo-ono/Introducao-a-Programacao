@@ -10,7 +10,7 @@ Prof. Eduardo Ono
 
 ## Descrição
 
-Introdução à programação e algoritmos.
+Introdução a algoritmos, lógica de programação e linguagem de programação.
 
 <br>
 
@@ -23,14 +23,16 @@ Introdução à programação e algoritmos.
 | [03] | 07/03 | Primeiro programa em C; Tabela ASCII
 | [04] | 14/03 | Tipos de Dados; Variáveis; Operadores Aritméticos
 | [05] | 21/03 | Álgebra dos Inteiros
-| [06] | 28/03 | Operadores Relacionais e Lógicos; Estruturas de Decisão: if, if-else, switch
-| 07 | 04/04 | Estruturas de Repetição: for, while, do-while
-| 08 | 11/04 | 1a. Avaliação
-| 09 | 18/04 | Estruturas de Repetição: for, while e do..while
-| 10 | 25/04 | Funções definidas pelo usuário
-| 11 | 02/04 | Passagem de parâmetros por valor e por referência
-| 12 | | Strings
-| 13 | 30/04 | Arquivos
+| [06] | 28/03 | Lógica Matemática; Operadores Relacionais e Lógicos
+| [07] | 04/04 | Estruturas de Decisão: `if` e `if..else`
+| [08] | 11/04 | Comando Ternário; Estrutura de Decisão `switch`
+| [09] | 18/04 | __1a. Avaliação__
+| [10] | 25/04 | Estruturas de Repetição: `for`, `while`, `do..while`
+| [11] | 02/05 | Funções definidas pelo usuário; 
+| [12] | 09/05 | Passagem de parâmetros por valor e por referência
+| [13] | 16/05 | Vetores
+| [14] | 23/05 | Strings
+| [15] | 30/05 | __2a. Avaliação__
 
 [01]: ./aulas/README.md#aula-01
 [02]: ./aulas/README.md#aula-02
@@ -38,6 +40,15 @@ Introdução à programação e algoritmos.
 [04]: ./aulas/README.md#aula-04
 [05]: #
 [06]: #
+[07]: #
+[08]: #
+[09]: #
+[10]: #
+[11]: #
+[12]: #
+[13]: #
+[14]: #
+[15]: #
 
 <br>
 

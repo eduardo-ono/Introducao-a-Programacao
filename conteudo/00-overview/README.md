@@ -24,6 +24,8 @@ Prof. Eduardo Ono
 
 ## Cursos "Completos"
 
+* https://www.youtube.com/playlist?list=PLIfZMtpPYFP5qaS2RFQxcNVkmJLGQwyKE
+
 * https://www.youtube.com/playlist?list=PLAqvrfhetN0gtmtp5gKA6N9lXZm7c5Oeb
 
 <br>
