@@ -69,6 +69,12 @@ Prof. Eduardo Ono
 
 * ### Tipos de Dados
 
+  * Tipos de Dados em Linguagem C
+
+  * Tamanho dos Tipos
+
+  * Especificadores de Tipos
+
 * ### Variáveis
 
     * Declaração de uma variável
