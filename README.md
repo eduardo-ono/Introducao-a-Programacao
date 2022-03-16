@@ -18,19 +18,26 @@ Introdução à programação e algoritmos.
 
 | Aula | Data | Descrição |
 | :-: | :-: | --- |
-| 01 | 14/02 | Introdução à disciplina
-| 02 | 21/02 | Overview de Arquitetura e Organização de Computadores; Criação do Ambiente de Desenvolvimento para Programação em C
-| 03 | 07/03 | Primeiro programa em C; Tabela ASCII
-| 04 | 14/03 | Tipos de Dados; Variáveis; Operadores Aritméticos, Lógicos e Relacionais; Álgebra dos Inteiros
-| 05 | | Estruturas Sequenciais; Álgebra Booleana
-| 06 | | Estruturas de Decisão: if, if-else, switch
-| 07 | | Estruturas de Repetição: for, while, do-while
-| 08 | | Vetores (Arrays)
-| 09 | | Funções definidas pelo usuário
-| 10 | | Ponteiros/Apontadores
-| 11 | | Passagem de parâmetros por valor e por referência
+| [01] | 14/02 | Introdução à disciplina
+| [02] | 21/02 | Overview de Arquitetura e Organização de Computadores; Criação do Ambiente de Desenvolvimento para Programação em C
+| [03] | 07/03 | Primeiro programa em C; Tabela ASCII
+| [04] | 14/03 | Tipos de Dados; Variáveis; Operadores Aritméticos
+| [05] | 21/03 | Álgebra dos Inteiros
+| [06] | 28/03 | Operadores Relacionais e Lógicos; Estruturas de Decisão: if, if-else, switch
+| 07 | 04/04 | Estruturas de Repetição: for, while, do-while
+| 08 | 11/04 | 1a. Avaliação
+| 09 | 18/04 | Estruturas de Repetição: for, while e do..while
+| 10 | 25/04 | Funções definidas pelo usuário
+| 11 | 02/04 | Passagem de parâmetros por valor e por referência
 | 12 | | Strings
-| 13 | | Arquivos
+| 13 | 30/04 | Arquivos
+
+[01]: ./aulas/README.md#aula-01
+[02]: ./aulas/README.md#aula-02
+[03]: ./aulas/README.md#aula-03
+[04]: ./aulas/README.md#aula-04
+[05]: #
+[06]: #
 
 <br>
 
