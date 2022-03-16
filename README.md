@@ -18,12 +18,12 @@ Introdução à programação e algoritmos.
 
 | Aula | Data | Descrição |
 | :-: | :-: | --- |
-| [01] | 14/02 | Introdução à disciplina
-| [02] | 21/02 | Overview de Arquitetura e Organização de Computadores; Criação do Ambiente de Desenvolvimento para Programação em C
-| [03] | 07/03 | Primeiro programa em C; Tabela ASCII
-| [04] | 14/03 | Tipos de Dados; Variáveis; Operadores Aritméticos
-| [05] | 21/03 | Álgebra dos Inteiros
-| [06] | 28/03 | Operadores Relacionais e Lógicos; Estruturas de Decisão: if, if-else, switch
+| [01][] | 14/02 | Introdução à disciplina
+| [02][] | 21/02 | Overview de Arquitetura e Organização de Computadores; Criação do Ambiente de Desenvolvimento para Programação em C
+| [03][] | 07/03 | Primeiro programa em C; Tabela ASCII
+| [04][] | 14/03 | Tipos de Dados; Variáveis; Operadores Aritméticos
+| [05][] | 21/03 | Álgebra dos Inteiros
+| [06][] | 28/03 | Operadores Relacionais e Lógicos; Estruturas de Decisão: if, if-else, switch
 | 07 | 04/04 | Estruturas de Repetição: for, while, do-while
 | 08 | 11/04 | 1a. Avaliação
 | 09 | 18/04 | Estruturas de Repetição: for, while e do..while
