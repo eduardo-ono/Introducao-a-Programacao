@@ -18,7 +18,7 @@ Introdução a algoritmos, lógica de programação e linguagem de programação
 
 | Aula | Data | Descrição |
 | :-: | :-: | --- |
-| [01] | 14/02 | Introdução à disciplina
+| [01] | 14/02 | Introdução à Programação
 | [02] | 21/02 | Overview de Arquitetura e Organização de Computadores; Criação do Ambiente de Desenvolvimento para Programação em C
 | [03] | 07/03 | Primeiro programa em C; Tabela ASCII
 | [04] | 14/03 | Tipos de Dados; Variáveis; Operadores Aritméticos
@@ -63,7 +63,11 @@ Introdução a algoritmos, lógica de programação e linguagem de programação
 ## Recursos
 
 * [Compilador C](./conteudo/01-ambiente-de-desenvolvimento/)
+
 * [Microsoft Visual Studio Code (VS Code)](./conteudo/01-ambiente-de-desenvolvimento/)
+
+    * https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf
+
 * [Tabela ASCII](https://theasciicode.com.ar/)
 
 <br>

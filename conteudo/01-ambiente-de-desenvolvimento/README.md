@@ -12,7 +12,7 @@ Prof. Eduardo Ono
 
 * Download
 
-  * Fazer o download do arquivo instalador `tdm64-gcc-10.3.0-2.exe` (ou mais atual) no site oficial:
+  * Fazer o download do arquivo instalador `tdm64-gcc-10.3.0-2.exe` (MinGW-w64 based), ou a versão mais atual, no site oficial:
 
     * https://jmeubank.github.io/tdm-gcc/
 
@@ -27,9 +27,9 @@ Prof. Eduardo Ono
 
   * Fazer o download do arquivo instalador (escolha a versão desejada):
 
-    * [`tdm64-gcc-9.2.0.exe`](https://github.com/jmeubank/tdm-gcc/releases/download/v9.2.0-tdm64-1/tdm64-gcc-9.2.0.exe) (2019)<br><sub>SHA256: 8385fdd88e68a4b0401a853a636d24782f9a504bd4e5c61c88e900746efc3854</sub>
+    * [`tdm64-gcc-9.2.0.exe`](https://github.com/jmeubank/tdm-gcc/releases/download/v9.2.0-tdm64-1/tdm64-gcc-9.2.0.exe) (2019)<br><sub>SHA256: `8385fdd88e68a4b0401a853a636d24782f9a504bd4e5c61c88e900746efc3854`</sub>
 
-    * [`tdm64-gcc-5.1.0-2.exe`](https://app.box.com/s/dujmht3ld9l3a2zb0wt0uvx8afjedoip)<br><sub>SHA256: e2cf5b4bae71356ef97381da352ac8ade7e5f93e61385f36f4baf97c2bc6a16b</sub>
+    * [`tdm64-gcc-5.1.0-2.exe`](https://app.box.com/s/dujmht3ld9l3a2zb0wt0uvx8afjedoip) (2015)<br><sub>SHA256: `e2cf5b4bae71356ef97381da352ac8ade7e5f93e61385f36f4baf97c2bc6a16b`</sub>
 
 * Instalação
 
@@ -37,7 +37,7 @@ Prof. Eduardo Ono
 
 ### Instalação no Pen Drive
 
-* Após a instalação local, copiar o diretório `C:\TDM-GCC-64` para dentro da pasta `Apps` (por exemplo) no Pen Drive.
+* Após a instalação local do TDM-GCC, copiar o diretório `C:\TDM-GCC-64` para dentro da pasta `Apps` (por exemplo) no Pen Drive.
 
 <br>
 
@@ -61,7 +61,7 @@ Prof. Eduardo Ono
 
     1. Selecionar a extensão `Code Runner`;
     1. Clicar na "engrenagem" e selecionar o item `Extension Settings`;
-    1. Desmarcar a opção `Code-runner: Preserve Focus`;
+    1. __Desmarcar__ a opção `Code-runner: Preserve Focus`;
     1. Marcar a opção `Code-runner: Run In Terminal`;
     1. Marcar a opção `Save File Before Run`.
 
@@ -111,6 +111,10 @@ Prof. Eduardo Ono
         },
       }
       ```
+
+### Configurações Adicionais do VS Code (Opcional)
+
+* [Snippets](./vscode/README.md#snippets)
 
 <br>
 
