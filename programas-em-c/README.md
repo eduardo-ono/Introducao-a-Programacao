@@ -4,7 +4,9 @@
 
 Prof. Eduardo Ono
 
-<br>
+## Tópicos
+
+### Álgebra do Inteiros
 
 <details id="caixa-eletronico">
   <summary>
@@ -27,5 +29,37 @@ Prof. Eduardo Ono
   <sub><hr></sub>
   </section>
 </details>
+
+<br>
+
+### Estruturas de Seleção
+
+### Estruturas de Repetição
+
+### Ponteiros (Apontadores)
+
+### Funções Definidas pelo Usuário
+
+<details id="bhaskara">
+  <summary>
+    <strong>Fórmula de Bhaskara</strong>
+  </summary>
+  <section markdown="1">
+  <sup><hr></sup>
+
+* Descrição
+
+  * Programa que determina as duas soluções de equações de 2o. grau pela Fórmula de Bhaskara. Utiliza passagem de parâmetros por referência.
+
+* Programas
+
+  | Programa | Comentário |
+  | --- | --- |
+  | [bhaskara-01.c](./funcoes/bhaskara-01.c) | Utiliza passagem de parâmetros por referência.
+
+  <sub><hr></sub>
+  </section>
+</details>
+
 
 <br>
