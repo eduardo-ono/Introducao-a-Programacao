@@ -6,7 +6,7 @@ Prof. Eduardo Ono
 
 ## Tópicos
 
-* ### Álgebra do Inteiros
+### Álgebra do Inteiros
 
 <details id="caixa-eletronico">
   <summary>
@@ -32,19 +32,19 @@ Prof. Eduardo Ono
 
 <br>
 
-* ### Estruturas de Seleção
+### Estruturas de Seleção
 
 <br>
 
-* ### Estruturas de Repetição
+### Estruturas de Repetição
 
 <br>
 
-* ### Ponteiros (Apontadores)
+### Ponteiros (Apontadores)
 
 <br>
 
-* ### Funções Definidas pelo Usuário
+### Funções Definidas pelo Usuário
 
 <details id="bhaskara">
   <summary>
