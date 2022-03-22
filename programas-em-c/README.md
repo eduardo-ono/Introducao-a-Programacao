@@ -63,7 +63,7 @@ Prof. Eduardo Ono
 
   | Programa | Comentário |
   | --- | --- |
-  | [bhaskara-01.c](./funcoes/bhaskara-01.c) | Utiliza passagem de parâmetros por referência.
+  | [bhaskara-01.c](./funcoes/bhaskara-01.c){:target="\_blank"} | Utiliza passagem de parâmetros por referência.
 
   <sub><hr></sub>
   </section>
