@@ -3,7 +3,7 @@
     Versão           : 1
     Desenvolvido por : Eduardo Ono
     Data da criação  : 17/03/2022
-    Atualizado em    : 17/03/2022
+    Atualizado em    : 22/03/2022
     Descrição        : Determina a quantidade mínima de cada nota fornecida por um caixa eletrônico,
                         mediante o valor do saque (somente valores inteiros).
     OBS.             : 

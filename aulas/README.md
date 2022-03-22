@@ -87,4 +87,32 @@ Prof. Eduardo Ono
 
 ---
 
+<details id="aula-05">
+  <summary>
+    <strong>Aula 05 - Álgebra dos Inteiros</strong>
+  </summary>
+  <section markdown="1">
+  <sup><hr></sup>
+
+* ### Divisão de Inteiros
+
+  * Programa `volume-esfera.c`
+
+* ### Teorema da Divisão de Euclides
+
+  * Resto de uma divisão inteira
+
+  * Operador Módulo
+
+* ### Exemplos
+
+    * Programa `caixa-eletronico-01.c`
+
+    * Programa `caixa-eletronico-02.c`
+
+  </section>
+</details>
+
+---
+
 <br>

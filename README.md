@@ -62,9 +62,9 @@ Introdução a algoritmos, lógica de programação e linguagem de programação
 
 ## Recursos
 
-* [Compilador C](./conteudo/01-ambiente-de-desenvolvimento/)
+* [Compilador C](./conteudo/01-ambiente-de-desenvolvimento/README.md#compilador-tdm-gcc-windows)
 
-* [Microsoft Visual Studio Code (VS Code)](./conteudo/01-ambiente-de-desenvolvimento/)
+* [Microsoft Visual Studio Code (VS Code)](./conteudo/01-ambiente-de-desenvolvimento/README.md#microsoft-visual-studio-code-vs-code)
 
     * https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf
 
