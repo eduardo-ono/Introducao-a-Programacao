@@ -1,3 +1,13 @@
+/*
+    Programa      : Bhaskara
+    Versão        : 01
+    Desenvolvedor : Eduardo Ono
+    Criado em     : 22/03/2022
+    Atualizado em : 22/03/2022
+    Descrição     : Determina as duas soluções de uma equação do 2o. grau através da Fórmula de Bhaskara.
+    Comentários   : Utiliza passagem de parâmetros por referência.
+ */
+
 #include <stdio.h>
 #include <math.h>
 

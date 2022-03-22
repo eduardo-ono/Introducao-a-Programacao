@@ -19,7 +19,7 @@ Prof. Eduardo Ono
 
 * Descrição
 
-  * Programa que determina a quantidade mínima de cada cédula (nota) a ser entregue por um caixa eletrônico, mediante o valor do saque.
+  * Programa que determina a quantidade mínima de cada cédula (nota) a ser fornecida por um caixa eletrônico, mediante o valor do saque.
 
 * Versões
 
@@ -53,19 +53,19 @@ Prof. Eduardo Ono
     <strong>Fórmula de Bhaskara</strong>
   </summary>
   <section markdown="1">
-  <sup><hr></sup>
+<sup><hr></sup>
 
 * Descrição
 
-  * Programa que determina as duas soluções de equações de 2o. grau pela Fórmula de Bhaskara. Utiliza passagem de parâmetros por referência.
+  * Programa que determina as duas soluções de uma equação do 2o. grau pela Fórmula de Bhaskara.
 
 * Programas
 
   | Programa | Comentário |
   | --- | --- |
-  | [bhaskara-01.c](./funcoes/bhaskara-01.c "Clique com o botão do meio do mouse para abrir em outra aba.") | Utiliza passagem de parâmetros por referência.
+  | [bhaskara-01.c](./funcoes/bhaskara-01.c) | Utiliza passagem de parâmetros por referência.
 
-  <sub><hr></sub>
+<sub><hr></sub>
   </section>
 </details>
 

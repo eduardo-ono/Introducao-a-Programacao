@@ -24,10 +24,10 @@ Introdução a algoritmos, lógica de programação e linguagem de programação
 | [04] | 14/03 | Tipos de Dados; Variáveis; Operadores Aritméticos
 | [05] | 21/03 | Álgebra dos Inteiros
 | [06] | 28/03 | Lógica Matemática; Operadores Relacionais e Lógicos
-| [07] | 04/04 | Estruturas de Decisão: `if` e `if..else`
+| [07] | 04/04 | Estruturas de Decisão: `if` e `if-else`
 | [08] | 11/04 | Comando Ternário; Estrutura de Decisão `switch`
 | [09] | 18/04 | __1a. Avaliação__
-| [10] | 25/04 | Estruturas de Repetição: `for`, `while`, `do..while`
+| [10] | 25/04 | Estruturas de Repetição: `for`, `while`, `do-while`
 | [11] | 02/05 | Funções definidas pelo usuário; 
 | [12] | 09/05 | Passagem de parâmetros por valor e por referência
 | [13] | 16/05 | Vetores
@@ -38,17 +38,7 @@ Introdução a algoritmos, lógica de programação e linguagem de programação
 [02]: ./aulas/README.md#aula-02
 [03]: ./aulas/README.md#aula-03
 [04]: ./aulas/README.md#aula-04
-[05]: #
-[06]: #
-[07]: #
-[08]: #
-[09]: #
-[10]: #
-[11]: #
-[12]: #
-[13]: #
-[14]: #
-[15]: #
+[05]: ./aulas/README.md#aula-05
 
 <br>
 
@@ -78,7 +68,7 @@ Introdução a algoritmos, lógica de programação e linguagem de programação
 
 | Capa | Descrição |
 | :-: | --- |
-| <img src="./referencias/capas/DEITEL-6e_2011.jpg" width="100px"> | <sup><a id="DEITEL-6e_2011">DEITEL-6e_2011</a></sup><br>DEITEL, P. J.; DEITEL, H.; <strong>C: Como Programar, 6 ed.</strong>, São Paulo: Pearson Prentice Hall, 2011[.](https://app.box.com/s/orpgcu86l21fflmxiqmzdq0cod300i4b)<br><sub>https://www.bvirtual.com.br/NossoAcervo/Publicacao/2660</sub>
+| <img src="./referencias/capas/DEITEL-6e_2011.jpg" width="100px"> | <sup><a id="DEITEL-6e_2011">[DEITEL-6e_2011]</a></sup><br>DEITEL, P. J.; DEITEL, H.; <strong>C: Como Programar, 6 ed.</strong>, São Paulo: Pearson Prentice Hall, 2011[.](https://app.box.com/s/orpgcu86l21fflmxiqmzdq0cod300i4b)<br><sub>https://www.bvirtual.com.br/NossoAcervo/Publicacao/2660</sub>
 | <img src="./referencias/capas/SALES_2017.jpg" width="100px"> | <sup>[SALES_2017]</sup><br>SALES, A. B.; DEL ESPOSTE, A. M. <strong>[Linguagem C: Aprendendo com Exercícios Resolvidos](https://archive.org/details/livro-linguagem-caprendendo-exercicios-resolvidos-2)</strong>, Florianópolis: UFSC, 2017.
 
 <br>
