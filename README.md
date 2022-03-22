@@ -70,13 +70,15 @@ Introdução a algoritmos, lógica de programação e linguagem de programação
 
 * [Tabela ASCII](https://theasciicode.com.ar/)
 
+- [Checklist](./conteudo/00-overview/checklist.md)
+
 <br>
 
 ## Bibliografia Básica
 
 | Capa | Descrição |
 | :-: | --- |
-| <img src="./referencias/capas/DEITEL-6e_2011.jpg" width="100px"> | <sup>[DEITEL-6e_2011]</sup><br>DEITEL, P. J.; DEITEL, H. <strong>C: Como Programar, 6 ed.</strong>, São Paulo: Pearson Prentice Hall, 2011[.](https://app.box.com/s/orpgcu86l21fflmxiqmzdq0cod300i4b)<br><sub>https://www.bvirtual.com.br/NossoAcervo/Publicacao/2660</sub>
+| <img src="./referencias/capas/DEITEL-6e_2011.jpg" width="100px"> | <sup><a id="DEITEL-6e_2011">DEITEL-6e_2011</a></sup><br>DEITEL, P. J.; DEITEL, H.; <strong>C: Como Programar, 6 ed.</strong>, São Paulo: Pearson Prentice Hall, 2011[.](https://app.box.com/s/orpgcu86l21fflmxiqmzdq0cod300i4b)<br><sub>https://www.bvirtual.com.br/NossoAcervo/Publicacao/2660</sub>
 | <img src="./referencias/capas/SALES_2017.jpg" width="100px"> | <sup>[SALES_2017]</sup><br>SALES, A. B.; DEL ESPOSTE, A. M. <strong>[Linguagem C: Aprendendo com Exercícios Resolvidos](https://archive.org/details/livro-linguagem-caprendendo-exercicios-resolvidos-2)</strong>, Florianópolis: UFSC, 2017.
 
 <br>

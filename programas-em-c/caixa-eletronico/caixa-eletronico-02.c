@@ -26,6 +26,14 @@ int main()
         return 1;
     }
 
+    notas2 = 0;
+    // 
+    if (saque % 5 == 1 || saque % 5 == 3)
+    {
+        saque = saque - 4;
+        notas2 = 2;
+    }
+
     notas200 = saque / 200;
     saque = saque % 200;
     notas100 = saque / 100;
@@ -38,7 +46,7 @@ int main()
     saque = saque % 10;
     notas5 = saque / 5;
     saque = saque % 5;
-    notas2 = saque / 2;
+    notas2 = notas2 + saque / 2;
     notas1 = saque % 2;
 
     printf("Notas de 200,00 = %d\n", notas200);
