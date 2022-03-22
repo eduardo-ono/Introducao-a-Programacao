@@ -4,8 +4,7 @@
     Desenvolvedor   : Eduardo Ono
     Data da criação : 17/03/2022
     Atualizado em   : 22/03/2022
-    Descrição       : Determina a quantidade mínima de cada nota fornecida por um caixa eletrônico,
-                        mediante o valor do saque.
+    Descrição       : Determina a quantidade mínima de cada cédula fornecida por um caixa eletrônico, mediante o valor do saque.
     OBS.            : Aceita somente valores inteiros para o valor do saque.
  */
 
