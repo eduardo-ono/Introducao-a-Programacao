@@ -66,11 +66,11 @@ Introdução a algoritmos, lógica de programação e linguagem de programação
 
 * [Microsoft Visual Studio Code (VS Code)](./conteudo/01-ambiente-de-desenvolvimento/README.md#microsoft-visual-studio-code-vs-code)
 
-    * https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf
+  * https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf
 
 * [Tabela ASCII](https://theasciicode.com.ar/)
 
-- [Checklist](./conteudo/00-overview/checklist.md)
+* [Checklist](./conteudo/00-overview/checklist.md)
 
 <br>
 

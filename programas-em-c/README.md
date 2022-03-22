@@ -25,8 +25,8 @@ Prof. Eduardo Ono
 
   | Programa | Comentário |
   | --- | --- |
-  | [caixa-eletronico-01.c](./caixa-eletronico/caixa-eletronico-01.c) | Considera a disponibilidade de cédulas de R$ 1,00 em diante.
-  | [caixa-eletronico-02.c](./caixa-eletronico/caixa-eletronico-02.c) | Considera a disponibilidade de cédulas de R$ 2,00 em diante, não sendo possível o saque de R$ 1,00 ou R$ 3,00.<br> Para valores do saque para os quais o algoritmo do programa `caixa-eletronico-01.c` não funciona sem notas de R$ 1,00, subtrai R$ 4,00 do valor do saque, o que fará com que o algoritmo funcione corretamente, e compensa a subtração atribuindo 2 notas de R$ 2,00 a mais na entrega das cédulas.
+  | [caixa-eletronico-01.c](./algebra-dos-inteiros/caixa-eletronico-01.c "Clique com o botão do meio do mouse para abrir em outra aba.") | Considera a disponibilidade de cédulas de R$ 1,00 em diante.
+  | [caixa-eletronico-02.c](./algebra-dos-inteiros/caixa-eletronico-02.c "Clique com o botão do meio do mouse para abrir em outra aba.") | Considera a disponibilidade de cédulas de R$ 2,00 em diante, não sendo possível o saque de R$ 1,00 ou R$ 3,00.<br> Para valores do saque para os quais o algoritmo do programa `caixa-eletronico-01.c` não funciona sem notas de R$ 1,00, subtrai R$ 4,00 do valor do saque, o que fará com que o algoritmo funcione corretamente, e compensa a subtração atribuindo 2 notas de R$ 2,00 a mais na entrega das cédulas.
 
   <sub><hr></sub>
   </section>
@@ -63,7 +63,7 @@ Prof. Eduardo Ono
 
   | Programa | Comentário |
   | --- | --- |
-  | [bhaskara-01.c](./funcoes/bhaskara-01.c){:target="\_blank"} | Utiliza passagem de parâmetros por referência.
+  | [bhaskara-01.c](./funcoes/bhaskara-01.c "Clique com o botão do meio do mouse para abrir em outra aba.") | Utiliza passagem de parâmetros por referência.
 
   <sub><hr></sub>
   </section>
