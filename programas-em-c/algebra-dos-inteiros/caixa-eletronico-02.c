@@ -26,7 +26,6 @@ int main()
     }
 
     notas2 = 0;
-    // 
     if (saque % 5 == 1 || saque % 5 == 3)
     {
         saque = saque - 4;

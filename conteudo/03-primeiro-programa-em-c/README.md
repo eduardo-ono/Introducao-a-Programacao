@@ -22,27 +22,27 @@ Prof. Eduardo Ono
 * Saída:
 
     ```
-    Ol# Mundo!
+    Ol? Mundo!
     ```
 
-* Corrigindo o problema da acentuação:
+* Corrigindo o problema da acentuação através de código ASCII:
 
-    ```c
-        #include <stdio.h>
+```c
+#include <stdio.h>
 
-        int main()
-        {
-            printf("Ol%c mundo!\n", 160);
+int main()
+{
+    printf("Ol%c mundo!\n", 160);
 
-            return 0;
-        }
-    ```
+    return 0;
+}
+ ```
 
-    * Saída:
+  * Saída:
 
-    ```
-    Olá Mundo!
-    ```
+  ```
+  Olá Mundo!
+  ```
 
 <br>
 

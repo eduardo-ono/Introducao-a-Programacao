@@ -2,8 +2,11 @@
 
 int main()
 {
-    int num = 123456;
+    int num;
 
+    printf("Entre com um numero inteiro: ");
+    scanf("%d", &num);
+    
     if ((num & 1) == 0)
         printf("Par\n");
     if ((num & 1) == 1)

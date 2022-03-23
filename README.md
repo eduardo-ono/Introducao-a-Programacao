@@ -10,7 +10,7 @@ Prof. Eduardo Ono
 
 ## Descrição
 
-Introdução a algoritmos, lógica de programação e linguagem de programação.
+Introdução a algoritmos, lógica de programação e linguagem de programação C.
 
 <br>
 

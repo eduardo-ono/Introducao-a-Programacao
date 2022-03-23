@@ -69,4 +69,27 @@ Prof. Eduardo Ono
   </section>
 </details>
 
+### Operadores Bit-a-Bit (Bitwise Operators)
+
+<details id="par-impar-bitwise">
+  <summary>
+    <strong>Par-Impar (Bitwise)</strong>
+  </summary>
+  <section markdown="1">
+<sup><hr></sup>
+
+* Descrição
+
+  * Programa que determina se um número inteiro é par ou ímpar através de operadores bit-a-bit.
+
+* Programas
+
+  | Programa | Comentários |
+  | --- | --- |
+  | [par-impar-bitwise.c](./operadores-bit-a-bit/par-impar-bitwise.c) | Determina se um inteiro é par ou ímpar através de operadores bit-a-bit.
+
+<sub><hr></sub>
+  </section>
+</details>
+
 <br>
