@@ -96,7 +96,9 @@ Prof. Eduardo Ono
 
 * ### Divisão de Inteiros
 
-  * Programa `volume-esfera.c`
+  * Programas
+  
+    * `volume-esfera.c`
 
 * ### Teorema da Divisão de Euclides
 
@@ -104,11 +106,13 @@ Prof. Eduardo Ono
 
   * Operador Módulo
 
-* ### Exemplos
+* ### Exemplos de Programas
 
-    * Programa `caixa-eletronico-01.c`
+  * [Caixa Eletrônico](../programas-em-c/algebra-dos-inteiros/)
 
-    * Programa `caixa-eletronico-02.c`
+    * `caixa-eletronico-01.c`
+
+    * `caixa-eletronico-02.c`
 
   </section>
 </details>

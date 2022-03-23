@@ -29,3 +29,7 @@ Prof. Eduardo Ono
 * O volume de uma esfera de raio R é dado por V = 4/3 x PI x R^3.<br>Considerando PI = 3.1416, escreva um programa que calcule e imprima o volume de uma esfera de raio R = 10.<br><sub>Dica: Utilize a função matemática `pow()`, definida na biblioteca `<math.h>`.</sub>
 
 <br>
+
+## Exercício 5
+
+* A brincadeira de "Pedra, Papel e Tesoura" é bastante antiga e muito conhecida. Porém, é possível 

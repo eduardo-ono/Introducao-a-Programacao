@@ -86,7 +86,7 @@ Prof. Eduardo Ono
 
   | Programa | Comentários |
   | --- | --- |
-  | [par-impar-bitwise.c](./operadores-bit-a-bit/par-impar-bitwise.c) | Determina se um inteiro é par ou ímpar através de operadores bit-a-bit.
+  | [par-impar-bitwise.c](./operadores-bit-a-bit/par-impar-bitwise.c) |
 
 <sub><hr></sub>
   </section>
