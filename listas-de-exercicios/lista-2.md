@@ -8,7 +8,7 @@ Prof. Eduardo Ono
 
 ## Exercício 1
 
-* Dados o dividendo e o divisor (números inteiros), escreva uma única instrução em linguagem C que determina o resto da divisão do dividendo pelo divisor.
+* Dados o dividendo e o divisor (números inteiros), escreva uma única instrução em linguagem C que determine o resto da divisão do dividendo pelo divisor.
 
 <details>
   <summary>Solução</summary>
@@ -33,16 +33,12 @@ Escreva um programa em linguagem C que receba dois números inteiros representan
 
 Exemplos:
 
-<center>
-
 | Entrada | Saída |
 | :-: | :-: |
 | 2 &nbsp; 4 | 2
 | 3 &nbsp; 1 | 1
 | 0 &nbsp; 2 | 0
 | 3 &nbsp; 3 | empate
-
-</center>
 
 <details>
   <summary>Solução</summary>
