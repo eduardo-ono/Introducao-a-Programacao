@@ -8,13 +8,13 @@ Prof. Eduardo Ono
 
 ## Tópicos
 
-### Configuração de um Ambiente na Máquina Local
+### [Configuração de um Ambiente na Máquina Local](./local.md)
 
-### Configuração de um Ambiente Portátil (Pen Drive ou unidade externa)
+### [Configuração de um Ambiente Portátil (Pen Drive ou unidade externa)](./pen-drive.md)
 
 <br>
 
-## Microsoft Visual Studio Code
+## Microsoft Visual Studio Code (VS Code)
 
 ### Configurações Adicionais do VS Code (Opcional)
 
