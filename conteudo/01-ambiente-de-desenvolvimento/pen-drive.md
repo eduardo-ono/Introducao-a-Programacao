@@ -26,7 +26,7 @@ Prof. Eduardo Ono
 
   <p align="center"><img src="./assets/tdm-gcc-install-pen-drive-03.png" alt="img" width="300"></p>
 
-  * Na quarta tela, DESMARCAR as duas últimas opções `Start Menu Items` e `Add to PATH`:
+  * Na quarta tela, __DESMARCAR__ as duas últimas opções `Start Menu Items` e `Add to PATH`:
 
   <p align="center"><img src="./assets/tdm-gcc-install-pen-drive-04.png" alt="img" width="300"></p>
 
@@ -44,33 +44,11 @@ Prof. Eduardo Ono
 
 * Instalação
 
-  * Executar o instalador. Na primeira tela de execução, DESABILITAR a opção `Check for updated files on the TDM-GCC server`. Continuar a instalação seguindo as instruções de instalação da versão atual.
+  * Executar o instalador. Na primeira tela de execução, __DESABILITAR__ a opção `Check for updated files on the TDM-GCC server`. Continuar a instalação seguindo as instruções de instalação da versão atual.
 
 <br>
 
 ## Microsoft Visual Studio Code (VS Code)
-
-### Instalação e Configuração Local
-
-* Instalação
-
-  * Baixar o arquivo instalador no site oficial:
-
-    * https://code.visualstudio.com
-
-  * Instalar com as opções "default".
-
-* Configuração do TDM-GCC
-
-  * No VS Code, instalar a extensão `[Jun Han] Code Runner`.
-
-  * Configurar a extensão `Code Runner`:
-
-    1. Selecionar a extensão `Code Runner`;
-    1. Clicar na "engrenagem" e selecionar o item `Extension Settings`;
-    1. __Desmarcar__ a opção `Code-runner: Preserve Focus`;
-    1. Marcar a opção `Code-runner: Run In Terminal`;
-    1. Marcar a opção `Save File Before Run`.
 
 ### Instalação e Configuração no Pen Drive
 
@@ -80,7 +58,7 @@ Prof. Eduardo Ono
 
     * https://code.visualstudio.com/#alt-downloads
   
-  * Criar um diretório no Pen Drive, por exemplo, `P:\Apps\VSCode`, e descompactar o arquivo .zip baixado dentro do diretório criado.
+  * Criar um diretório no Pen Drive, por exemplo, `P:\Apps\VSCode`, e descompactar o arquivo .zip baixado dentro do diretório `VSCode` criado.
   
   * Criar o diretório `data` dentro do diretório `VSCode`, de modo a se obter o diretório `P:\Apps\VSCode\data`.
 
@@ -105,9 +83,9 @@ Prof. Eduardo Ono
     },
     ```
 
-    * Para acessar o arquivo `settings.json`, teclar <kbd>F1</kbd> no VS Code e selecionar a opção `Preferences: Open Settings (JSON)`.
+    * OBS.: Para acessar o arquivo `settings.json`, teclar <kbd>F1</kbd> no VS Code e selecionar a opção `Preferences: Open Settings (JSON)`.
 
-    * Com essas configuração realizadas, o arquivo de configuração `settings.json` deverá conter os seguintes itens:
+    * Com essas configurações realizadas, o arquivo de configuração `settings.json` deverá conter os seguintes itens:
 
     ```json
     {
