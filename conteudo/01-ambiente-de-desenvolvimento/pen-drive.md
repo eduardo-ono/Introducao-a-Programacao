@@ -101,4 +101,6 @@ Prof. Eduardo Ono
     }
     ```
 
+  * No VS Code, instalar a extensão [Microsoft] C/C++.
+  
 <br>
