@@ -68,7 +68,7 @@ Prof. Eduardo Ono
   },
   ```
 
-  * Com essas configuração realizadas, o arquivo de configuração `settings.json` deverá conter os seguintes itens:
+  * Com essas configurações realizadas, o arquivo de configuração `settings.json` deverá conter os seguintes itens:
 
   ```json
   {

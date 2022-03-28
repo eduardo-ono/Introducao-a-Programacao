@@ -18,17 +18,17 @@ Prof. Eduardo Ono
 
 * Instação
 
-  * Executar o instalador. Na primeira tela, selecionar a opção `Create`: 
+  * Executar o instalador. Na primeira tela, selecionar a opção `Create`:
 
-  <img src="./assets/tdm-gcc-install-pen-drive-01.png" alt="img" width="300">
+  <p align="center"><img src="./assets/tdm-gcc-install-pen-drive-01.png" alt="img" width="300"></p>
 
   * Na segunda tela, escolher um diretório para instalação de aplicativos (no exemplo `Apps`) no Pen Drive. Manter o nome do diretório de instalação `TDM-GCC-64`:
 
-  <img src="./assets/tdm-gcc-install-pen-drive-03.png" alt="img" width="300">
+  <p align="center"><img src="./assets/tdm-gcc-install-pen-drive-03.png" alt="img" width="300"></p>
 
   * Na quarta tela, DESMARCAR as duas últimas opções `Start Menu Items` e `Add to PATH`:
 
-  <img src="./assets/tdm-gcc-install-pen-drive-04.png" alt="img" width="300">
+  <p align="center"><img src="./assets/tdm-gcc-install-pen-drive-04.png" alt="img" width="300"></p>
 
   * Continuar com a instalação com as opções "default".
 
