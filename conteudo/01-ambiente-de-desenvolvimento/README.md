@@ -6,25 +6,31 @@ Prof. Eduardo Ono
 
 <br>
 
-## Tópicos
+## Ambiente de Desenvolvimento para Programação em Linguagem C
 
 ### [Configuração de um Ambiente na Máquina Local](./local.md)
 
+* Compilador TDM-GCC
+* Editor Microsoft Visual Studio Code (VS Code)
+
 ### [Configuração de um Ambiente Portátil (Pen Drive ou unidade externa)](./pen-drive.md)
+
+* Compilador TDM-GCC Portátil
+* Editor Microsoft Visual Studio Code (VS Code) Portátil
 
 <br>
 
-## Microsoft Visual Studio Code (VS Code)
+## Configuração do VS Code
 
-### Configurações Adicionais do VS Code (Opcional)
+### Snippets (Opcional)
 
 * [Snippets](./vscode/README.md#snippets)
 
 <br>
 
-## Compilando e Executando Programas
+## Compilando e Executando Programas em C
 
-* Para compilar e executar um programa no VS Code, clicar na combinação de teclas <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>N</kbd>.
+* Para compilar e executar um programa no VS Code, clicar na combinação de teclas <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>N</kbd>. Requer a extensão `Code Runner` instalada.
 
 <br>
 

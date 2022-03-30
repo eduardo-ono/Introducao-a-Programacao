@@ -119,4 +119,37 @@ Prof. Eduardo Ono
 
 ---
 
+<details id="aula-06">
+  <summary>
+    <strong>Aula 05 - Estruturas de Decisão (if, if..else, switch)</strong>
+  </summary>
+  <section markdown="1">
+  <sup><hr></sup>
+
+* ### if
+
+  * Programas
+  
+    * faixa-etaria.c
+    * criterio-aprovacao-01.c
+
+* ### if..else
+
+  * Programas
+
+    * faixa-etaria-02.c
+    * criterio-de-aprovacao-02.c
+
+* ### switch
+
+  * Programas
+
+    * meses-do-ano-01.c (utilizando o `break`)
+    * meses-do-ano-02.c (sem utilizar o `break`)
+
+  </section>
+</details>
+
+---
+
 <br>

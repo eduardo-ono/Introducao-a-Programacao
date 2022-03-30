@@ -50,6 +50,9 @@ int main()
 
 | Thumb | Título |
 | --- | --- |
+| [![thumb](https://img.youtube.com/vi/dKUfy6itD8k/default.jpg)](https://youtu.be/dKUfy6itD8k) | <sup>[Bóson Treinamentos]</sup> [02 - Programação em linguagem C - Criando o primeiro programa](https://www.youtube.com/watch?v=dKUfy6itD8k&list=PLucm8g_ezqNqzH7SM0XNjsp25AP0MN82R&index=3)<br><sub>(16:05, YouTube, Out/2014)</sub>
 | [![Thumb](https://img.youtube.com/vi/8Qm5K0GTD3s/default.jpg)](https://youtu.be/8Qm5K0GTD3s) | <sup>[Papo Binário]</sup> [Programação moderna em C - Aula 1: Funções main() e printf()](https://www.youtube.com/watch?v=8Qm5K0GTD3s)<br><sub>(34:18, YouTube, Mar/2017)</sub>
+
+[Bóson Treinamentos]: https://www.youtube.com/channel/UCzOGJclZQvPVgYZIwERsf5g
 
 <br>

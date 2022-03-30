@@ -23,9 +23,9 @@ Introdução a algoritmos, lógica de programação e linguagem de programação
 | [03] | 07/03 | Primeiro programa em C; Tabela ASCII
 | [04] | 14/03 | Tipos de Dados; Variáveis; Operadores Aritméticos
 | [05] | 21/03 | Álgebra dos Inteiros
-| [06] | 28/03 | Lógica Matemática; Operadores Relacionais e Lógicos
-| [07] | 04/04 | Estruturas de Decisão: `if` e `if-else`
-| [08] | 11/04 | Comando Ternário; Estrutura de Decisão `switch`
+| [06] | 28/03 | Estruturas de Decisão: `if`, `if..else` e `switch`
+| [07] | 04/04 | Comando Ternário; Função scanf()
+| [08] | 11/04 | Funções
 | [09] | 18/04 | __1a. Avaliação__
 | [10] | 25/04 | Estruturas de Repetição: `for`, `while`, `do-while`
 | [11] | 02/05 | Funções definidas pelo usuário;

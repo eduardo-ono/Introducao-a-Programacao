@@ -39,20 +39,36 @@ int main()
 }
 ```
 
-## Modificadores de Tipos
+## Modificadores de Tipos Inteiros
 
 * short, long, unsigned
 
 <br>
 
-## Especificadores de Formatos
+## Especificadores de Formatos (Máscaras)
 
 * Utilizados dentro de strings
 
-| Tipo | Especificador de Formato (Máscara) |
+| Tipo | Especificador de Formato |
 | --- | :-: |
 | char | `%c`
 | int | `%d` ou `%i`
 | long | `%ld`
 | float | `%f`
 | double | `%lf`
+
+## Tipos Definidos pelo Usuário
+
+A palavra-chave `typedef` é utilizada para definição de um novo tipo:
+
+```
+typedef <tipo> <nome_do_tipo>;
+```
+
+* Exemplo:
+
+```c
+typedef enum = {false, true} boolean;
+```
+
+<br>
