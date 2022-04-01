@@ -24,11 +24,9 @@ Prof. Eduardo Ono
 
 * Download
 
-  * Fazer o download do arquivo instalador (escolha a versão desejada):
+  * Fazer o download do arquivo instalador:
 
     * [`tdm64-gcc-9.2.0.exe`](https://github.com/jmeubank/tdm-gcc/releases/download/v9.2.0-tdm64-1/tdm64-gcc-9.2.0.exe) (2019)<br><sub>SHA256: `8385fdd88e68a4b0401a853a636d24782f9a504bd4e5c61c88e900746efc3854`</sub>
-
-    * [`tdm64-gcc-5.1.0-2.exe`](https://app.box.com/s/dujmht3ld9l3a2zb0wt0uvx8afjedoip) (2015)<br><sub>SHA256: `e2cf5b4bae71356ef97381da352ac8ade7e5f93e61385f36f4baf97c2bc6a16b`</sub>
 
 * Instalação
 

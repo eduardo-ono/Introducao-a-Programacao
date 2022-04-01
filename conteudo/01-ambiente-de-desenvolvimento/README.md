@@ -32,6 +32,19 @@ Prof. Eduardo Ono
 
 * Para compilar e executar um programa no VS Code, clicar na combinação de teclas <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>N</kbd>. Requer a extensão `Code Runner` instalada.
 
+* Programa Teste - Deverá imprimir a versão do padrão utilizado pelo copilador (ex.: 201710).
+
+```c
+#include <stdio.h>
+
+int main()
+{
+    printf("%ld\n", __STDC_VERSION__);
+
+    return 0;
+}
+```
+
 <br>
 
 ## Gerenciamento de Projetos em C
