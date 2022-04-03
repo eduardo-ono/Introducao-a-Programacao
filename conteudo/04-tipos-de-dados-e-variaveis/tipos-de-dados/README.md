@@ -10,6 +10,7 @@ Prof. Eduardo Ono
 
 > _Declarar_ uma variável é informar o tipo e o nome no programa.
 
+<br>
 
 ## O Tipo de Dado Booleano
 

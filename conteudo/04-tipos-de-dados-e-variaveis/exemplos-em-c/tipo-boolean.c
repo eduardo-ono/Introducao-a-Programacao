@@ -1,11 +1,11 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-typedef enum {false, true} boolean;
+typedef enum { FALSE, TRUE } boolean;
 
 int main()
 {
-    boolean flag = true;
+    boolean flag = TRUE;
 
     printf("%d", flag);
 

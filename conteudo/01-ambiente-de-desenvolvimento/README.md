@@ -32,7 +32,7 @@ Prof. Eduardo Ono
 
 * Para compilar e executar um programa no VS Code, clicar na combinação de teclas <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>N</kbd>. Requer a extensão `Code Runner` instalada.
 
-* Programa Teste - Deverá imprimir a versão do padrão utilizado pelo copilador (ex.: 201710).
+* Programa Teste - Deverá imprimir a versão do padrão da linguagem C utilizado pelo copilador (ex.: 201710).
 
 ```c
 #include <stdio.h>
@@ -54,3 +54,9 @@ int main()
 | [![img](https://img.youtube.com/vi/IUylyTdX_8A/default.jpg)](https://www.youtube.com/watch?v=IUylyTdX_8A) | <sup>[Computer Science]</sup> [__How to Link 2 Source Code Files With C Programming__](https://www.youtube.com/watch?v=IUylyTdX_8A)<br> <sub>(4:00, YouTube, Fev/2018)</sub>
 
 <br>
+
+## Vídeos Recomendados
+
+| Thumb | Descrição |
+| :-: | --- |
+| [![img](https://img.youtube.com/vi/6l0uq3rwM2o/default.jpg)](https://www.youtube.com/watch?v=6l0uq3rwM2o) | <sup>[safesrc]</sup> [__Linus Torvalds pretende mudar a linguagem base do Linux__](https://www.youtube.com/watch?v=6l0uq3rwM2o)<br><sub>(7:51, YouTube, Fev/2022)</sub>

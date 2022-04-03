@@ -25,7 +25,7 @@ Introdução a algoritmos, lógica de programação e linguagem de programação
 | [05] | 21/03 | Álgebra dos Inteiros
 | [06] | 28/03 | Estruturas de Decisão: `if`, `if..else` e `switch`
 | [07] | 04/04 | Comando Ternário; Função scanf()
-| [08] | 11/04 | Funções
+| [08] | 11/04 | Exercícios de Fixação
 | [09] | 18/04 | __1a. Avaliação__
 | [10] | 25/04 | Estruturas de Repetição: `for`, `while`, `do-while`
 | [11] | 02/05 | Funções definidas pelo usuário;

@@ -72,11 +72,11 @@ Prof. Eduardo Ono
 
 ### Extensões do VS Code
 
-* #### Code Runner
+* #### [Jun Han] Code Runner
 
-  * Instalar a extensão `[Jun Han] Code Runner`.
+  * Instalar a extensão `Code Runner`.
 
-  * Configurar o `Code Runner`:
+  * Configurar a extensão `Code Runner`:
 
     1. Selecionar a extensão `Code Runner`;
 
@@ -88,7 +88,7 @@ Prof. Eduardo Ono
 
     1. Marcar a opção `Save File Before Run`.
 
-  * Supondo que o VS Code esteja instalado no diretório `P:\Apps\VSCode`, adicionar no arquivo `P:\Apps\VSCode\data\user-data\User\settings.json` as configurações a seguir:
+  * Supondo que o VS Code esteja instalado no diretório `P:\Apps\VSCode`, adicionar no arquivo `settings.json` as configurações a seguir:
 
     ```json
     "code-runner.executorMap": {
@@ -96,11 +96,11 @@ Prof. Eduardo Ono
     },
     ```
 
-* #### C/C++
+* #### [Microsoft] C/C++
 
-  * Instalar a extensão [Microsoft] `C/C++`.
+  * Instalar a extensão `C/C++`.
 
-  * Configurar o `C/C++`:
+  * Configurar a extensão `C/C++`:
 
     1. Adicionar no arquivo `settings.json` as configurações a seguir:
 
