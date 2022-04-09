@@ -73,4 +73,11 @@ int main()
 
 </details>
 
+## Exercício 3
+
+* (FUVEST-1999, adaptado) Um estudante terminou um trabalho que tinha "_n_" páginas. Para numerar todas essas páginas
+iniciando com a página 1, ele escreveu 270 algarismos. Escreva um programa para determinar o valor de "_n_".
+
+Solução: (n = 126)
+
 <br>
