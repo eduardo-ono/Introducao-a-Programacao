@@ -20,6 +20,12 @@ Prof. Eduardo Ono
 
 <br>
 
+## Conceitos
+
+> O comando ternário (` ? : `) é normalmente utilizado quando uma variável deve receber um dentre dois valores possíveis, resultado de um teste booleano.
+
+Exemplo: Instrução que determina o maior dentre dois valores.
+
 <table>
 <tr>
   <th>Código</th>
