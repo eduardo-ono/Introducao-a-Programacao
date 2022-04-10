@@ -35,6 +35,7 @@ Exemplo: Instrução que determina o maior entre dois valores.
 <tr>
 <td valign="top">
   <table cellspacing="10" cellpadding="10">
+  <tr><th>if..else</th></tr>
   <tr><td>
 
 ```c
@@ -54,6 +55,7 @@ int main()
 ```
 
   </td></tr>
+  <tr><th>Comando Ternário</th></tr>
   <tr><td>
 
 ```c
