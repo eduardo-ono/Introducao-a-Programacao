@@ -28,7 +28,7 @@ Exemplo: Instrução que determina o maior entre dois valores.
 
 <table>
 <tr>
-  <th align="center">Código</th>
+  <th>Código em C</th>
   <th align="center">Fluxograma</th>
 </tr>
 
