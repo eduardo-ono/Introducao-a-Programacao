@@ -8,11 +8,11 @@ Prof. Eduardo Ono
 
 ## Conceitos
 
+A instrução `switch` substitui a instrução `if..else` aninhada.
+
 <br>
 
 ## Exemplos
-
-
 
 ```c
 int main()
@@ -22,24 +22,23 @@ int main()
     printf("Entre com o numero do mes: );
     scanf("%d", &mes);
 
-    switch (mes)
-    {
-        case 1: printf("Janeiro"); break;
-        case 2: printf("Fevereiro"); break;
-        case 3: printf("Marco"); break;
-        // ...
-        case 12: printf("Dezembro"); break;
-        default: printf("Mes invalido!);
-    }
+    if (mes == 1) printf("Janeiro\n");
+    else if (mes == 2) printf("Fevereiro\n");
+    else if (mes == 3) printf("Marco\n");
+    // ...
+    else if (mes == 12) printf("Dezembro\n");
+    else printf("Mes invalido!\n");
+    
+    return 0;
 }
 ```
 
 <br>
 
-<table>
+<table width="100%">
 <tr>
-  <th>Título</th>
-  <th>Título</th>
+  <th align="center">Instruções</th>
+  <th align="center">Fluxograma</th>
 </tr>
 
 <tr>
@@ -55,13 +54,15 @@ int main()
 
       switch (mes)
       {
-          case 1: printf("Janeiro"); break;
-          case 2: printf("Fevereiro"); break;
-          case 3: printf("Marco"); break;
+          case 1: printf("Janeiro\n"); break;
+          case 2: printf("Fevereiro\n"); break;
+          case 3: printf("Marco\n"); break;
           // ...
-          case 12: printf("Dezembro"); break;
-          default: printf("Mes invalido!);
+          case 12: printf("Dezembro\n"); break;
+          default: printf("Mes invalido!\n");
       }
+
+      return 0;
   }
   ```
 
