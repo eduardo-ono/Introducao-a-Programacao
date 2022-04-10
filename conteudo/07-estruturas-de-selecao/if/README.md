@@ -6,9 +6,13 @@ Prof. Eduardo Ono
 
 <br>
 
+## Exemplos
+
+* Verifica se uma pessoa é menor de idade:
+
 <table>
 <tr>
-  <th>Instruções</th>
+  <th>Código em C</th>
   <th>Fluxograma</th>
 </tr>
 <tr>
@@ -19,8 +23,9 @@ Prof. Eduardo Ono
 
   int main()
   {
-      int idade = 27;
+      int idade;
 
+      scanf("%d", &idade);
       if (idade < 18)
           printf("Menor de idade.\n");
 
@@ -33,11 +38,13 @@ Prof. Eduardo Ono
 
   ```mermaid
   flowchart TD
-  INICIO([INÍCIO]) --> I1[Declaração e definição da variável 'idade']
-  I1 --> C{idade < 18 ?}
-  C --> |true| OUTPUT[Imprimir 'Menor de idade'.]
-  C --> |false| FIM([FIM])
-  OUTPUT --> FIM
+  INICIO([INÍCIO]) --> I1[Declarar e definir a variável 'idade']
+  I1 --> INPUT[/Entrar com a idade/]
+  INPUT --> C{idade < 18 ?}
+  C --> |true| OUTPUT[Imprimir 'Menor de idade']
+  OUTPUT --> RETURN[Retornar 0]
+  C --> |false| RETURN
+  RETURN --> FIM([FIM])
   ```
 
   </td>
