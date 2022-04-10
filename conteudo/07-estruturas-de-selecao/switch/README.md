@@ -35,9 +35,9 @@ int main()
 
 <br>
 
-<table width="100%">
+<table width=100%>
 <tr>
-  <th align="center">Instruções</th>
+  <th align="center">Código em C</th>
   <th align="center">Fluxograma</th>
 </tr>
 
