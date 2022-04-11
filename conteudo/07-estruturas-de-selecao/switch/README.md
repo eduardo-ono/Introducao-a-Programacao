@@ -22,7 +22,7 @@ Prof. Eduardo Ono
 
 ## Conceitos
 
-A instrução `switch` substitui a instrução `if..else` aninhada.
+> A instrução `switch` substitui a instrução `if..else` aninhada, quando o teste condicional envolve apenas valores inteiros (tipos `char`, `int` e `bool (C99)`).
 
 <br>
 
@@ -37,7 +37,7 @@ A instrução `switch` substitui a instrução `if..else` aninhada.
 <tr>
 <td valign="top">
   <table>
-  <tr><th>if-else "aninhado"</th></tr>
+  <tr><th align="left">if-else "aninhado"</th></tr>
   <tr><td>
 
 ```c
@@ -62,7 +62,7 @@ int main()
   </table>
 
   <table>
-  <tr><th>switch</th></tr>
+  <tr><th align="left">switch</th></tr>
   <tr><td>
 
   ```c
