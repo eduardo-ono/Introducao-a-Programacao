@@ -12,7 +12,7 @@
 <br>
 
 <h1 align="center">
-if..else
+Estrutura de Seleção "if..else"
 </h1>
 <h4 align="center">
 Prof. Eduardo Ono

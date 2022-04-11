@@ -12,7 +12,7 @@
 <br>
 
 <h1 align="center">
-if
+Estrutura de Seleção "if"
 </h1>
 <h4 align="center">
 Prof. Eduardo Ono
@@ -33,7 +33,7 @@ Prof. Eduardo Ono
 
 ```c
 if (teste_condicional == true)
-  instrução;
+    instrução;
 ```
 
 ou 
@@ -41,7 +41,7 @@ ou
 ```c
 if (teste_condicional == true)
 {
-  instrução;
+    instrução;
 }
 ```
 </td>
@@ -67,10 +67,10 @@ C --> |false| END
 ```c
 if (teste_condicinal == true)
 {
-  instrução_1;
-  instrução_2;
-  ...
-  instrução_n;
+    instrução_1;
+    instrução_2;
+    // ...
+    instrução_n;
 }
 ```
 

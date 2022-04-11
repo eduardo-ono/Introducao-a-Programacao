@@ -1,8 +1,22 @@
-> ##### Introdução à Programação > Conteúdo > Estruturas de Seleção
+<table>
+<tr>
+<td align="left" width="8000">
+  <small>Introdução à Programação > Conteúdo</small>
+</td>
+<td align="right">
+  <small>Atualizado&nbsp;em:&nbsp;10/04/2022</small>
+</td>
+</tr>
+</table>
 
-# switch
+<br>
 
+<h1 align="center">
+Estrutura de Seleção "switch"
+</h1>
+<h4 align="center">
 Prof. Eduardo Ono
+</h4>
 
 <br>
 
@@ -13,6 +27,18 @@ A instrução `switch` substitui a instrução `if..else` aninhada.
 <br>
 
 ## Exemplos
+
+<table>
+<tr>
+  <th>Código em C</th>
+  <th>Fluxograma</th>
+</tr>
+
+<tr>
+<td valign="top">
+  <table>
+  <tr><th>if-else "aninhado"</th></tr>
+  <tr><td>
 
 ```c
 int main()
@@ -32,17 +58,12 @@ int main()
     return 0;
 }
 ```
+  </td></tr>
+  </table>
 
-<br>
-
-<table width=100%>
-<tr>
-  <th align="center">Código em C</th>
-  <th align="center">Fluxograma</th>
-</tr>
-
-<tr>
-  <td valign="top">
+  <table>
+  <tr><th>switch</th></tr>
+  <tr><td>
 
   ```c
   int main()
@@ -66,8 +87,12 @@ int main()
   }
   ```
 
-  </td>
-  <td valign="top">
+  </td></tr>
+  </table>
+
+</td>
+
+<td>
 
   ```mermaid
   flowchart TD
@@ -90,6 +115,6 @@ int main()
   RETORNO[Retorno da função] --> FIM
   ```
 
-  </td>
+</td>
 </tr>
 </table>

@@ -12,7 +12,7 @@
 <br>
 
 <h1 align="center">
-Estruturas de Seleção (ou Decisão)
+Estruturas de Seleção
 </h1>
 <h4 align="center">
 Prof. Eduardo Ono
