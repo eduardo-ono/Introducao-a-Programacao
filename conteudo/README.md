@@ -26,26 +26,47 @@ Prof. Eduardo Ono
 
 ### [Tipos de Dados e Variáveis](./04-tipos-de-dados-e-variaveis/README.md)
 
-* Tipos de Dados
-
+* [Tipos de Dados](./04-tipos-de-dados-e-variaveis/tipos-de-dados/README.md)
 * [Variáveis](./04-tipos-de-dados-e-variaveis/variaveis/README.md)
 
 ### [Álgebra dos Inteiros](./05-algebra-dos-inteiros/README.md)
 
-### Lógica Matemática
+* Divisão Inteira
+
+### [Lógica Matemática](./06-logica-matematica/README.md)
+
+* Lógica Booleana
+* [Identificação de padrões](./06-logica-matematica/identificacao-de-padroes/README.md)
 
 ### [Estruturas de Seleção](./07-estruturas-de-selecao/README.md)
+
+* [if](./07-estruturas-de-selecao/if/README.md)
+* [if..else](./07-estruturas-de-selecao/if-else/README.md)
+* [Comando Ternário ( ? : )](./07-estruturas-de-selecao/comando-ternario/README.md)
+* [switch](./07-estruturas-de-selecao/switch/README.md)
 
 ### Estruturas de Repetição
 
 * for
-
 * while
-
 * do..while
 
 ### Funções Definidas pelo Usuário
 
 ### Ponteiros (Apontadores)
+
+### Passagem de Parâmetros para Funções por Valor e por Referência
+
+### Vetores/Arrays
+
+* Aritmética de Ponteiros
+
+### Matrizes
+
+### Strings
+
+### Arquivos
+
+### Recursão
 
 <br>

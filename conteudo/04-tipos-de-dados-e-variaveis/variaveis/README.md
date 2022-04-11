@@ -12,8 +12,6 @@ Prof. Eduardo Ono
 
 * A linguagem C aceita a declaração de várias variáveis na mesma instrução. A separação entre as variáveis é feita por uma vírgula.
 
-* Exemplos:
-
 ```c
 int main()
 {
@@ -22,18 +20,16 @@ int main()
 }
 ```
 
-> _Definir_ uma variável é atribuir um valor a uma variável. A atribuição é realizada através do operador `=`.
-
-* Exemplos:
+> _Definir_ uma variável é atribuir um valor a uma variável. A atribuição é realizada através do operador de atribuição `=`.
 
 ```c
 int main()
 {
-    // Declaração de variáveis
+    // Declaração de variáveis.
     int idade;
     float peso, altura;
 
-    // Atribuição de valores às variáveis
+    // Atribuição de valores a variáveis.
     idade = 56;
     peso = 74;
     altura = 1.72;
@@ -42,8 +38,6 @@ int main()
 ```
 
 * A linguagem C aceita a declaração e definição de uma variável na mesma instrução.
-
-* Exemplos:
 
 ```c
 int main()
