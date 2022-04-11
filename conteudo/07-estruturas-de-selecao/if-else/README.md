@@ -4,7 +4,7 @@
   <small>Introdução à Programação > Conteúdo</small>
 </td>
 <td align="right">
-  <small>Atualizado&nbsp;em:&nbsp;09/04/2022</small>
+  <small>Atualizado&nbsp;em:&nbsp;10/04/2022</small>
 </td>
 </tr>
 </table>
@@ -22,15 +22,14 @@ Prof. Eduardo Ono
 
 ## Conceitos
 
-> A instrução if..else é utilizada quando se quer desviar a execução das instruções mediante um teste booleano.
+> A instrução `if-else` é utilizada quando se quer desviar a execução das instruções mediante um teste booleano.
 
-Exemplo: Instrução que determina se um número inteiro é par ou ímpar.
+* Exemplo: Programa que verifica se um número inteiro é par ou ímpar.
 
 <table>
 <tr>
-<tr>
-    <th>Código em C</th>
-    <th>Fluxograma</th>
+  <th>Código em C</th>
+  <th>Fluxograma</th>
 </tr>
 
 <tr>
@@ -53,16 +52,16 @@ int main()
 
 </td>
 
-<td>
+<td valign="top">
 
 ```mermaid
 flowchart TD
-INICIO([INÍCIO]) --> DECLARACAO[Declaração da variável num]
-DECLARACAO --> INPUT[/Entrada do valor de num/]
+INICIO([INÍCIO]) --> DECLARACAO[Declarar a variável num]
+DECLARACAO --> INPUT[/Entrar com o valor de num/]
 INPUT --> C{'num' é par?}
-C --> |true| OUTPUT_TRUE[Imprime que o número é par]
-C --> |false| OUTPUT_FALSE[Imprime que o número é ímpar]
-OUTPUT_TRUE --> RETURN[Retorno da função]
+C --> |true| OUTPUT_TRUE[Imprimir 'O número é par']
+C --> |false| OUTPUT_FALSE[Imprimir 'O número é ímpar']
+OUTPUT_TRUE --> RETURN[Retornar 0]
 OUTPUT_FALSE --> RETURN
 RETURN --> FIM([FIM])
 ```
