@@ -4,7 +4,7 @@
   <small>Introdução à Programação > Conteúdo</small>
 </td>
 <td align="right">
-  <small>Atualizado&nbsp;em:&nbsp;10/04/2022</small>
+  <small>Atualizado&nbsp;em:&nbsp;11/04/2022</small>
 </td>
 </tr>
 </table>
@@ -26,7 +26,7 @@ Prof. Eduardo Ono
 
 <br>
 
-## Comandos das Estruturas de Seleção
+## Estruturas de Seleção em Linguagem C
 
 * ### [if](./if/README.md)
 

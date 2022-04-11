@@ -22,11 +22,13 @@ Prof. Eduardo Ono
 
 ## Conceitos
 
-> A instrução `switch` substitui a instrução `if..else` aninhada, quando o teste condicional envolve apenas valores inteiros (tipos `char`, `int` e `bool (C99)`).
+> A instrução `switch` substitui uma instrução `if..else` aninhada, quando o teste condicional envolve apenas um teste de igualdade entre valores inteiros (tipos `char` e `int`).
 
 <br>
 
 ## Exemplos
+
+* Programa que imprime o mês conforme o número correspondente:
 
 <table>
 <tr>
@@ -41,11 +43,13 @@ Prof. Eduardo Ono
   <tr><td>
 
 ```c
+#include <stdio.h>
+
 int main()
 {
     int mes;
 
-    printf("Entre com o numero do mes: );
+    printf("Entre com o numero do mes: ");
     scanf("%d", &mes);
 
     if (mes == 1) printf("Janeiro\n");
@@ -66,11 +70,13 @@ int main()
   <tr><td>
 
   ```c
+  #include <stdio.h>
+  
   int main()
   {
       int mes;
 
-      printf("Entre com o numero do mes: );
+      printf("Entre com o numero do mes: ");
       scanf("%d", &mes);
 
       switch (mes)
@@ -118,3 +124,9 @@ int main()
 </td>
 </tr>
 </table>
+
+* Exemplo de um programa que utiliza o `switch` mas não o comando `break`:
+
+
+
+<br>
