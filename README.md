@@ -23,8 +23,8 @@ Introdução a algoritmos, lógica de programação e linguagem de programação
 | [03] | 07/03 | Primeiro programa em C; Tabela ASCII
 | [04] | 14/03 | Tipos de Dados; Variáveis; Operadores Aritméticos
 | [05] | 21/03 | Álgebra dos Inteiros
-| [06] | 28/03 | Estruturas de Decisão: `if`, `if..else` e `switch`
-| [07] | 04/04 | Comando Ternário; Função scanf()
+| [06] | 28/03 | Estruturas de Seleção: `if`, `if..else`, Comando Ternário e `switch`
+| [07] | 04/04 | Identificação de padrões ("patterns")
 | [08] | 11/04 | Exercícios de Fixação
 | [09] | 18/04 | __1a. Avaliação__
 | [10] | 25/04 | Estruturas de Repetição: `for`, `while`, `do-while`
@@ -99,6 +99,6 @@ Introdução a algoritmos, lógica de programação e linguagem de programação
 | Thumb | Descrição |
 | :-: | --- |
 | [![img](https://img.youtube.com/vi/nuPZUUED5uk/default.jpg)](https://www.youtube.com/watch?v=nuPZUUED5uk) | __The Imitation Game__ (2014) / O Jogo da Imitação<br><sub>Trailer legendado: https://www.youtube.com/watch?v=YIkKbMcJL_4</sub>
-| [![img](https://img.youtube.com/vi/s4pVFLUlx8g/default.jpg)](https://youtu.be/s4pVFLUlx8g) | <sup>[Apple Explained]</sup> __History of Steve Jobs (Full Documentary)__<br><sub>(1:06:03, YouTube, Mar/2021)</sub>
+| [![img](https://img.youtube.com/vi/8WwLPep9xNg/default.jpg)](https://www.youtube.com/watch?v=oXGm9Vlfx4w) | [__The Man Who Knew Infinity__](https://www.youtube.com/watch?v=8WwLPep9xNg) (2015) / O Homem que Viu o Infinito<br><sub>(1:48:35, YouTube, Jan/2020)</sub>
 
 <br>
