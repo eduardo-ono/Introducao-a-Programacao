@@ -107,14 +107,6 @@ int main()
 
 ## O Tipo de Dado Booleano
 
-
-* Exemplo:
-
-```c
-typedef enum = {false, true} boolean;
-```
-
-
 Muitas linguagens de programação possuem o tipo "boolean", que aceita os valores `true` e `false`.
 A linguagem C padrão ANSI, de 1989, também conhecida como ANSI C ou C89, não traz o tipo booleano.
 
@@ -184,6 +176,8 @@ int main()
 
 ### Vídeos de Apoio
 
+| Thumb | Descrição |
+| :-: | --- |
 | [![img](https://img.youtube.com/vi/WC7dIAz4lT0/default.jpg)](https://www.youtube.com/watch?v=WC7dIAz4lT0) | <sup>[Programação Descomplicada Linguagem C]</sup> [[C99] Aula 107 - O tipo booleano](https://www.youtube.com/watch?v=WC7dIAz4lT0)<br><sub>(2:58, YouTube, Abr/2018)</sub>
 
 <br>
