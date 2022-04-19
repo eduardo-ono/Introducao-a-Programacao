@@ -6,9 +6,15 @@ Prof. Eduardo Ono
 
 <br>
 
+## Conceitos
+
+> Uma ___função___ é uma sub-rotina de um programa. Pode receber parâmetros (ou argumentos) e retornar um valor.
+
+<br>
+
 ## Tópicos
 
-### Função que limpa a tela de saída
+* Função que limpa a tela de saída:
 
 ```c
 void clrscr()
@@ -22,7 +28,7 @@ void clrscr()
 }
 ```
 
-* Exemplo de uso
+* Exemplo de uso:
 
 ```c
 #include <stdio.h>
@@ -39,6 +45,7 @@ int main()
   return 0;
 }
 
+// Limpa a tela de saída no Windows, Linux ou Mac.
 void clrscr()
 {
     #if defined(__linux__) || defined(__unix__) || defined(__APPLE__)

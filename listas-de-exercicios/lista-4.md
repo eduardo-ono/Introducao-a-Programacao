@@ -20,11 +20,6 @@ Prof. Eduardo Ono
 
 <br>
 
-
-Prof. Eduardo Ono
-
-<br>
-
 ## Exercício 1
 
 &nbsp;&nbsp;&nbsp;&nbsp;(Barra de progresso) Escreva um programa que peça ao usuário entrar com um número "real" entre 0 e 100, representando a porcentagem de uma barra de progresso. O programa deverá imprimir uma barra de progresso (0 - 10 "barras") e o percentual do progresso com uma casa decimal, conforme segue:

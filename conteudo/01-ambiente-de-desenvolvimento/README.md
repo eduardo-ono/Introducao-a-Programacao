@@ -6,25 +6,37 @@ Prof. Eduardo Ono
 
 <br>
 
-## Ambiente de Desenvolvimento para Programação em Linguagem C
+## Criação do Ambiente de Desenvolvimento para Programação em Linguagem C
 
 ### [Configuração de um Ambiente na Máquina Local](./local.md)
 
-* Compilador TDM-GCC
-* Editor Microsoft Visual Studio Code (VS Code)
+* Compilador: TDM-GCC
+* Editor: VS Code
 
 ### [Configuração de um Ambiente Portátil (Pen Drive ou unidade externa)](./pen-drive.md)
 
-* Compilador TDM-GCC Portátil
-* Editor Microsoft Visual Studio Code (VS Code) Portátil
+* Compilador: TDM-GCC portátil
+* Editor: VS Code portátil
 
 <br>
 
-## Configuração do VS Code
+## GCC
 
-### Snippets (Opcional)
+* [TDM-GCC](./gcc/README.md)
+
+<br>
+
+## Microsoft Visual Studio Code (VS Code)
+
+* [Configurações Básicas](./vscode/settings.md)
+
+* [Teclas de Atalho](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
 
 * [Snippets](./vscode/README.md#snippets)
+
+* [Extensões](./vscode/extensoes.md)
+
+* Temas
 
 <br>
 
@@ -52,6 +64,13 @@ int main()
 | Thumb | Descrição |
 | :-: | --- |
 | [![img](https://img.youtube.com/vi/IUylyTdX_8A/default.jpg)](https://www.youtube.com/watch?v=IUylyTdX_8A) | <sup>[Computer Science]</sup> [__How to Link 2 Source Code Files With C Programming__](https://www.youtube.com/watch?v=IUylyTdX_8A)<br> <sub>(4:00, YouTube, Fev/2018)</sub>
+| [![img](https://img.youtube.com/vi/m6RVY84_mQE/default.jpg)](https://www.youtube.com/watch?v=m6RVY84_mQE) | <sup>[Elatronion]</sup> [__How To Compile Your Own C/C++ Library (gcc/mingw)__](https://www.youtube.com/watch?v=m6RVY84_mQE)<br> <sub>(11:40, YouTube, Jul/2020)</sub>
+
+<br>
+
+## Variáveis de Ambiente
+
+* [Variáveis de Ambiente](./variaveis-de-ambiente/README.md)
 
 <br>
 

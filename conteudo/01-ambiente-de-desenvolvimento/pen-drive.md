@@ -126,3 +126,38 @@ Prof. Eduardo Ono
   ```
 
 <br>
+
+## Tópicos Avançados
+
+### WSL2
+
+#### Montar um drive externo no WSL2
+
+* Supondo que a letra "D" já esteja associada a uma unidade externa (ou pen drive):
+
+```bash
+sudo mkdir /mnt/d
+sudo mount -t drvfs D: /mnt/d 
+```
+
+####  "Desmontar" um drive externo (remover a unidade "D" de forma segura):
+
+```bash
+$ sudo umount /mnt/d
+```
+
+#### Para tornar a "montagem" de forma persistente
+
+* Abrir o arquivo `/etc/fstab` e adicionar a linha:
+
+```
+D: /mnt/d drvfs defaults 0 0
+```
+
+* Executar:
+
+```bash
+sudo mount -a
+```
+
+<br>

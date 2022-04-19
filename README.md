@@ -4,7 +4,7 @@ Prof. Eduardo Ono
 
 <br>
 
-<img src="./imagens/how-to-code-with-no-bugs.png" width="300px">
+<img src="./imagens/how-to-code-with-no-bugs.png" alt="img" width="300px">
 
 <br>
 
@@ -14,7 +14,7 @@ Introdução a algoritmos, lógica de programação e linguagem de programação
 
 <br>
 
-## Conteúdo Programático
+## [Conteúdo Programático](./conteudo/README.md)
 
 | Aula | Data | Descrição |
 | :-: | :-: | --- |
@@ -52,15 +52,24 @@ Introdução a algoritmos, lógica de programação e linguagem de programação
 
 ## Recursos
 
-* [Compilador C](./conteudo/01-ambiente-de-desenvolvimento/README.md)
+* Compilador: [GCC](./conteudo/01-ambiente-de-desenvolvimento/README.md)
 
-* [Microsoft Visual Studio Code (VS Code)](./conteudo/01-ambiente-de-desenvolvimento/README.md#microsoft-visual-studio-code-vs-code)
+* Editor/IDE: [Microsoft Visual Studio Code (VS Code)](./conteudo/01-ambiente-de-desenvolvimento/README.md#microsoft-visual-studio-code-vs-code)
 
   * https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf
 
 * [Tabela ASCII](https://theasciicode.com.ar/)
 
 * [Checklist](./conteudo/00-overview/checklist.md)
+
+<br>
+
+## Material de Apoio
+
+| Thumb | Descrição |
+| --- | --- |
+| [![img](https://img.youtube.com/vi/UPuOQBocY48/default.jpg)](https://youtu.be/UPuOQBocY48) | <sup>[Professor Rafael Ivo]</sup> [Programação em C](https://www.youtube.com/playlist?list=PLvat2X-KHJNZwUCeTeve_S1qqrBOWhaU9)<br><sub>(14 vídeos, YouTube, Nov/2020)</sub>
+| [![img](https://img.youtube.com/vi/cZRuFwzjJ8E/default.jpg)](https://youtu.be/cZRuFwzjJ8E) | <sup>[Bóson Treinamentos]</sup> [Curso de Programação em Linguagem C](https://www.youtube.com/playlist?list=PLucm8g_ezqNqzH7SM0XNjsp25AP0MN82R)<br><sub>(25 vídeos, YouTube, Jul/2021)</sub>
 
 <br>
 
@@ -80,6 +89,7 @@ Introdução a algoritmos, lógica de programação e linguagem de programação
 | :-: | --- |
 | <img src="./referencias/capas/BISPO_2011.jpg" alt="img" width="100px"> | <sup id="BISPO_2011">[BISPO_2011]</sup><br>BISPO, Carlos Alberto Ferreira; CASTANHEIRA, Luiz Batista; SOUZA FILHO, Oswaldo Melo; __Introdução à Lógica Matemática__, Cengage Learning, 2011[.](https://app.box.com/s/xfv52p02w3bi0s9pnvkf4not5eoaozh5)
 | <img src="./referencias/capas/REESE_2013.jpg" alt="img" width="100px"> | <sup id="REESE_2013">[REESE_2013]</sup><br>REESE, Richard. __Understanding and Using C Pointers__, O'Reilly Media, 2013[.](https://app.box.com/s/cbp98oofhokip0yki3gh7khz6zb6htgq)
+| <img src="./referencias/capas/SEDGEWICK_1990.jpg" alt="img" width="100px"> | <sup id="SEDGEWICK_1990">[SEDGEWICK_1990]</sup><br>SEDGEWICK, Robert. __Algorithms in C__, Addison-Wesley, 1990.
 
 <br>
 

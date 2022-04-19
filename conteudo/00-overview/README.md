@@ -8,6 +8,12 @@ Prof. Eduardo Ono
 
 ## Conceitos
 
+### Linguagens Compiladas vs Linguagens Interpretadas
+
+| Thumb | Descrição |
+| --- | --- |
+| [![img](https://img.youtube.com/vi/SNyh-cubxaU/default.jpg)](https://www.youtube.com/watch?v=SNyh-cubxaU) | <sup>[Fabio Akita]</sup> [Linguagem Compilada vs Interpretada \| Qual é melhor?](https://www.youtube.com/watch?v=SNyh-cubxaU)<br><sub>(1:11:44, YouTube, Abr/2022)</sub>
+
 ### Linguagem de Programação C
 
 #### Vídeos Recomendados
@@ -26,6 +32,14 @@ Prof. Eduardo Ono
 | Thumb | Descrição |
 | --- | --- |
 | [![thumb](https://img.youtube.com/vi/XOpC05ywEvQ/default.jpg)](https://youtu.be/XOpC05ywEvQ) | <sup>[IntroBooks Education]</sup> [Crash Course Computer Science Fundamentals](https://www.youtube.com/watch?v=XOpC05ywEvQ)<br><sub>(32:26, YouTube, Jul/2017)</sub>
+
+<br>
+
+## "Crash Courses"
+
+| Thumb | Descrição |
+| :-: | --- |
+| [![img](https://img.youtube.com/vi/87SH2Cn0s9A/default.jpg)](https://youtu.be/87SH2Cn0s9A) | <sup>[Bro Code]</sup> [C Full Course](https://www.youtube.com/watch?v=87SH2Cn0s9A)<br><sub>(4:05:00, YouTube, Out/2021)</sub>
 
 <br>
 

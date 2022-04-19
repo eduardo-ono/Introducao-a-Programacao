@@ -82,3 +82,11 @@ Prof. Eduardo Ono
   * No VS Code, instalar a extensão [Microsoft] `C/C++`.
   
 <br>
+
+## Variáveis de Ambiente
+
+```bat
+rundll32.exe sysdm.cpl,EditEnvironmentVariables
+```
+
+<br>

@@ -1,9 +1,16 @@
 *.exe
+*.o
+*.i
+*.s
 Thumbs.db
+.vscode/
+Alunos/
 Bibliografia/
 EaD/
+Figuras/
 mapas-mentais/*.mm
 mapas-mentais/*.svg
 Notas/
 Provas/
+[Tt]mp/
 Vídeos/
