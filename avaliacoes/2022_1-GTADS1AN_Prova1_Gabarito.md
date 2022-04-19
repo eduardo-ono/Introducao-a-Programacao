@@ -66,8 +66,8 @@ b) A cada endereço de memória está associado um espaço de 8 bits (= 1 byte) 
 
 ## Questão 3
 
-a) Podem ser acondicinados quaisquer múltiplos de 10 L, exceto L < 20 e L = 30.
-Não podem ser acondicinados qualquer quantidade não múltiplo de 10 L ou L < 20 ou L = 30.
+a) Podem ser acondicinados quaisquer múltiplos de 10 L, exceto para L < 20 e L = 30.
+Não podem ser acondicinados quaisquer quantidades não múltiplos de 10 L ou L < 20 ou L = 30.
 
 b)
 
@@ -78,29 +78,31 @@ int main()
 {
     int litros, rec100, rec50, rec20;
 
+    // Entrada
     printf("Entre com a quantidade de mel em litros: ");
     scanf("%d", &litros);
 
-    // Validação da entrada.
+    // Validação da entrada
     if (litros < 20 || litros == 30 || (litros % 10 != 0))
     {
         printf("Valor invalido!\n");
         return 1;
     }
 
+    // Processamento
     rec20 = 0;
     if (litros % 50 == 10 || litros % 50 == 30)
     {
         litros = litros - 40;
         rec20 = 2;
     }
-
     rec100 = litros / 100;
     litros = litros % 100;
     rec50 = litros / 50;
     litros = litros % 50;
     rec20 = rec20 + litros / 20;
 
+    // Saída
     printf("Recipientes de 100 L = %d\n", rec100);
     printf("Recipientes de  50 L = %d\n", rec50);
     printf("Recipientes de  20 L = %d\n", rec20);
@@ -136,10 +138,11 @@ int main()
 {
     float a, b, c;
 
+    // Entrada
     printf("Entre com os tres lados de um tri%cngulo: ", 131);
     scanf("%f %f %f", &a, &b, &c);
 
-    // Validação da entrada.
+    // Validação da entrada
     if ( !(a < b + c && b < a + c && c < a + b) )
     {
         printf("Valores inv%clidos!\n", 160);
