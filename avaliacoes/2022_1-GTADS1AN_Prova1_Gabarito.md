@@ -147,7 +147,7 @@ int main()
     }
 
     // A validação da entrada poderia ser também da seguinte forma:
-    if ((a > b + c) || (b > a + c) || (c > a + b))
+    if ((a >= b + c) || (b >= a + c) || (c >= a + b))
     {
         printf("Valores inv%clidos!\n", 160);
         return 1;
