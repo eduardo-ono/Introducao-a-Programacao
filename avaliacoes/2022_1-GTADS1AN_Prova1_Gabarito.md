@@ -12,7 +12,7 @@
 <br>
 
 <h1 align="center">
-Gabarito da 1a. Avaliação
+Gabarito da 1a. Avaliação - GTADS1AN
 </h1>
 <h4 align="center">
 Prof. Eduardo Ono
@@ -22,7 +22,7 @@ Prof. Eduardo Ono
 
 ## Questão 1
 
-* Executar o programa a seguir. Entrar com o valor de soma dos algarismos de seu RA:
+* Executar o programa a seguir. Entrar com o valor da soma dos algarismos de seu RA:
 
 ```c
 #include <stdio.h>
@@ -52,7 +52,7 @@ int main()
 }
 ```
 
-OBS.: O programa utiliza um laço de repetição (do..while) pois será utilizada na correção de todas as provas.
+OBS.: O programa utiliza um laço de repetição (do..while) pois será utilizado pelo Prof. na correção de todas as provas.
 
 <br>
 
@@ -113,21 +113,21 @@ int main()
 
 ## Questão 4
 
-a)
+a) Utilizando os Teoremas de DeMorgan:
 
 ```c
-if (a > b + c || b > a + c || c > a + b)
+if (a >= b + c || b >= a + c || c >= a + b)
     triangulo_existe = false;
 ```
 
-b)
+b) Negação direta utilizando o operador de negação `!`:
 
 ```c
 if ( !(a < b + c && b < a + c && c < a + b) )
     triangulo_existe = false;
 ```
 
-c)
+c) Programa completo. Foi pedido apenas o código indicado após o comentário `// c)` no programa:
 
 ```c
 #include <stdio.h>
@@ -153,7 +153,7 @@ int main()
         return 1;
     }
 
-    // O que foi pedido no item c)
+    // c)
     if (a == b && b == c)
         printf("Tri%cngulo equil%ctero\n", 131, 160);
     else
