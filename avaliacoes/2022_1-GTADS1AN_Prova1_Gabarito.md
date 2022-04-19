@@ -78,7 +78,7 @@ int main()
 {
     int litros, rec100, rec50, rec20;
 
-    printf("Entre com a qualqtidade de mel em litros: ");
+    printf("Entre com a quantidade de mel em litros: ");
     scanf("%d", &litros);
 
     // Validação da entrada.
