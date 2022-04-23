@@ -56,4 +56,26 @@ onde _s_ é o semi-perímetro do triângulo:
 <em>s</em> = (<em>a</em> + <em>b</em> + <em>c</em>) / 2
 </p>
 
-Escreva um programa em C que peça ao usuário entrar com os três lados de um triângulo qualquer. O programa deverá calcular e imprimir a área do triângulo através da fórmula de Heron.
+&nbsp;&nbsp;&nbsp;&nbsp;Escreva um programa em C que peça ao usuário entrar com os três lados de um triângulo qualquer. O programa deverá calcular e imprimir a área do triângulo através da fórmula de Heron.
+
+<br>
+
+## Exercício 6
+
+&nbsp;&nbsp;&nbsp;&nbsp;Escreva um programa que calcule as raízes da equação de segundo grau definida por:
+
+<p align="center">
+2x^2 - 10x + 12 = 0.
+</p>
+
+<br>
+
+## Exercício 7
+
+&nbsp;&nbsp;&nbsp;&nbsp;Escreva um programa que calcule as raízes da equação de segundo grau definida por:
+
+<p align="center">
+x^2 - 123456789x + 5 = 0.
+</p>
+
+<br>

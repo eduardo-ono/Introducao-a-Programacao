@@ -32,17 +32,23 @@ Prof. Eduardo Ono
 
 <br>
 
-## Especificadores de Formatos (Máscaras)
+## Especificadores de Formato (Máscaras)
 
-* Utilizados dentro de strings
+* Os especificadores de formato são utilizados dentro de strings.
 
 | Tipo | Especificador de Formato |
-| --- | :-: |
-| char | `%c`
-| int | `%d` ou `%i`
-| long | `%ld`
-| float | `%f`
-| double | `%lf`
+| --- | --- |
+| `char` | `%c`
+| `int` | `%d`<br>`%i`
+| `unsigned int` | `%u`
+| `short int` | 
+| `long` | `%ld`
+| `long long`<br>`long long int`| `%lld`
+| `float` | `%f`<br>`%e` (notação científica)<br>`%E` (notação científica)
+| `double` | `%lf`
+| `long double` | `%Lf`
+| "string" | `%s`
+| ponteiro | `%p`
 
 <br>
 

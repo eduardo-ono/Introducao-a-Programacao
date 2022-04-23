@@ -10,6 +10,8 @@ Prof. Eduardo Ono
 
 ### Linguagens Compiladas vs Linguagens Interpretadas
 
+#### Vídeos Recomendados
+
 | Thumb | Descrição |
 | --- | --- |
 | [![img](https://img.youtube.com/vi/SNyh-cubxaU/default.jpg)](https://www.youtube.com/watch?v=SNyh-cubxaU) | <sup>[Fabio Akita]</sup> [Linguagem Compilada vs Interpretada \| Qual é melhor?](https://www.youtube.com/watch?v=SNyh-cubxaU)<br><sub>(1:11:44, YouTube, Abr/2022)</sub>
@@ -25,7 +27,7 @@ Prof. Eduardo Ono
 
 <br>
 
-## Fundamentos
+## Fundamentos da Linguagem C
 
 ### Vídeos Recomendados
 
@@ -57,4 +59,4 @@ Prof. Eduardo Ono
 | --- | --- |
 | [![thumb](https://img.youtube.com/vi/Xfgc3ZDtwTQ/default.jpg)](https://youtu.be/Xfgc3ZDtwTQ "COMO EU ESTUDO PROGRAMAÇÃO?") | <sup>[Rafaella Ballerini]</sup> [COMO EU ESTUDO PROGRAMAÇÃO?](https://www.youtube.com/watch?v=Xfgc3ZDtwTQ)<br><sub>(24:30, YouTube, Jan/2021)</sub>
 
- <br>
+<br>

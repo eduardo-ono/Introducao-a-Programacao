@@ -23,6 +23,18 @@ resto = dividendo - divisor * (dividendo / divisor);
 
 ## Exercício 2
 
+&nbsp;&nbsp;&nbsp;&nbsp;Escreva um programa que peça para o usuário entrar com um número inteiro positivo qualquer. O número deve ser armazenado em uma variável inteira e o programa deverá escrever o número na vertical.
+
+* Exemplo:
+
+| Entrada | Saída |
+| --- | --- |
+| 123 | 1<br>2<br>3|
+
+<br>
+
+## Exercício 3
+
 * A brincadeira de "Pedra, Papel e Tesoura" é bastante antiga e muito conhecida. Porém, é possível aproveitar a ideia dessa brincadeira na criação de um novo joguinho de computador com cinco opções e não apenas três. Nesse joguinho, um jogador escolhe uma "mão" entre cinco opções, que serão representadas pelos números 0, 1, 2, 3 e 4 e o outro jogador escolhe uma outra "mão". A figura a seguir define as regras de quem será o vencedor. Por exemplo, se um jogador escolher o núemro e e o outro jogador escolher o número 2, o vencedor será o jogador que escolheu o número 2, pois existe na figura uma seta no sentido de 2 para 4.
 
 <p align="center">
@@ -73,10 +85,11 @@ int main()
 
 </details>
 
-## Exercício 3
+<br>
 
-* (FUVEST-1999, adaptado) Um estudante terminou um trabalho que tinha "_n_" páginas. Para numerar todas essas páginas
-iniciando com a página 1, ele escreveu 270 algarismos. Escreva um programa para determinar o valor de "_n_".
+## Exercício 4
+
+* (FUVEST-1999, adaptado) Um estudante terminou um trabalho que tinha "_n_" páginas. Para numerar todas essas páginas iniciando com a página 1, ele escreveu 270 algarismos. Escreva um programa para determinar o valor de "_n_".
 
 Solução: (n = 126)
 

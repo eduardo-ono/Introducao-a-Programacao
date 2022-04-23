@@ -11,11 +11,13 @@ Prof. Eduardo Ono
 ### [Configuração de um Ambiente na Máquina Local](./local.md)
 
 * Compilador: TDM-GCC
+
 * Editor: VS Code
 
 ### [Configuração de um Ambiente Portátil (Pen Drive ou unidade externa)](./pen-drive.md)
 
 * Compilador: TDM-GCC portátil
+
 * Editor: VS Code portátil
 
 <br>
@@ -71,6 +73,16 @@ int main()
 ## Variáveis de Ambiente
 
 * [Variáveis de Ambiente](./variaveis-de-ambiente/README.md)
+
+<br>
+
+## Editor de Fluxogramas
+
+* [Flowgorithm](http://www.flowgorithm.org)
+
+| Thumb | Descrição |
+| :-: | --- |
+| [![img](https://img.youtube.com/vi/OMLer8mGhaw/default.jpg)](https://www.youtube.com/watch?v=OMLer8mGhaw) | <sup>[Programe seu futuro]</sup> [__Como baixar, instalar e testar a ferramenta Flowgorithm para testar seus fluxogramas?__](https://www.youtube.com/watch?v=OMLer8mGhaw)<br> <sub>(24:43, YouTube, Nov/2021)</sub>
 
 <br>
 

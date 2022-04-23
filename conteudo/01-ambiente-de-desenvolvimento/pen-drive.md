@@ -127,6 +127,15 @@ Prof. Eduardo Ono
 
 <br>
 
+## Tópicos Adicionais
+
+### Proteger o Pen Drive contra vírus:
+
+* No terminal, criar o diretório `autorun.inf`;
+* Entrar no diretório `autorun.inf` e criar o (sub) diretório `.\con\`.
+
+<br>
+
 ## Tópicos Avançados
 
 ### WSL2

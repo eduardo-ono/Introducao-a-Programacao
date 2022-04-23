@@ -1,10 +1,15 @@
-# Introdução à Programação
-
+<h1 align="center">
+Introdução à Programação
+</h1>
+<h4 align="center">
 Prof. Eduardo Ono
+</h4>
 
 <br>
 
-<img src="./imagens/how-to-code-with-no-bugs.png" alt="img" width="300px">
+<p align="center">
+  <img src="./imagens/how-to-code-with-no-bugs.png" alt="img" width="300px">
+</p>
 
 <br>
 
@@ -52,6 +57,8 @@ Introdução a algoritmos, lógica de programação e linguagem de programação
 
 ## Recursos
 
+* Editor de Fluxogramas: [Flowgorithm](./conteudo/01-ambiente-de-desenvolvimento/README.md)
+
 * Compilador: [GCC](./conteudo/01-ambiente-de-desenvolvimento/README.md)
 
 * Editor/IDE: [Microsoft Visual Studio Code (VS Code)](./conteudo/01-ambiente-de-desenvolvimento/README.md#microsoft-visual-studio-code-vs-code)
@@ -97,10 +104,11 @@ Introdução a algoritmos, lógica de programação e linguagem de programação
 
 | Thumb | Título |
 | --- | --- |
-| [![thumb](https://img.youtube.com/vi/noXqEGIZak8/default.jpg)](https://youtu.be/noXqEGIZak8) | <sup>[Glauco Copeck XYZ]</sup> [COMO ESTUDAR E APRENDER - Prof Pier](https://www.youtube.com/watch?v=noXqEGIZak8)<br><sub>(23:23, YouTube, Jan/2020)</sub>
-| [![thumb](https://img.youtube.com/vi/i_STkDJ3z5s/default.jpg)](https://youtu.be/i_STkDJ3z5s) | <sup>[CACiC FCT-Unesp]</sup> [Bate-papo com Fabio Akita](https://www.youtube.com/watch?v=i_STkDJ3z5s)<br><sub>(1:42:40, YouTube, Mar/2022)</sub>
-| [![thumb](https://img.youtube.com/vi/ED2aoLnr0oA/default.jpg)](https://youtu.be/ED2aoLnr0oA) | <sup>[Bóson Treinamentos]</sup> [O que é preciso para ser um bom programador de computadores?](https://www.youtube.com/watch?v=ED2aoLnr0oA)<br><sub>(19:03, YouTube, Mai/2017)</sub>
-| [![thumb](https://img.youtube.com/vi/2xoJjEgecZM/default.jpg)](https://youtu.be/2xoJjEgecZM) | <sup>[Filipe Deschamps]</sup> [50 Dicas Essenciais Que Todo Programador Deveria Saber](https://www.youtube.com/watch?v=2xoJjEgecZM)<br><sub>(11:10, YouTube, Out/2020)</sub>
+| [![img](https://img.youtube.com/vi/noXqEGIZak8/default.jpg)](https://youtu.be/noXqEGIZak8) | <sup>[Glauco Copeck XYZ]</sup> [COMO ESTUDAR E APRENDER - Prof Pier](https://www.youtube.com/watch?v=noXqEGIZak8)<br><sub>(23:23, YouTube, Jan/2020)</sub>
+| [![img](https://img.youtube.com/vi/oUPaJxk6TZ0/default.jpg)](https://youtu.be/oUPaJxk6TZ0) | <sup>[Fabio Akita]</sup><br>[Guia DEFINITIVO de Aprendendo a Aprender \| A maior BRONCA da sua vida [RATED R]](https://www.youtube.com/watch?v=oUPaJxk6TZ0)<br><sub>(1:04:37, YouTube, Abr/2020)</sub>
+| [![img](https://img.youtube.com/vi/i_STkDJ3z5s/default.jpg)](https://youtu.be/i_STkDJ3z5s) | <sup>[CACiC FCT-Unesp]</sup> [Bate-papo com Fabio Akita](https://www.youtube.com/watch?v=i_STkDJ3z5s)<br><sub>(1:42:40, YouTube, Mar/2022)</sub>
+| [![img](https://img.youtube.com/vi/ED2aoLnr0oA/default.jpg)](https://youtu.be/ED2aoLnr0oA) | <sup>[Bóson Treinamentos]</sup> [O que é preciso para ser um bom programador de computadores?](https://www.youtube.com/watch?v=ED2aoLnr0oA)<br><sub>(19:03, YouTube, Mai/2017)</sub>
+| [![img](https://img.youtube.com/vi/2xoJjEgecZM/default.jpg)](https://youtu.be/2xoJjEgecZM) | <sup>[Filipe Deschamps]</sup> [50 Dicas Essenciais Que Todo Programador Deveria Saber](https://www.youtube.com/watch?v=2xoJjEgecZM)<br><sub>(11:10, YouTube, Out/2020)</sub>
 
 <br>
 

@@ -1,10 +1,10 @@
 <table>
 <tr>
 <td align="left" width="8000">
-    <small>Introdução à Programação > Conteúdo > Ambiente de Desenvolvimento</small>
+  <small>Introdução à Programação > Conteúdo > Ambiente de Desenvolvimento</small>
 </td>
 <td align="right">
-    <small>Atualizado&nbsp;em:&nbsp;17/04/2022</small>
+  <small>Atualizado&nbsp;em:&nbsp;17/04/2022</small>
 </td>
 </tr>
 </table>
@@ -28,7 +28,7 @@ Prof. Eduardo Ono
 rundll32.exe sysdm.cpl,EditEnvironmentVariables
 ```
 
-* OBS.: Para editar as variáveis de ambiente do sistema, executar como Adminsitrador: administrativos):
+* OBS.: Para editar as variáveis de ambiente do sistema, executar o comando com Adminsitrador.
 
 <br>
 
