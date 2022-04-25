@@ -22,6 +22,6 @@ Prof. Eduardo Ono
 
 | Projeto | Descrição | Preview
 | --- | --- | :-: |
-| [turorial-for](./tutorial-for/) | Simulador de execução da instrução `for`. Somente para fins didáticos. | <img src="./tutorial-for/captura.gif" alt="img" width="100px">
+| [turorial-for](./tutorial-for/) | Simulador de execução da instrução `for`. Somente para fins didáticos. | <img src="./tutorial-for/captura.gif" alt="img" width="150px">
 
 <br>
