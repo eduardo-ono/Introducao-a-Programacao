@@ -4,7 +4,7 @@
   <small>Introdução à Programação</small>
 </td>
 <td align="right">
-  <small>Atualizado&nbsp;em:&nbsp;24/04/2022</small>
+  <small>Atualizado&nbsp;em:&nbsp;25/04/2022</small>
 </td>
 </tr>
 </table>
