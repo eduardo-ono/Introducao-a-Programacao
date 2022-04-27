@@ -20,8 +20,12 @@ Prof. Eduardo Ono
 
 <br>
 
+## Tutoriais em Linguagem C
+
 | Projeto | Descrição | Preview
 | --- | --- | :-: |
-| [turorial-for](./tutorial-for/) | Simulador de execução da instrução `for`. Somente para fins didáticos. | <img src="./tutorial-for/captura.gif" alt="img" width="150px">
+| [Conversor Decimal-Binário](./conversor-decimal-binario/) | Conversor decimal para binário com representação 32-bit na memória. | <img src="./tutoriais/conversor-decimal-binario/conversor-decimal-binario.gif" alt="img" width="150px">
+| [Simulador de Instruções `for`](./simulador-for/) | Simulador de execução da instrução `for`. Somente para fins didáticos. | <img src="./tutoriais/simulador-for/captura.gif" alt="img" width="150px">
+
 
 <br>

@@ -22,7 +22,7 @@ Prof. Eduardo Ono
 
 <table>
 <tr>
-  <th>Objetivo</th>
+  <th>Objetivo do programa</th>
   <th>Código</th>
   <th>Preview</th>
 </tr>
