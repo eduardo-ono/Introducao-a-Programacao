@@ -27,5 +27,6 @@ Prof. Eduardo Ono
 | [Conversor Decimal-Binário](./conversor-decimal-binario/) | Conversor decimal para binário de 32-bit com representação na memória. | <img src="./tutoriais/conversor-decimal-binario/conversor-decimal-binario.gif" alt="img" width="150px">
 | [Animação de Instruções "_for_"](./simulador-for/) | Simula a execução de instruções "_for_". Para fins didáticos. | <img src="./animacao-instrucao-for/img/preview.gif" alt="img" width="150px">
 | [Animação de Instruções "_while_"](./simulador-for/) | Simula a execução de instruções "_while_". Para fins didáticos. | <img src="./animacao-instrucao-while/img/preview-2.gif" alt="img" width="150px">
+| [Animação de Instruções "_do-while_"](./simulador-for/) | Simula a execução de instruções "_do-while_". Para fins didáticos. | <img src="./animacao-instrucao-do-while/img/preview-2.gif" alt="img" width="150px">
 
 <br>

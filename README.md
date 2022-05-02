@@ -97,6 +97,7 @@ Introdução a algoritmos, lógica de programação e linguagem de programação
 | <img src="./referencias/capas/BISPO_2011.jpg" alt="img" width="100px"> | <sup id="BISPO_2011">[BISPO_2011]</sup><br>BISPO, Carlos Alberto Ferreira; CASTANHEIRA, Luiz Batista; SOUZA FILHO, Oswaldo Melo; __Introdução à Lógica Matemática__, Cengage Learning, 2011[.](https://app.box.com/s/xfv52p02w3bi0s9pnvkf4not5eoaozh5)
 | <img src="./referencias/capas/REESE_2013.jpg" alt="img" width="100px"> | <sup id="REESE_2013">[REESE_2013]</sup><br>REESE, Richard. __Understanding and Using C Pointers__, O'Reilly Media, 2013[.](https://app.box.com/s/cbp98oofhokip0yki3gh7khz6zb6htgq)
 | <img src="./referencias/capas/SEDGEWICK_1990.jpg" alt="img" width="100px"> | <sup id="SEDGEWICK_1990">[SEDGEWICK_1990]</sup><br>SEDGEWICK, Robert. __Algorithms in C__, Addison-Wesley, 1990.
+| <img src="./referencias/capas/TOCCI-11e_2011.jpg" alt="img" width="100px"> | <sup id="TOCCI-11e_2011">[TOCCI-11e_2011]</sup><br>TOCCI, Ronald J. __Sistemas Digitais: Princípios e Aplicações, 11. ed.__, São Paulo: Pearson Prentice Hall, 2011.
 
 <br>
 
