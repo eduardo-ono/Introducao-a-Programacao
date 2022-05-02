@@ -1,6 +1,6 @@
 /*
-Programa      : dec2bin.c
-Versão        : 1.0
+Programa      : dec2bin
+Versão        : 02
 Descrição     : Conversor decimal para binário.
 Desenvolvedor : Eduardo Ono
 Criado em     : 26/04/2022
@@ -12,18 +12,13 @@ Comentários   : Utiliza apenas deslocamento de bits.
 
 int main()
 {
-    int num;
+    int num, i;
 
-    printf("Entre com um numero inteiro positivo: ");
+    printf("Entre com um número inteiro: ");
     scanf("%d", &num);
 
-    for (int i = 31; i >= 0; i--)
-    {
-        if ((i - 3) % 4 == 0)
-            printf(" ");
+    for (i = 8 * sizeof num - 1; i >= 0; i--)
         printf("%d", (num >> i) & 1);
-
-    }
     printf("\n");
 
     return 0;
