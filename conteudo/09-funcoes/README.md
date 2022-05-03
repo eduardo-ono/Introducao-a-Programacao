@@ -24,11 +24,11 @@ Prof. Eduardo Ono
 
 > Uma ___função___ é uma sub-rotina de um programa. Pode receber parâmetros (ou argumentos) e retornar um valor.
 
-> Para declarar uma função é necessário informar o tipo retorno, o nome da função e os parâmetros recebidos pela função.
+> Para declarar uma função é necessário informar o tipo do retorno, o nome da função e os parâmetros recebidos pela função.
 
-> Na linguagem C, funções que não retornam nenhum valor são declaradas com o tipo de retorno `void`, e não requerem o uso do `return`. Contudo, o `return` (sem valor do retorno) pode ser utilizado para encerrar a execução da função.
+> Na linguagem C, funções que não retornam nenhum valor são declaradas com o tipo de retorno `void`, e não requerem o uso do `return`. Contudo, o `return` (sem o valor do retorno) pode ser utilizado para encerrar a execução da função.
 
-> Em algumas linguagens de programação (por exemplo, Pascal), funções que não retornam nenhum valor são chamadas de _procedimentos_,
+> Em algumas linguagens de programação (por exemplo, Pascal), uma funções que não retorna nenhum valor é chamada de _procedimento_.
 
 <br>
 
