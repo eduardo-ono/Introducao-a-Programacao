@@ -44,7 +44,7 @@ int main()
         "",
         "        i++;", // instrucao2
         "",
-        "    } while (  i < 10  )",
+        "    } while (  i < 10  );",
         "",
         "    return 0;", // return0
         "}",
