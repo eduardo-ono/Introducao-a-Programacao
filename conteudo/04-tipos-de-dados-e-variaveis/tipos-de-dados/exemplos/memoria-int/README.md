@@ -24,7 +24,7 @@ Prof. Eduardo Ono
 
 * Copiar os arquivos `console.h` (arquivo cabeçalho) e `console.c` (biblioteca) para o mesmo diretório onde se encontra o programa.
 
-* Incluir no programa os arquivos `console.h` e `console.c`. Como estarão no mesmo diretório, não é necessári especificar o "path":
+* Incluir no programa os arquivos `console.h` e `console.c`. Como estarão no mesmo diretório, não é necessário especificar o "path":
 
 ```c
 #include "console.h"
@@ -33,7 +33,7 @@ Prof. Eduardo Ono
 
 * Adaptar as instruções `int num;` conforme desejado, por exemplo, para `char num;`, `float num;`, `double num;`, etc.
 
-* Adaptar a instrução `scanf("%d", &num);` conforme o tipo escolhido para a variável `num`, por exemplo, `scanf("%f", &num);` se o tipo escolhido para num for `float`.
+* Adaptar a instrução `scanf("%d", &num);` conforme o tipo escolhido para a variável `num`, por exemplo, `scanf("%f", &num);` se `num` for do tipo `float`.
 
 <br>
 

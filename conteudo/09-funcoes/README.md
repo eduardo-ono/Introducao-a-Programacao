@@ -123,7 +123,7 @@ void clrscr()
 }
 ```
 
-&nbsp;&nbsp;&nbsp;&nbsp;OBS.: A função `system()` executa um comando do sistema operacional. Os comandos `clear` e `cls` são específicos do sistema operacional Linux e Windows, respectivamente.
+&nbsp;&nbsp;&nbsp;&nbsp;OBS.: A função `system()` executa um comando do sistema operacional. Os comandos `clear` e `cls` são específicos das plataformas Linux e Windows, respectivamente.
 
 * Exemplo de uso da função `clrscr()` ("clear screen"):
 
