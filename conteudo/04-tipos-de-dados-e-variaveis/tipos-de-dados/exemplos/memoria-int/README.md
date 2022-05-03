@@ -39,9 +39,9 @@ Prof. Eduardo Ono
 
 ## Sugestão de valores a serem testados
 
-| Tipo | Valor |
+| Tipo | Valores |
 | :-: | :-: |
-| char | 1 127 128 -1 |
-| int | 1 255 256 1048576 1073741824 -1 -2 |
-| float | 1 255 256 -1 |
-| double | 1 255 256 -1 |
+| char | 1<br>127<br>128<br>-1 |
+| int | 1<br>255<br>256<br>1.048.576<br>1.073.741.824<br>-1<br>-2 |
+| float | 1<br>255<br>256<br>-1 |
+| double | 1<br>255<br>256<br>-1 |
