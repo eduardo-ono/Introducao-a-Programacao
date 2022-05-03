@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created by Flowgorithm 2.30.3 (http://flowgorithm.org) -->
+
+<svg xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" version="1.1" width="1500" height="1850">
+	<g>
+		<polyline fill="none" stroke="#404040" stroke-width="6" stroke-dasharray="none" points="725,125 725,186"/>
+		<polygon fill="#404040" stroke="none" points="725,200 738,175 711,175"/>
+		<polyline fill="none" stroke="#404040" stroke-width="6" stroke-dasharray="none" points="725,1650 725,1711"/>
+		<polygon fill="#404040" stroke="none" points="725,1725 738,1700 711,1700"/>
+		<g>
+			<path fill="#F0D0FF" stroke="#9070A0" stroke-width="3" stroke-dasharray="none" d="M 625,25 A 50,50 0 0,0 625,125 L 825,125 A 50,50 0 0,0 825,25 Z"/>
+			<text x="725" y="40" fill="#000000" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+				<tspan x="725" dy="50" unicode-bidi="embed">Principal</tspan>
+			</text>
+		</g>
+		<g>
+			<path fill="#F0D0FF" stroke="#9070A0" stroke-width="3" stroke-dasharray="none" d="M 625,1725 A 50,50 0 0,0 625,1825 L 825,1825 A 50,50 0 0,0 825,1725 Z"/>
+			<text x="725" y="1740" fill="#000000" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+				<tspan x="725" dy="50" unicode-bidi="embed">Fim</tspan>
+			</text>
+		</g>
+		<g>
+			<polyline fill="none" stroke="#404040" stroke-width="6" stroke-dasharray="none" points="725,425 725,486"/>
+			<polygon fill="#404040" stroke="none" points="725,500 738,475 711,475"/>
+			<polyline fill="none" stroke="#404040" stroke-width="6" stroke-dasharray="none" points="725,600 725,661"/>
+			<polygon fill="#404040" stroke="none" points="725,675 738,650 711,650"/>
+			<polyline fill="none" stroke="#404040" stroke-width="6" stroke-dasharray="none" points="725,1250 725,1311"/>
+			<polygon fill="#404040" stroke="none" points="725,1325 738,1300 711,1300"/>
+			<polyline fill="none" stroke="#404040" stroke-width="6" stroke-dasharray="none" points="725,1475 725,1536"/>
+			<polygon fill="#404040" stroke="none" points="725,1550 738,1525 711,1525"/>
+			<g>
+				<path fill="#FFFFD0" stroke="#A0A070" stroke-width="3" stroke-dasharray="none" d="M 400,200 L 400,425 L 1050,425 L 1050,200 Z"/>
+				<polyline fill="none" stroke="#A0A070" stroke-width="3" stroke-dasharray="none" points="400,225 1050,225"/>
+				<polyline fill="none" stroke="#A0A070" stroke-width="3" stroke-dasharray="none" points="425,200 425,425"/>
+				<text x="737" y="240" fill="#000000" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="737" dy="50" unicode-bidi="embed">Real salario,</tspan>
+					<tspan x="737" dy="50" unicode-bidi="embed"> aumentoSalarial,</tspan>
+					<tspan x="737" dy="50" unicode-bidi="embed"> percentualAumentoSalarial</tspan>
+				</text>
+			</g>
+			<g>
+				<path fill="#D0E0FF" stroke="#7080A0" stroke-width="3" stroke-dasharray="none" d="M 575,500 L 525,600 L 875,600 L 925,500 Z"/>
+				<text x="725" y="515" fill="#000000" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="725" dy="50" unicode-bidi="embed">Ler salario</tspan>
+				</text>
+			</g>
+			<g>
+				<polyline fill="none" stroke="#404040" stroke-width="6" stroke-dasharray="none" points="950,800 1175,800 1175,961"/>
+				<polygon fill="#404040" stroke="none" points="1175,975 1188,950 1161,950"/>
+				<polyline fill="none" stroke="#404040" stroke-width="6" stroke-dasharray="none" points="1175,1125 1175,1225 763,1225"/>
+				<polygon fill="#404040" stroke="none" points="750,1225 774,1238 774,1211"/>
+				<polyline fill="none" stroke="#404040" stroke-width="6" stroke-dasharray="none" points="500,800 325,800 325,961"/>
+				<polygon fill="#404040" stroke="none" points="325,975 338,950 311,950"/>
+				<polyline fill="none" stroke="#404040" stroke-width="6" stroke-dasharray="none" points="325,1125 325,1225 686,1225"/>
+				<polygon fill="#404040" stroke="none" points="700,1225 675,1211 675,1238"/>
+				<g>
+					<path fill="#FFD0D0" stroke="#A07070" stroke-width="3" stroke-dasharray="none" d="M 725,675 L 475,800 L 725,925 L 975,800 Z"/>
+					<text x="725" y="765" fill="#000000" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+						<tspan x="725" dy="50" unicode-bidi="embed">salario &gt; 1500.00</tspan>
+					</text>
+				</g>
+				<g>
+					<path fill="#FFFFD0" stroke="#A0A070" stroke-width="3" stroke-dasharray="none" d="M 875,975 L 875,1125 L 1475,1125 L 1475,975 Z"/>
+					<text x="1175" y="990" fill="#000000" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+						<tspan x="1175" dy="50" unicode-bidi="embed">percentualAumentoSalarial</tspan>
+						<tspan x="1175" dy="50" unicode-bidi="embed"> &lt;- 0.15</tspan>
+					</text>
+				</g>
+				<g>
+					<path fill="#FFFFD0" stroke="#A0A070" stroke-width="3" stroke-dasharray="none" d="M 25,975 L 25,1125 L 625,1125 L 625,975 Z"/>
+					<text x="325" y="990" fill="#000000" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+						<tspan x="325" dy="50" unicode-bidi="embed">percentualAumentoSalarial</tspan>
+						<tspan x="325" dy="50" unicode-bidi="embed"> &lt;- 0.35</tspan>
+					</text>
+				</g>
+				<ellipse cx="725" cy="1225" rx="25" ry="25" fill="#FFD0D0" stroke="#A07070" stroke-width="3"/>
+				<text x="1087" y="715" fill="#000000" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="1087" dy="50" unicode-bidi="embed">Verdade</tspan>
+				</text>
+				<text x="387" y="715" fill="#000000" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="387" dy="50" unicode-bidi="embed">Falso</tspan>
+				</text>
+			</g>
+			<g>
+				<path fill="#FFFFD0" stroke="#A0A070" stroke-width="3" stroke-dasharray="none" d="M 425,1325 L 425,1475 L 1025,1475 L 1025,1325 Z"/>
+				<text x="725" y="1340" fill="#000000" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="725" dy="50" unicode-bidi="embed">aumentoSalarial &lt;-</tspan>
+					<tspan x="725" dy="50" unicode-bidi="embed"> percentualAumentoSalarial</tspan>
+				</text>
+			</g>
+			<g>
+				<path fill="#D0FFD0" stroke="#70A070" stroke-width="3" stroke-dasharray="none" d="M 500,1550 L 450,1650 L 950,1650 L 1000,1550 Z"/>
+				<text x="725" y="1565" fill="#000000" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="725" dy="50" unicode-bidi="embed">Escrever &quot;kjhbkjbkj&quot;</tspan>
+				</text>
+			</g>
+		</g>
+	</g>
+</svg>

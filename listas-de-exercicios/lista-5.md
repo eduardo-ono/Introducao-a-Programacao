@@ -4,7 +4,7 @@
     <small>Introdução à Programação > Listas de Exercícios</small>
 </td>
 <td align="right">
-    <small>Atualizado&nbsp;em:&nbsp;17/04/2022</small>
+    <small>Atualizado&nbsp;em:&nbsp;03/05/2022</small>
 </td>
 </tr>
 </table>
@@ -35,14 +35,14 @@ Prof. Eduardo Ono
 
 <br>
 
-## Exercício
+## Exercício 2
 
 &nbsp;&nbsp;&nbsp;&nbsp;[SEDWICK_1990, _adaptado_] Escreva um programa que peça ao usuário para entrar com uma fração no formato _a_/_b_. O programa deverá simplificar a fração, se possível.
 
-* Exemplos:
+* Exemplo:
 
 | Entrada | Saída |
-| --- | :-: |
+| :-: | :-: |
 | 5/10 | 1/2
 | 180/100 | 9/5
 | 18/3 | 6
@@ -51,3 +51,21 @@ Prof. Eduardo Ono
 | 0/0 | Indeterminado.
 
 <br>
+
+## Exercícios do livro [DEITEL-6e_2011]
+
+* 4.11 (pág. 109)
+
+* 4.12 (pág. 109)
+
+* 4.13 (pág. 109) 
+
+* 4.20 (pág. 110)
+
+* 4.27 (pág. 110)
+
+* 4.29 (pág. 111)
+
+<br>
+
+[DEITEL-6e_2011]: ../README.md#DEITEL-6e_2011

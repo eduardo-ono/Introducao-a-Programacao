@@ -32,6 +32,29 @@ Prof. Eduardo Ono
 
 <br>
 
+## Estrutura de um Programa que Utiliza Funções Definidas pelo Usuário (Programador)
+
+```c
+// Inclusão das bibliotecas
+#include <stdio.h>
+// ...
+
+// Protótipos das funções
+// ...
+
+int main()
+{
+    // ...
+
+    return 0;
+}
+
+// Implementação das funções
+// ...
+```
+
+<br>
+
 ## Exemplos
 
 ### Função que converte polegadas para centímetros:

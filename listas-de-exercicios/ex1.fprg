@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.11">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="Eduardo"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2022-04-20 02:41:09 "/>
+        <attribute name="created" value="RWR1YXJkbztJREVBUEFEMy01NzAwVTsyMDIyLTA0LTIwOyIwMjoyNDowMSAiOzI3NTc="/>
+        <attribute name="edited" value="RWR1YXJkbztJREVBUEFEMy01NzAwVTsyMDIyLTA0LTIwOyIwMjo0MTowOSAiOzE7Mjg3Mg=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="salario, aumentoSalarial, percentualAumentoSalarial" type="Real" array="False" size=""/>
+            <input variable="salario"/>
+            <if expression="salario &gt; 1500.00">
+                <then>
+                    <assign variable="percentualAumentoSalarial" expression="0.15"/>
+                </then>
+                <else>
+                    <assign variable="percentualAumentoSalarial" expression="0.35"/>
+                </else>
+            </if>
+            <assign variable="aumentoSalarial" expression="percentualAumentoSalarial"/>
+            <output expression="&quot;kjhbkjbkj&quot;" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>

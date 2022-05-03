@@ -16,6 +16,10 @@ Prof. Eduardo Ono
 
 * ### [Lista 4 - Estruturas de Seleção](./lista-4.md)
 
-* ### Lista 5 - Estruturas de Repetição
+* ### [Lista 5 - Estruturas de Repetição](./lista-5.md)
+
+* ### [Lista 6 - Funções Definidas pelo Usuário](./lista-6.md)
+
+* ### Lista 7 - Ponteiros
 
 <br>

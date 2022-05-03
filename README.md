@@ -25,16 +25,16 @@ Introdução a algoritmos, lógica de programação e linguagem de programação
 | :-: | :-: | --- |
 | [01] | 14/02 | Introdução à Programação
 | [02] | 21/02 | Overview de Arquitetura e Organização de Computadores; Criação do Ambiente de Desenvolvimento para Programação em C
-| [03] | 07/03 | Primeiro programa em C; Tabela ASCII
-| [04] | 14/03 | Tipos de Dados; Variáveis; Operadores Aritméticos
-| [05] | 21/03 | Álgebra dos Inteiros
-| [06] | 28/03 | Estruturas de Seleção: `if`, `if..else`, Comando Ternário e `switch`
+| [03] | 07/03 | [Primeiro programa em C](./conteudo/03-primeiro-programa-em-c/README.md); Tabela ASCII
+| [04] | 14/03 | [Tipos de Dados](./conteudo/04-tipos-de-dados-e-variaveis/tipos-de-dados/README.md); [Variáveis](./conteudo/04-tipos-de-dados-e-variaveis/variaveis/README.md); Operadores Aritméticos
+| [05] | 21/03 | [Operadores Lógicos e Relacionais](./conteudo/06-logica-matematica/README.md); [Álgebra dos Inteiros](./conteudo/05-algebra-dos-inteiros/README.md)
+| [06] | 28/03 | [Estruturas de Seleção](./conteudo/07-estruturas-de-selecao/README.md): `if`, `if..else`, Comando Ternário e `switch`
 | [07] | 04/04 | Identificação de padrões ("patterns")
 | [08] | 11/04 | Exercícios de Fixação
 | [09] | 18/04 | __1a. Avaliação__
-| [10] | 25/04 | Estruturas de Repetição: `for`, `while`, `do-while`
-| [11] | 02/05 | Funções definidas pelo usuário;
-| [12] | 09/05 | Ponteiros; Passagem de parâmetros por valor e por referência
+| [10] | 25/04 | [Estruturas de Repetição](./conteudo/08-estruturas-de-repeticao/README.md): `for`, `while` e `do-while`
+| [11] | 02/05 | [Funções definidas pelo usuário](./conteudo/09-funcoes/README.md);
+| [12] | 09/05 | Ponteiros; Funções: Passagem de parâmetros por valor e por referência
 | [13] | 16/05 | Vetores
 | [14] | 23/05 | Strings
 | [15] | 30/05 | __2a. Avaliação__ (Data a ser confirmada)

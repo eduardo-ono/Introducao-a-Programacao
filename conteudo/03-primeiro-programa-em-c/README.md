@@ -31,6 +31,10 @@ Prof. Eduardo Ono
 
 ### Corrigindo o problema da acentuação através de código ASCII:
 
+* O caractere `á` está localizado na posição 160 da tabela ASCII Estendida (8-bit). Para imprimir um caractere da Tabela ASCII, utilizar na string do `printf()` o especificador de formato `%c` onde o caractere deve ser impresso.
+
+* Exemplo:
+
 ```c
 #include <stdio.h>
 
@@ -49,6 +53,8 @@ int main()
   ```
 
 <br>
+
+
 
 ## Vídeos de Apoio
 
