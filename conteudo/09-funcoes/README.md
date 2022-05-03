@@ -34,7 +34,7 @@ Prof. Eduardo Ono
 
 ## Exemplos
 
-* Função que converte polegadas para centímetros:
+### Função que converte polegadas para centímetros:
 
 ```c
 float pol2cm(float pol)
@@ -43,7 +43,7 @@ float pol2cm(float pol)
 }
 ```
 
-* Função que retorna o IMC (Índice de Massa Corporal) de uma pessoa:
+### Função que retorna o IMC (Índice de Massa Corporal) de uma pessoa:
 
 ```c
 float calcularImc(float peso, float altura)
@@ -55,7 +55,7 @@ float calcularImc(float peso, float altura)
 }
 ```
 
-&nbsp;&nbsp;&nbsp;&nbsp;Exemplo de uso da função `calcularImc()` em um programa em C:
+* Exemplo de uso da função `calcularImc()` em um programa em C:
 
 ```c
 #include <stdio.h>
@@ -86,7 +86,7 @@ float calcularImc(float peso, float altura)
 }
 ```
 
-* Função que limpa a tela de saída (requer a biblioteca `<stdlib.h>`):
+### Função que limpa a tela de saída (requer a biblioteca `<stdlib.h>`):
 
 ```c
 void clrscr()
@@ -102,7 +102,7 @@ void clrscr()
 
 &nbsp;&nbsp;&nbsp;&nbsp;OBS.: A função `system()` executa um comando do sistema operacional. Os comandos `clear` e `cls` são específicos do sistema operacional Linux e Windows, respectivamente.
 
-&nbsp;&nbsp;&nbsp;&nbsp;Exemplo de uso da função `clrscr()` ("clear screen"):
+* Exemplo de uso da função `clrscr()` ("clear screen"):
 
 ```c
 #include <stdio.h>
