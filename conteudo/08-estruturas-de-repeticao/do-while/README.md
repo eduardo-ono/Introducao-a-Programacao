@@ -4,7 +4,7 @@
   <small>Introdução à Programação > Conteúdo</small>
 </td>
 <td align="right">
-  <small>Atualizado&nbsp;em:&nbsp;03/05/2022</small>
+  <small>Atualizado&nbsp;em:&nbsp;07/05/2022</small>
 </td>
 </tr>
 </table>
@@ -22,20 +22,43 @@ Prof. Eduardo Ono
 
 <table>
 <tr>
-  <th></th>
-  <th>Título</th>
+  <th>Código em C</th>
+  <th>Descrição</th>
 </tr>
 
 <tr>
   <td valign="top">
 
-  ```c
-  
-  ```
+```c
+#include <stdio.h>
+
+int main()
+{
+    float num;
+    float soma = 0;
+    int cont = 0;
+    float media;
+
+    do
+    {
+        printf("Entre com um número positivo ou -1 para sair: ");
+        scanf("%d", &num);
+        getchar();
+        if (num > -1)
+        {
+          soma += num;
+          cont++;
+        }
+    } while (num > -1);
+    media = soma / cont;
+    printf("Média = %f\n", media);
+}
+```
 
   </td>
-  <td valign="top">
-  </td>
+<td valign="top">
+Calcula a média de vários valores inteiros fornecidos pelo usuário.
+</td>
 </tr>
 </table>
 

@@ -6,6 +6,7 @@ Desenvolvedor : Eduardo Ono
 Criado em     : 03/05/2022
 Atualizado em : 03/05/2022
 Comentários   : Pode ser dependente do Sistema Operacional e das configurações do terminal utilizado.
+Referências   : https://gist.github.com/RabaDabaDoba/145049536f815903c79944599c6f952a
 */
 
 #include <stdio.h>

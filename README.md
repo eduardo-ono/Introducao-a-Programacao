@@ -33,7 +33,7 @@ Introdução a algoritmos, lógica de programação e linguagem de programação
 | [08] | 11/04 | Exercícios de Fixação
 | [09] | 18/04 | __1a. Avaliação__
 | [10] | 25/04 | [Estruturas de Repetição](./conteudo/08-estruturas-de-repeticao/README.md): `for`, `while` e `do-while`
-| [11] | 02/05 | [Funções definidas pelo usuário](./conteudo/09-funcoes/README.md);
+| [11] | 02/05 | [Funções definidas pelo usuário](./conteudo/09-funcoes/README.md)<br><sub>Vídeos de Apoio (Bóson Treinamentos): [16](https://www.youtube.com/watch?v=tzBq7_Cn_D4&list=PLucm8g_ezqNqzH7SM0XNjsp25AP0MN82R&index=17) e [17](https://www.youtube.com/watch?v=GGkaN_LwR0w&list=PLucm8g_ezqNqzH7SM0XNjsp25AP0MN82R&index=17) </sub>
 | [12] | 09/05 | Ponteiros; Funções: Passagem de parâmetros por valor e por referência
 | [13] | 16/05 | Vetores
 | [14] | 23/05 | Strings

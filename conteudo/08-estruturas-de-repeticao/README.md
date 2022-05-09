@@ -42,4 +42,6 @@ Prof. Eduardo Ono
 | :-: | --- |
 | <img src="../../referencias/capas/COSTA_2016.jpg" alt="img" width="100px"> | <sup>[COSTA_2016]</sup><br>COSTA, José Félix. <strong>Matemática Discreta</strong>. Universidade de Lisboa, 2016.
 
+* https://www.iro.umontreal.ca/~mignotte/IFT2425/Disasters.html
+
 <br>
