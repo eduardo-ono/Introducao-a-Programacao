@@ -7,7 +7,7 @@ void clrscr();
 int main()
 {
     clrscr();
-    printf("Ola mundo!\n");
+    printf("Ol%c mundo!\n", 160);
 
     return 0;
 }
