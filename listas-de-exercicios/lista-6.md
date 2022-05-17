@@ -1,10 +1,10 @@
 <table>
 <tr>
 <td align="left" width="8000">
-    <small>Introdução à Programação > Listas de Exercícios</small>
+  <small>Introdução à Programação > Listas de Exercícios</small>
 </td>
 <td align="right">
-    <small>Atualizado&nbsp;em:&nbsp;17/04/2022</small>
+  <small>Atualizado&nbsp;em:&nbsp;17/04/2022</small>
 </td>
 </tr>
 </table>
@@ -12,8 +12,11 @@
 <br>
 
 <h1 align="center">
+
 Lista 6 - Funções Definidas pelo Usuário
+
 </h1>
+
 <h4 align="center">
 Prof. Eduardo Ono
 </h4>
@@ -24,7 +27,7 @@ Prof. Eduardo Ono
 
 &nbsp;&nbsp;&nbsp;&nbsp;([DEITEL-6e_2011], 5.22, p. 154, adaptado) Escreva uma função que receba um número inteiro entre 1 e 32767 e o imprima como uma série de dígitos, com dois espaços entre cada dígito.
 
-* Exemplo:
+* Exemplo
 
 | Entrada | Saída |
 | --- | :-: |
@@ -40,25 +43,25 @@ Prof. Eduardo Ono
 
 ## Exercício 3
 
-&nbsp;&nbsp;&nbsp;&nbsp;([DEITEL-6e_2011], 5.26, p. 155, adaptado) _Números perfeitos._ Um número inteiro positivo é considerado um _número perfeito_ se a soma de seus divisores, incluindo o 1 (mas não o próprio número) for igual ao próprio número. Por exemplo, 6 é um número perfeito porque 6 = 1 + 2 + 3. Escreva uma função que determina se um número é perfeito. Use essa função em um programa que determine e imprima todos os números perfeitos entre 1 e 1000. Imprima os fatores de cada número perfeito para confirmar se o número é realmente perfeito. Desafie o poder de seu computador testando números muito maiores que 1000.
+&nbsp;&nbsp;&nbsp;&nbsp;(DEITEL-6e_2011, 5.26, p. 155, adaptado) __*Números Perfeitos.*__ Um número inteiro positivo é considerado um _número perfeito_ se a soma de seus divisores próprios, incluindo o 1 mas não o próprio número, for igual ao próprio número. Por exemplo, 6 é um número perfeito porque 6 = 1 + 2 + 3. Escreva uma função que determina se um número é perfeito. Use essa função em um programa que determine e imprima todos os números perfeitos entre 1 e 1000. Imprima os divisores de cada número perfeito para confirmar se o número é realmente perfeito. Desafie o poder de seu computador testando números muito maiores que 1000.<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;OBS.: A definição de _número perfeito_ no livro do Deitel não é precisa. O autor utiliza _fatores_ no lugar de _divisores_.
 
 <br>
 
 ## Exercício 4
 
-&nbsp;&nbsp;&nbsp;&nbsp;([DEITEL-6e_2011], 5.27, p. 155, adaptado) ___Números primos.___ Um intriro é considerado _primo_ se for divisível somente por 1 e por ele mesmo. Por exemplo, 2, 3, 5 e 7 são primos, mas 4, 6, 8 e 9 não são.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(DEITEL-6e_2011, 5.27, p. 155, adaptado) __*Números primos.*__ Um inteiro é considerado _primo_ se for divisível apenas por 1 e por ele mesmo. Por exemplo, 2, 3, 5 e 7 são primos, mas 4, 6, 8 e 9 não são.
 
-&nbsp;&nbsp;&nbsp;&nbsp;a) Escreva uma função que determina se um número é primo ou não, ou seja, retorna um valor booleano.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a) Escreva uma função que determina se um número é primo ou não, ou seja, retorna um valor booleano.
 
-&nbsp;&nbsp;&nbsp;&nbsp;b) Use essa função em um programa que determina e imprime todos os números primos entre 1 e 10000. Quantos desses 10000 números você realmente precisa testar antes de ter certeza de que encontrou todos os primos?
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b) Use essa função em um programa que determina e imprime todos os números primos entre 1 e 10000. Quantos desses 10000 números você realmente precisa testar antes de ter certeza de que encontrou todos os primos?
 
-&nbsp;&nbsp;&nbsp;&nbsp;c) Inicialmente, você poderia pensar que _n_/2 é o limite superior dentro do qual deveria testar para ver se um número é primo, mas você só precisa ir até a raiz quadrada de _n_. Por quê? Reescreva o programa e execute-o das duas maneiras. Estime a melhoria do desempenho.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c) Inicialmente, você poderia pensar que _n_/2 é o limite superior dentro do qual deveria testar para ver se um número é primo, mas você só precisa ir até a raiz quadrada de _n_. Por quê? Reescreva o programa e execute-o das duas maneiras. Estime a melhoria do desempenho.
 
 <br>
 
 ## Exercício 5
 
-&nbsp;&nbsp;&nbsp;&nbsp;([DEITEL-6e_2011], 5.28, p. 155, adaptado) ___Invertendo dígitos.___ Escreva uma função que receba um valor inteiro positivo e retorne o número com os seus dígitos invertidos.
+&nbsp;&nbsp;&nbsp;&nbsp;(DEITEL-6e_2011, 5.28, p. 155, adaptado) __*Invertendo dígitos.*__ Escreva uma função que receba um valor inteiro positivo e retorne o número com os seus dígitos invertidos.
 
 * Exemplo:
 
@@ -70,11 +73,25 @@ Prof. Eduardo Ono
 
 ## Exercício 6
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Aproveitando a função do exercício anterior, escreva um programa que verifica se um número inteiro positivo é __palíndromo__ ou não.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Um __*número palíndromo*__ (ou __*capicua*__) é um número natural que permanece igual quando lido de trás para frente. Por extensão, __*palíndromo*__ é qualquer sequência de elementos com simetria linear, ou seja, que apresenta a mesma sequência de unidades nos dois sentidos.<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Aproveitando a função do exercício anterior, escreva um programa que verifica se um número inteiro positivo é _palíndromo_ ou não.
+
+
+* Exemplo
+
+| Entrada | Saída |
+| :-: | --- |
+| 1 | É palíndromo. |
+| 2 | É palíndromo. |
+| 10 | Não é palíndromo. |
+| 11 | É palíndromo. |
+| 33 | É palíndromo. |
+| 121 | É palíndromo. |
+
+<br>
 
 ## Exercício 7
 
-&nbsp;&nbsp;&nbsp;&nbsp;([DEITEL-6e_2011], 5.31, p. 155) __*Jogando uma moeda.*__ Escreva um programa que simule o lançamento de uma moeda. Para cada lançamento da moeda, o programa deverá imprimir Cara ou Coroa. Deixe o programa jogar 100 vezes e conte o número de vezes que cada lado da moeda aparece. Imprima os resultados. O programa deverá chamar uma função _flip_ separada, que não utilize argumentos e retorne 0 (zero) para cara e 1 para coroa. [_Nota_: se o programa realisticamente simula o lançamento de uma moeda, então cada lado da moeda deve aparecer aproximadamente em metade do tempo para um total de aproximadamente 50 caras e 50 coroas.]
+&nbsp;&nbsp;&nbsp;&nbsp;(DEITEL-6e_2011, 5.31, p. 155) __*Jogando uma moeda.*__ Escreva um programa que simule o lançamento de uma moeda. Para cada lançamento da moeda, o programa deverá imprimir Cara ou Coroa. Deixe o programa jogar 100 vezes e conte o número de vezes que cada lado da moeda aparece. Imprima os resultados. O programa deverá chamar uma função _flip_ separada, que não utilize argumentos e retorne 0 (zero) para cara e 1 para coroa. [_Nota_: se o programa realisticamente simula o lançamento de uma moeda, então cada lado da moeda deve aparecer aproximadamente em metade do tempo para um total de aproximadamente 50 caras e 50 coroas.]
 
 <br>
 
@@ -84,8 +101,10 @@ Prof. Eduardo Ono
 
 <br>
 
-## Exercício 8
+## Exercício 9
 
+<br>
 
+## Exercício 10
 
 <br>
