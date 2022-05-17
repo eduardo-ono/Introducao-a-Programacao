@@ -1,12 +1,29 @@
-> Introdução à Programação
-
-# Listas de Exercícios
-
-Prof. Eduardo Ono
+<table>
+<tr>
+<td align="left" width="8000">
+  <small>Introdução à Programação</small>
+</td>
+<td align="right">
+  <small>Atualizado&nbsp;em:&nbsp;17/05/2022</small>
+</td>
+</tr>
+</table>
 
 <br>
 
-## Conteúdo
+<h1 align="center">
+
+Listas de Exercícios
+
+</h1>
+
+<h4 align="center">
+Prof. Eduardo Ono
+</h4>
+
+<br>
+
+## Sumário
 
 * ### [Lista 1 - Fundamentos da Linguagem](./lista-1.md)
 
@@ -20,6 +37,6 @@ Prof. Eduardo Ono
 
 * ### [Lista 6 - Funções Definidas pelo Usuário](./lista-6.md)
 
-* ### Lista 7 - Ponteiros
+* ### [Lista 7 - Ponteiros](./lista-7.md)
 
 <br>
