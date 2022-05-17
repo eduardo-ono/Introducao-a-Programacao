@@ -155,3 +155,11 @@ void clrscr()
 ```
 
 <br>
+
+## Passagem de Parâmetros por Valor
+
+<br>
+
+## Passagem de Parêmetros por Referência
+
+<br>

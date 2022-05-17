@@ -20,6 +20,14 @@ Prof. Eduardo Ono
 
 <br>
 
+<p align="center">
+
+[![img](https://img.youtube.com/vi/Rcj7ak14634/mqdefault.jpg)](https://www.youtube.com/watch?v=Rcj7ak14634 "[Cortes de Matemática e Física] O QUE A LÓGICA TEM A VER COM MÁ DIREÇÃO? \| Ledo Vaccaro (7:53, YouTube, Jan/2022)")
+
+</p>
+
+<br>
+
 ## Tópicos
 
 * ### Teorema de DeMorgan

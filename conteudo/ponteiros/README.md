@@ -8,11 +8,11 @@ Prof. Eduardo Ono
 
 ## Conceitos
 
-> Um ___ponteiro___, também chamado de _apontador_, é uma variável que armazena apenas endereços de memória.
+> Um __*ponteiro*__, também chamado de _apontador_, é uma variável que armazena apenas um endereço de memória.
 
 <br>
 
-> Quando um ponteiro recebe o endereço de um espaço alocado para uma variável, por exemplo, dizemos que o ponteiro "aponta" para a variável.
+> Quando um ponteiro recebe o endereço de um espaço alocado por uma variável, por exemplo, dizemos que o ponteiro "aponta" para essa variável.
 
 ## Exemplos
 
@@ -66,7 +66,7 @@ int *pa;
 pa = &a;
 ```
 </td>
-<td><em>pa</em> recebe o endereço de <em>a</em>. A partir deste momento, dizemos que <em>pa</em> aponta para <em>a</em>.</td>
+<td><em>pa</em> recebe o endereço de <em>a</em>. A partir deste momento, dizemos que <em>pa</em> "aponta" para <em>a</em>.</td>
 </tr>
 
 <tr>

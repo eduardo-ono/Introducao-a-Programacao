@@ -26,7 +26,7 @@ Prof. Eduardo Ono
 
 * https://www.youtube.com/playlist?list=PLucm8g_ezqNqzH7SM0XNjsp25AP0MN82R
 
-OBS.: O resumo deve ser manuscrito. Programas apresentados nos vídeos devem ser reproduzidos no respectivo resumo do vídeo onde apareceram. 
+OBS.: O resumo deve ser manuscrito. Programas apresentados nos vídeos devem ser reproduzidos no respectivo resumo do vídeo onde apareceram.
 
 | Vídeo | Tópicos abordados |
 | :-: | --- |

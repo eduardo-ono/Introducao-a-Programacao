@@ -53,10 +53,13 @@ Prof. Eduardo Ono
 
 <br>
 
-## Dicas de Estudo
+## Dicas para o Estudante
 
 | Thumb | Descrição |
 | --- | --- |
-| [![thumb](https://img.youtube.com/vi/Xfgc3ZDtwTQ/default.jpg)](https://youtu.be/Xfgc3ZDtwTQ "COMO EU ESTUDO PROGRAMAÇÃO?") | <sup>[Rafaella Ballerini]</sup> [COMO EU ESTUDO PROGRAMAÇÃO?](https://www.youtube.com/watch?v=Xfgc3ZDtwTQ)<br><sub>(24:30, YouTube, Jan/2021)</sub>
+| [![img](https://img.youtube.com/vi/cJRP7sew83M/default.jpg)](https://youtu.be/cJRP7sew83M) | <sup>[Cortes do Inteligência [OFICIAL]]</sup><br>[COMO A ALIMENTAÇÃO AFETA O SEU CÉREBRO? - ROBERTA CARBONARI](https://www.youtube.com/watch?v=cJRP7sew83M)<br><sub>(14:08, YouTube, Dez/2021)</sub>
+| [![img](https://img.youtube.com/vi/Xfgc3ZDtwTQ/default.jpg)](https://youtu.be/Xfgc3ZDtwTQ "COMO EU ESTUDO PROGRAMAÇÃO?") | <sup>[Rafaella Ballerini]</sup><br>[COMO EU ESTUDO PROGRAMAÇÃO?](https://www.youtube.com/watch?v=Xfgc3ZDtwTQ)<br><sub>(24:30, YouTube, Jan/2021)</sub>
+| [![img](https://img.youtube.com/vi/WKKt-pxYuHM/default.jpg)](https://youtu.be/WKKt-pxYuHM) | <sup>[Programador BR]</sup><br>[Como APRENDER a programar de forma EFICIENTE](https://www.youtube.com/watch?v=WKKt-pxYuHM)<br><sub>(7:50, YouTube, Mai/2022)</sub>
+| [![img](https://img.youtube.com/vi/IpCqwyA0K6k/default.jpg)](https://youtu.be/IpCqwyA0K6k) | <sup>[Passo a Passo Empreendedor]</sup><br>[A TÉCNICA QUE ELON MUSK USA PARA APRENDER QUALQUER COISA](https://www.youtube.com/watch?v=IpCqwyA0K6k)<br><sub>(5:38, YouTube, Set/2019)</sub>
 
 <br>
