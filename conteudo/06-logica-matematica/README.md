@@ -33,3 +33,13 @@ Prof. Eduardo Ono
 * ### Teorema de DeMorgan
 
 * ### Identificação de padrões ("_patterns_")
+
+<br>
+
+## Vídeos Recomendados
+
+| Thumb | Descrição |
+| :-: | --- |
+| [![img](https://img.youtube.com/vi/cXfJ8XmywqQ/default.jpg)](https://www.youtube.com/watch?v=cXfJ8XmywqQ) | <sup>[Cortes de Matemática e Física]</sup><br>[__O QUE É O CONJUNTO VAZIO? \| Elon Lages__](https://www.youtube.com/watch?v=cXfJ8XmywqQ)<br><sub>(6:07, YouTube, Jan/2022)</sub>
+
+<br>

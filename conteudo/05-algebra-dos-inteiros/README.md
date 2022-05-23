@@ -53,3 +53,11 @@ onde _D_ é o dividendo, _d_ o divisor, _q_ o quociente e _r_ o resto da divisã
   ```
 
 <br>
+
+## Vídeos Recomendados
+
+| Thumb | Descrição |
+| :-: | --- |
+| [![img](https://img.youtube.com/vi/pTNZ7pEYjcU/default.jpg)](https://www.youtube.com/watch?v=pTNZ7pEYjcU) | <sup>[Cortes de Matemática e Física]</sup><br>[__ZERO É UM NÚMERO NATURAL? \| Elon Lages Lima__](https://www.youtube.com/watch?v=pTNZ7pEYjcU)<br><sub>(4:10, YouTube, Mai/2022)</sub>
+
+<br>

@@ -4,7 +4,7 @@
   <small>Introdução à Programação > Listas de Exercícios</small>
 </td>
 <td align="right">
-  <small>Atualizado&nbsp;em:&nbsp;17/04/2022</small>
+  <small>Atualizado&nbsp;em:&nbsp;23/05/2022</small>
 </td>
 </tr>
 </table>
@@ -73,7 +73,7 @@ Prof. Eduardo Ono
 
 ## Exercício 6
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Um __*número palíndromo*__ (ou __*capicua*__) é um número natural que permanece igual quando lido de trás para frente. Por extensão, __*palíndromo*__ é qualquer sequência de elementos com simetria linear, ou seja, que apresenta a mesma sequência de unidades nos dois sentidos.<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Aproveitando a função do exercício anterior, escreva um programa que verifica se um número inteiro positivo é _palíndromo_ ou não.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__*Palíndromo*__. Um __*número palíndromo*__ (ou __*capicua*__) é um número natural que permanece igual quando lido de trás para frente. Por extensão, __*palíndromo*__ é qualquer sequência de elementos com simetria linear, ou seja, que apresenta a mesma sequência de unidades nos dois sentidos.<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Aproveitando a função do exercício anterior, escreva um programa que verifica se um número inteiro positivo é _palíndromo_ ou não.
 
 
 * Exemplo
@@ -91,20 +91,36 @@ Prof. Eduardo Ono
 
 ## Exercício 7
 
-&nbsp;&nbsp;&nbsp;&nbsp;(DEITEL-6e_2011, 5.31, p. 155) __*Jogando uma moeda.*__ Escreva um programa que simule o lançamento de uma moeda. Para cada lançamento da moeda, o programa deverá imprimir Cara ou Coroa. Deixe o programa jogar 100 vezes e conte o número de vezes que cada lado da moeda aparece. Imprima os resultados. O programa deverá chamar uma função _flip_ separada, que não utilize argumentos e retorne 0 (zero) para cara e 1 para coroa. [_Nota_: se o programa realisticamente simula o lançamento de uma moeda, então cada lado da moeda deve aparecer aproximadamente em metade do tempo para um total de aproximadamente 50 caras e 50 coroas.]
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(DEITEL-6e_2011, 5.31, p. 155, adaptado) __*Jogando uma moeda.*__ Escreva um programa que simule o lançamento de uma moeda. Para cada lançamento da moeda, o programa deverá imprimir Cara ou Coroa. Deixe o programa jogar 100 vezes e conte o número de vezes que cada lado da moeda aparece. Imprima os resultados. O programa deverá chamar uma função _flip_ separada, que não utilize argumentos e retorne 0 (zero) para cara e 1 para coroa. [_Nota_: se o programa realisticamente simula o lançamento de uma moeda, então cada lado da moeda deve aparecer aproximadamente em metade do tempo para um total de aproximadamente 50 caras e 50 coroas.]<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Obs.: Utilize a função `srand(time(0))` para gerar uma semente para a função `rand()`. São necessárias as bibliotecas `stdlib.h`, para as funções `srand()` e `rand()`, e a biblioteca `time.h`, para a função `time()`.
+
+* Exemplo
+
+```c
+srand(time(0));
+printf("%d\n", rand() % 10); // Imprime um inteiro entre 0 e 9
+printf("%d\n", rand() % 50); // Imprime um inteiro entre 0 e 49
+printf("%d\n", rand() % 100); // Imprime um inteiro entre 0 e 99
+printf("%.1f\n", 0.1 * (rand() % 100)); // Imprime um float entre 0.0 e 9.9
+printf("%.1f\n", 0.1 * (rand() % 1000)); // Imprime um float entre 0.0 e 99.9
+printf("%.1f\n", 0.1 * (rand() % 10000)); // Imprime um float entre 0.0 e 999.9
+printf("%.2f\n", 0.01 * (rand() % 10000)); // Imprime um float entre 0.00 e 99.99
+```
 
 <br>
 
 ## Exercício 8
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__*Fórmula de Bhaskara.*__ Dada uma equação do 2º Grau do tipo _ax_^2 + _bx_ + _c_ = 0, com a != 0, escreva uma função que receba os parâmetros _a_, _b_ e _c_ da equação. A função deverá calcular as raízes _x_<sub>1</sub> e _x_<sub>2</sub> da equação. OBS.: A função não deve ter nunhguma função printf() para saída dos valores das raízes.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__*Fórmula de Bhaskara.*__ Dada uma equação do 2º Grau do tipo _ax_^2 + _bx_ + _c_ = 0, com a&nbsp;&ne;&nbsp;0, escreva uma função que receba os parâmetros _a_, _b_ e _c_ e calcule as raízes _x_<sub>1</sub> e _x_<sub>2</sub> da equação. OBS.: A função não deve imprimir nenhum resultado, mas a função principal deverá imprimir as raízes calculadas pela função.
 
 <br>
 
 ## Exercício 9
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Escreva uma função que receba um número inteiro positivo no sistema decimal e retorne o número no sistema binário.
+
 <br>
 
 ## Exercício 10
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Escreva uma função que receba um número inteiro positivo no sistema decimal e retorne o número no sistema hexadecimal.
 <br>

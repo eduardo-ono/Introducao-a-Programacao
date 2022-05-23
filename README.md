@@ -34,10 +34,11 @@ Introdução a algoritmos, lógica de programação e linguagem de programação
 | [09] | 18/04 | __1a. Avaliação__
 | [10] | 25/04 | [Estruturas de Repetição](./conteudo/08-estruturas-de-repeticao/README.md): `for`, `while` e `do-while`
 | [11] | 02/05 | [Funções definidas pelo usuário](./conteudo/09-funcoes/README.md)<br><sub>Vídeos de Apoio (Bóson Treinamentos): [16](https://www.youtube.com/watch?v=tzBq7_Cn_D4&list=PLucm8g_ezqNqzH7SM0XNjsp25AP0MN82R&index=17) e [17](https://www.youtube.com/watch?v=GGkaN_LwR0w&list=PLucm8g_ezqNqzH7SM0XNjsp25AP0MN82R&index=17) </sub>
-| [12] | 09/05 | Ponteiros; Funções: Passagem de parâmetros por valor e por referência
-| [13] | 16/05 | Vetores
-| [14] | 23/05 | Strings
-| [15] | 30/05 | __2a. Avaliação__ (Data a ser confirmada)
+| [12] | 09/05 | Exercícios de Funções
+| [13] | 16/05 | Ponteiros; Funções: Passagem de parâmetros por valor e por referência
+| [14] | 23/05 | Ponteiros, cont.
+| [15] | 30/05 | Revisão para a Prova
+| [16] | 06/06 | __2a. Avaliação__ (Data a ser confirmada)
 
 [01]: ./aulas/README.md#aula-01
 [02]: ./aulas/README.md#aula-02
@@ -59,13 +60,13 @@ Introdução a algoritmos, lógica de programação e linguagem de programação
 
 * Editor de Fluxogramas: [Flowgorithm](./conteudo/01-ambiente-de-desenvolvimento/README.md)
 
-* Compilador: [GCC](./conteudo/01-ambiente-de-desenvolvimento/README.md)
+* Compilador C: [GCC](./conteudo/01-ambiente-de-desenvolvimento/README.md)
 
 * Editor/IDE: [Microsoft Visual Studio Code (VS Code)](./conteudo/01-ambiente-de-desenvolvimento/README.md#microsoft-visual-studio-code-vs-code)
 
   * https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf
 
-* [Tabela ASCII](https://theasciicode.com.ar/)
+* [Tabela ASCII](https://theasciicode.com.ar)
 
 * [Checklist](./conteudo/00-overview/checklist.md)
 
@@ -75,8 +76,8 @@ Introdução a algoritmos, lógica de programação e linguagem de programação
 
 | Thumb | Descrição |
 | --- | --- |
-| [![img](https://img.youtube.com/vi/UPuOQBocY48/default.jpg)](https://youtu.be/UPuOQBocY48) | <sup>[Professor Rafael Ivo]</sup> [Programação em C](https://www.youtube.com/playlist?list=PLvat2X-KHJNZwUCeTeve_S1qqrBOWhaU9)<br><sub>(14 vídeos, YouTube, Nov/2020)</sub>
 | [![img](https://img.youtube.com/vi/cZRuFwzjJ8E/default.jpg)](https://youtu.be/cZRuFwzjJ8E) | <sup>[Bóson Treinamentos]</sup> [Curso de Programação em Linguagem C](https://www.youtube.com/playlist?list=PLucm8g_ezqNqzH7SM0XNjsp25AP0MN82R)<br><sub>(25 vídeos, YouTube, Jul/2021)</sub>
+| [![img](https://img.youtube.com/vi/UPuOQBocY48/default.jpg)](https://youtu.be/UPuOQBocY48) | <sup>[Professor Rafael Ivo]</sup> [Programação em C](https://www.youtube.com/playlist?list=PLvat2X-KHJNZwUCeTeve_S1qqrBOWhaU9)<br><sub>(14 vídeos, YouTube, Nov/2020)</sub>
 
 <br>
 
@@ -105,7 +106,8 @@ Introdução a algoritmos, lógica de programação e linguagem de programação
 
 | Thumb | Título |
 | --- | --- |
-| [![img](https://img.youtube.com/vi/noXqEGIZak8/default.jpg)](https://youtu.be/noXqEGIZak8) | <sup>[Glauco Copeck XYZ]</sup> [COMO ESTUDAR E APRENDER - Prof Pier](https://www.youtube.com/watch?v=noXqEGIZak8)<br><sub>(23:23, YouTube, Jan/2020)</sub>
+| [![img](https://img.youtube.com/vi/noXqEGIZak8/default.jpg)](https://youtu.be/noXqEGIZak8) | <sup>[Glauco Copeck XYZ]</sup><br>[COMO ESTUDAR E APRENDER - Prof Pier](https://www.youtube.com/watch?v=noXqEGIZak8)<br><sub>(23:23, YouTube, Jan/2020)</sub>
+| [![img](https://img.youtube.com/vi/TVHUs67kwRk/default.jpg)](https://www.youtube.com/watch?v=TVHUs67kwRk) | <sup>[Eureka!]</sup><br>[__Como Aprender TUDO Que Quiser: Técnica Feynman (5 Passos)__](https://www.youtube.com/watch?v=TVHUs67kwRk)<br><sub>(7:32, YouTube, Mai/2019)</sub>
 | [![img](https://img.youtube.com/vi/oUPaJxk6TZ0/default.jpg)](https://youtu.be/oUPaJxk6TZ0) | <sup>[Fabio Akita]</sup><br>[Guia DEFINITIVO de Aprendendo a Aprender \| A maior BRONCA da sua vida [RATED R]](https://www.youtube.com/watch?v=oUPaJxk6TZ0)<br><sub>(1:04:37, YouTube, Abr/2020)</sub>
 | [![img](https://img.youtube.com/vi/i_STkDJ3z5s/default.jpg)](https://youtu.be/i_STkDJ3z5s) | <sup>[CACiC FCT-Unesp]</sup> [Bate-papo com Fabio Akita](https://www.youtube.com/watch?v=i_STkDJ3z5s)<br><sub>(1:42:40, YouTube, Mar/2022)</sub>
 | [![img](https://img.youtube.com/vi/ED2aoLnr0oA/default.jpg)](https://youtu.be/ED2aoLnr0oA) | <sup>[Bóson Treinamentos]</sup> [O que é preciso para ser um bom programador de computadores?](https://www.youtube.com/watch?v=ED2aoLnr0oA)<br><sub>(19:03, YouTube, Mai/2017)</sub>
