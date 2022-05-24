@@ -43,7 +43,8 @@ Prof. Eduardo Ono
 
 ## Exercício 3
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(DEITEL-6e_2011, 5.26, p. 155, adaptado) __*Números Perfeitos.*__ Um número inteiro positivo é considerado um _número perfeito_ se a soma de seus divisores próprios, incluindo o 1 mas não o próprio número, for igual ao próprio número. Por exemplo, 6 é um número perfeito porque 6 = 1 + 2 + 3. Escreva uma função que determina se um número é perfeito. Use essa função em um programa que determine e imprima todos os números perfeitos entre 1 e 10000. Imprima os divisores de cada número perfeito para confirmar se o número é realmente perfeito. Desafie o poder de seu computador testando números muito maiores que 10000.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(DEITEL-6e_2011, 5.26, p. 155, adaptado) __*Números Perfeitos.*__ Um número inteiro positivo é considerado um _número perfeito_ se a soma de seus divisores próprios, incluindo o 1 mas não o próprio número, for igual ao próprio número. Por exemplo, 6 é um número perfeito porque 6 = 1 + 2 + 3. Escreva uma função que determina se um número é perfeito. Use essa função em um programa que determine e imprima todos os números perfeitos entre 1 e 10000. Imprima os divisores de cada número perfeito para confirmar se o número é realmente perfeito. Desafie o poder de seu computador testando números muito maiores que 10000.
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;OBS.: A definição de _número perfeito_ no livro do Deitel não é precisa. O autor utiliza _fatores_ no lugar de _divisores_.
 
 <br>
@@ -188,4 +189,4 @@ printf("%.2f\n", 0.01 * (rand() % 10000)); // Imprime um float entre 0.00 e 99.9
 
 <br>
 
-[DEITEL-6e_2011]: "../README.md#DEITEL-6e_2011
+[DEITEL-6e_2011]: ../README.md#DEITEL-6e_2011

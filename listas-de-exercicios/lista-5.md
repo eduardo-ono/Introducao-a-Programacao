@@ -22,7 +22,7 @@ Prof. Eduardo Ono
 
 ## Exercício 1
 
-&nbsp;&nbsp;&nbsp;&nbsp;Escreva um programa que peça ao usuário entrar com dois números inteiros _n_ e _num_. O programa deverá imprimir _n_ vezes o número _num_.
+&nbsp;&nbsp;&nbsp;&nbsp;Escreva um programa que peça ao usuário para entrar com dois números inteiros _n_ e _num_. O programa deverá imprimir _n_ vezes o número _num_.
 
 * Exemplos:
 
@@ -72,7 +72,7 @@ Prof. Eduardo Ono
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__*Números triangulares*__. Um __número triangular__ é um número natural que pode ser representado na forma de um triângulo equilátero. O _n_-ésimo número triangular pode ser visto como o número de pontos de uma forma triangular com lado formado por _n_ pontos, o que equivale à soma dos primeiros _n_ números naturais.
 
-<p aligh="center">
+<p align="center">
 <img src="./imagens/numeros-triangulares.png" alt="img" width="250px">
 </p>
 
@@ -147,12 +147,12 @@ c)
 | _n_ | Soma dos _n_ primeiros números triangulares |
 | :-: | --- |
 | 1 | 1 = 1
-| 2 | 1 + 3 = 4 = 2&sup2;
-| 3 | (1 + 3) + 6 = 4 + 6 = 2&sup2; + 6
-| 4 | (1 + 3) + (6 + 10) = 4 + 16 = 2&sup2; + 4&sup2;
-| 5 | (1 + 3) + (6 + 10) + 15 = 4 + 16 + 15 = 2&sup2; + 4&sup2; + 15
-| 6 | (1 + 3) + (6 + 10) + (15 + 21) = 2&sup2; + 4&sup2; + 6&sup2;
-| 7 | (1 + 3) + (6 + 10) + (15 + 21) + 28 = 2&sup2; + 4&sup2; + 6&sup2; + 28
+| 2 | 1 + 3<br>= 4<br>= 2&sup2;
+| 3 | 1 + 3 + 6 = (1 + 3) + 6<br>= 4 + 6<br>= 2&sup2; + 6
+| 4 | 1 + 3 + 6 + 10 = (1 + 3) + (6 + 10)<br>= 4 + 16<br>= 2&sup2; + 4&sup2;
+| 5 | (1 + 3) + (6 + 10) + 15<br>= 4 + 16 + 15<br>= 2&sup2; + 4&sup2; + 15
+| 6 | (1 + 3) + (6 + 10) + (15 + 21)<br>= 4 + 16 + 36<br>= 2&sup2; + 4&sup2; + 6&sup2;
+| 7 | (1 + 3) + (6 + 10) + (15 + 21) + 28<br>= 2&sup2; + 4&sup2; + 6&sup2; + 28
 | ... | ...
 | _n_ | _n_(_n_ + 1)(_n_ + 2) / 6
 
