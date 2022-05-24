@@ -70,10 +70,10 @@ Prof. Eduardo Ono
 
 ## Exercício 9
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__*Números triangulares*__. Um número triangular é um número natural que pode ser representado na forma de um triângulo equilátero. O _n_-ésimo número triangular pode ser visto como o número de pontos de uma forma triangular com lado formado por _n_ pontos, o que equivale à soma dos primeiros _n_ números naturais.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__*Números triangulares*__. Um __número triangular__ é um número natural que pode ser representado na forma de um triângulo equilátero. O _n_-ésimo número triangular pode ser visto como o número de pontos de uma forma triangular com lado formado por _n_ pontos, o que equivale à soma dos primeiros _n_ números naturais.
 
 <p aligh="center">
-<img src="./figuras/numeros-triangulares.png" alt="img" width="250px">
+<img src="./imagens/numeros-triangulares.png" alt="img" width="250px">
 </p>
 
 &nbsp;&nbsp;&nbsp;&nbsp;a) Escreva um programa que peça ao usuário para entrar com um número inteiro positivo (_n_ > 0). O programa deverá imprimir a sequência dos _n_ primeiros números triangulares e calcular a média aritmética desses números.
@@ -86,7 +86,7 @@ Prof. Eduardo Ono
 | 2 | 0 | 2
 | ...
 
-&nbsp;&nbsp;&nbsp;&nbsp;c) A média aritmética dos _n_ primeiros números triangures é sempre um número inteiro quando _n_ é par. Por quê?
+&nbsp;&nbsp;&nbsp;&nbsp;c) A média aritmética dos _n_ primeiros números triangures é sempre um número inteiro, exceto quando _n_ é múltiplo de 3. Por quê?
 
 | _n_ | Soma / _n_ | Média |
 | :-: | :-: | :-: |
@@ -95,7 +95,69 @@ Prof. Eduardo Ono
 | 3 | 10 / 3  | 3.333...
 | 4 | 20 / 4 | 5
 | 5 | 35 / 5 | 7
-| ...
+| 6 | 56 / 6 | 9.333...
+| 7 | 84 / 7 | 12
+| ... | ... | ...
+
+<br>
+
+<details>
+<summary>
+  <strong>Resolução</strong>
+</summary>
+<section markdown="1">
+
+a) 
+
+| _n_ | _número triangular (nt)_ |
+| :-: | --- |
+| 1 | 1 |
+| 2 | 1 + 2 = 3
+| 3 | 1 + 2 + 3 = 6
+| 4 | 1 + 2 + 3 + 4 = 10
+| 5 | 1 + 2 + 3 + 4 + 5 = 15
+| ... | ...
+| _n_ | 1 + 2 + 3 + ... + _n_ = _n_(_n_ + 1) / 2
+
+```c
+#include <stdio.h>
+
+int main()
+{
+    int num, nt;
+
+    printf("Entre com um número inteiro positivo: ");
+    scanf("%d", &num);
+
+    for (int n = 1; n <= num; n++)
+    {
+        nt = n * (n + 1) / 2;
+        printf("%d  ", nt);
+    }
+    printf("\n");
+
+    return 0;
+}
+```
+
+b)
+
+c)
+
+| _n_ | Soma dos _n_ primeiros números triangulares |
+| :-: | --- |
+| 1 | 1 = 1
+| 2 | 1 + 3 = 4 = 2&sup2;
+| 3 | (1 + 3) + 6 = 4 + 6 = 2&sup2; + 6
+| 4 | (1 + 3) + (6 + 10) = 4 + 16 = 2&sup2; + 4&sup2;
+| 5 | (1 + 3) + (6 + 10) + 15 = 4 + 16 + 15 = 2&sup2; + 4&sup2; + 15
+| 6 | (1 + 3) + (6 + 10) + (15 + 21) = 2&sup2; + 4&sup2; + 6&sup2;
+| 7 | (1 + 3) + (6 + 10) + (15 + 21) + 28 = 2&sup2; + 4&sup2; + 6&sup2; + 28
+| ... | ...
+| _n_ | _n_(_n_ + 1)(_n_ + 2) / 6
+
+</section>
+</details>
 
 <br>
 

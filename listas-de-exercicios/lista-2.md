@@ -38,7 +38,7 @@ resto = dividendo - divisor * (dividendo / divisor);
 * A brincadeira de "Pedra, Papel e Tesoura" é bastante antiga e muito conhecida. Porém, é possível aproveitar a ideia dessa brincadeira na criação de um novo joguinho de computador com cinco opções e não apenas três. Nesse joguinho, um jogador escolhe uma "mão" entre cinco opções, que serão representadas pelos números 0, 1, 2, 3 e 4 e o outro jogador escolhe uma outra "mão". A figura a seguir define as regras de quem será o vencedor. Por exemplo, se um jogador escolher o núemro e e o outro jogador escolher o número 2, o vencedor será o jogador que escolheu o número 2, pois existe na figura uma seta no sentido de 2 para 4.
 
 <p align="center">
-  <img src="./figuras/pedra-papel-tesoura.png" alt="img">
+  <img src="./imagens/pedra-papel-tesoura.png" alt="img">
 </p>
 
 Escreva um programa em linguagem C que receba dois números inteiros representando as duas "mãos" escolhidas pelos jogadores. O programa deverá imprimir o número representando a "mão" do jogador vencendor. Casos os jogadores escolham a mesma "mão", o programa deverá escrever "empate".

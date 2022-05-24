@@ -37,13 +37,73 @@ Prof. Eduardo Ono
 
 ## Exercício 2
 
-&nbsp;&nbsp;&nbsp;&nbsp;([DEITEL-6e_2011], 5.25, p. 154, adaptado) _Achar o mínimo_. Escreva uma função que receba três números do tipo `float`. A função deverá retornar o menor dentre esses três números.
+&nbsp;&nbsp;&nbsp;&nbsp;([DEITEL-6e_2011], 5.25, p. 154, adaptado) __*Achar o mínimo*__. Escreva uma função que receba três números do tipo `float`. A função deverá retornar o menor dentre esses três números.
 
 <br>
 
 ## Exercício 3
 
-&nbsp;&nbsp;&nbsp;&nbsp;(DEITEL-6e_2011, 5.26, p. 155, adaptado) __*Números Perfeitos.*__ Um número inteiro positivo é considerado um _número perfeito_ se a soma de seus divisores próprios, incluindo o 1 mas não o próprio número, for igual ao próprio número. Por exemplo, 6 é um número perfeito porque 6 = 1 + 2 + 3. Escreva uma função que determina se um número é perfeito. Use essa função em um programa que determine e imprima todos os números perfeitos entre 1 e 1000. Imprima os divisores de cada número perfeito para confirmar se o número é realmente perfeito. Desafie o poder de seu computador testando números muito maiores que 1000.<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;OBS.: A definição de _número perfeito_ no livro do Deitel não é precisa. O autor utiliza _fatores_ no lugar de _divisores_.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(DEITEL-6e_2011, 5.26, p. 155, adaptado) __*Números Perfeitos.*__ Um número inteiro positivo é considerado um _número perfeito_ se a soma de seus divisores próprios, incluindo o 1 mas não o próprio número, for igual ao próprio número. Por exemplo, 6 é um número perfeito porque 6 = 1 + 2 + 3. Escreva uma função que determina se um número é perfeito. Use essa função em um programa que determine e imprima todos os números perfeitos entre 1 e 10000. Imprima os divisores de cada número perfeito para confirmar se o número é realmente perfeito. Desafie o poder de seu computador testando números muito maiores que 10000.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;OBS.: A definição de _número perfeito_ no livro do Deitel não é precisa. O autor utiliza _fatores_ no lugar de _divisores_.
+
+<br>
+
+<details>
+<summary>
+  <strong>Resolução</strong>
+</summary>
+<section markdown="1">
+
+```c
+#include <stdio.h>
+#include <stdbool.h>
+
+bool verificarNumPerfeito(int num);
+void imprimirDivisores(int num);
+
+int main()
+{
+    bool num_perfeito;
+
+    for (int num = 1; num <= 10000; num++)
+    {
+        num_perfeito = verificarNumPerfeito(num);
+        if (num_perfeito)
+        {
+            printf("%d  ->  ", num);
+            imprimirDivisores(num);
+        }
+    }
+    printf("\n");
+
+    return 0;
+}
+
+bool verificarNumPerfeito(int num)
+{
+    int soma_divisores = 0;
+
+    for (int divisor = 1; divisor <= num/2; divisor++)
+        if (num % divisor == 0)
+            soma_divisores += divisor;
+    if (num == soma_divisores)
+        return true;
+    else
+        return false;
+}
+
+// Imprime os divisoes sem considerar o próprio número.
+void imprimirDivisores(int num)
+{
+    for (int divisor = 1; divisor <= num/2; divisor++)
+        if (num % divisor == 0)
+            printf("%d  ", divisor);
+    printf("\n");
+}
+```
+
+</section>
+</details>
 
 <br>
 
@@ -61,7 +121,7 @@ Prof. Eduardo Ono
 
 ## Exercício 5
 
-&nbsp;&nbsp;&nbsp;&nbsp;(DEITEL-6e_2011, 5.28, p. 155, adaptado) __*Invertendo dígitos.*__ Escreva uma função que receba um valor inteiro positivo e retorne o número com os seus dígitos invertidos.
+&nbsp;&nbsp;&nbsp;&nbsp;(DEITEL-6e_2011, 5.28, p. 155, adaptado) __*Invertendo dígitos*__. Escreva uma função que receba um valor inteiro positivo e retorne o número com os seus dígitos invertidos.
 
 * Exemplo:
 
@@ -93,7 +153,7 @@ Prof. Eduardo Ono
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(DEITEL-6e_2011, 5.31, p. 155, adaptado) __*Jogando uma moeda.*__ Escreva um programa que simule o lançamento de uma moeda. Para cada lançamento da moeda, o programa deverá imprimir Cara ou Coroa. Deixe o programa jogar 100 vezes e conte o número de vezes que cada lado da moeda aparece. Imprima os resultados. O programa deverá chamar uma função _flip_ separada, que não utilize argumentos e retorne 0 (zero) para cara e 1 para coroa. [_Nota_: se o programa realisticamente simula o lançamento de uma moeda, então cada lado da moeda deve aparecer aproximadamente em metade do tempo para um total de aproximadamente 50 caras e 50 coroas.]<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Obs.: Utilize a função `srand(time(0))` para gerar uma semente para a função `rand()`. São necessárias as bibliotecas `stdlib.h`, para as funções `srand()` e `rand()`, e a biblioteca `time.h`, para a função `time()`.
 
-* Exemplo
+* Exemplos de geração de números aleatórios 
 
 ```c
 srand(time(0));
@@ -110,7 +170,9 @@ printf("%.2f\n", 0.01 * (rand() % 10000)); // Imprime um float entre 0.00 e 99.9
 
 ## Exercício 8
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__*Fórmula de Bhaskara.*__ Dada uma equação do 2º Grau do tipo _ax_^2 + _bx_ + _c_ = 0, com a&nbsp;&ne;&nbsp;0, escreva uma função que receba os parâmetros _a_, _b_ e _c_ e calcule as raízes _x_<sub>1</sub> e _x_<sub>2</sub> da equação. OBS.: A função não deve imprimir nenhum resultado, mas a função principal deverá imprimir as raízes calculadas pela função.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__*Fórmula de Bhaskara.*__ Dada uma equação do 2º Grau do tipo _ax_^2 + _bx_ + _c_ = 0, com a&nbsp;&ne;&nbsp;0, escreva uma função que receba os parâmetros _a_, _b_ e _c_ e calcule as raízes _x_<sub>1</sub> e _x_<sub>2</sub> da equação.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;OBS.: A função não deve imprimir nenhum resultado, mas a função principal deverá imprimir as raízes calculadas pela função.
 
 <br>
 
@@ -123,4 +185,7 @@ printf("%.2f\n", 0.01 * (rand() % 10000)); // Imprime um float entre 0.00 e 99.9
 ## Exercício 10
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Escreva uma função que receba um número inteiro positivo no sistema decimal e retorne o número no sistema hexadecimal.
+
 <br>
+
+[DEITEL-6e_2011]: "../README.md#DEITEL-6e_2011

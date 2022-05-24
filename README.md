@@ -36,9 +36,9 @@ Introdução a algoritmos, lógica de programação e linguagem de programação
 | [11] | 02/05 | [Funções definidas pelo usuário](./conteudo/09-funcoes/README.md)<br><sub>Vídeos de Apoio (Bóson Treinamentos): [16](https://www.youtube.com/watch?v=tzBq7_Cn_D4&list=PLucm8g_ezqNqzH7SM0XNjsp25AP0MN82R&index=17) e [17](https://www.youtube.com/watch?v=GGkaN_LwR0w&list=PLucm8g_ezqNqzH7SM0XNjsp25AP0MN82R&index=17) </sub>
 | [12] | 09/05 | Exercícios de Funções
 | [13] | 16/05 | Ponteiros; Funções: Passagem de parâmetros por valor e por referência
-| [14] | 23/05 | Ponteiros, cont.
+| [14] | 23/05 | Aritmética de Ponteiros
 | [15] | 30/05 | Revisão para a Prova
-| [16] | 06/06 | __2a. Avaliação__ (Data a ser confirmada)
+| [16] | 06/06 | __2a. Avaliação__
 
 [01]: ./aulas/README.md#aula-01
 [02]: ./aulas/README.md#aula-02

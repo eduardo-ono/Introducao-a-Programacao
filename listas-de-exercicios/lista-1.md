@@ -41,7 +41,7 @@ Prof. Eduardo Ono
 ## Exercício 5
 
 <p align="center">
-<img src="./figuras/heron.png" alt="img" width="450">
+<img src="./imagens/heron.png" alt="img" width="450">
 </p>
 
 &nbsp;&nbsp;&nbsp;&nbsp;A _fórmula de Heron_ (ou _Herão_) determina a área de um triângulo qualquer e é bastante utilizada na prática, pois ela depende somente das medidas dos lados _a_, _b_ e _c_ do triângulo. A fórmula de Heron é dada por:
