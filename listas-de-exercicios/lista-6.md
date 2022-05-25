@@ -64,17 +64,12 @@ void imprimirDivisores(int num);
 
 int main()
 {
-    bool num_perfeito;
-
     for (int num = 1; num <= 10000; num++)
-    {
-        num_perfeito = verificarNumPerfeito(num);
-        if (num_perfeito)
+        if (verificarNumPerfeito(num))
         {
             printf("%d  ->  ", num);
             imprimirDivisores(num);
         }
-    }
     printf("\n");
 
     return 0;
@@ -91,7 +86,7 @@ bool verificarNumPerfeito(int num)
     return (num == soma_divisores) ? true : false;
 }
 
-// Imprime os divisoes sem considerar o próprio número.
+// Imprime os divisoes, exceto o próprio número.
 void imprimirDivisores(int num)
 {
     for (int divisor = 1; divisor <= num/2; divisor++)
