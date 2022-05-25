@@ -87,10 +87,8 @@ bool verificarNumPerfeito(int num)
     for (int divisor = 1; divisor <= num/2; divisor++)
         if (num % divisor == 0)
             soma_divisores += divisor;
-    if (num == soma_divisores)
-        return true;
-    else
-        return false;
+
+    return (num == soma_divisores) ? true : false;
 }
 
 // Imprime os divisoes sem considerar o próprio número.
