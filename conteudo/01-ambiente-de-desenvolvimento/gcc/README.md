@@ -60,6 +60,10 @@ OBJ --- LINKER
 Get-Command gcc.exe
 ```
 
+```ps
+gcm gcc.exe
+```
+
 * Exibir a Versão do GCC:
 
 ```ps
@@ -77,5 +81,13 @@ gcc --version
 | `gcc main.c -o main` | Compila o arquivo `main.c` e gera o executável `main` (Linux) ou `main.exe` (Windows). 
 | `gcc -Wall -c main.c` | Compila o arquivo `main.c` e gera o arquivo `main.o` (objeto binário).
 | `gcc -Wall -c *.c` | Compila todos os arquivos com extensão ".c" no diretório corrente, gerando os respectivos arquivos ".o" (objetos binários).
+
+<br>
+
+## Videos de Apoio
+
+| Thumb | Descrição |
+| :-: | --- |
+| [![img](https://img.youtube.com/vi/kE5Mfgc3Dls/default.jpg)](https://www.youtube.com/watch?v=kE5Mfgc3Dls) | <sup>[Rodrigo Mello]</sup><br>[__Compilação e Linkagem em Linguagem C__](https://www.youtube.com/watch?v=kE5Mfgc3Dls)<br><sub>(7:00, YouTube, Mar/2015)</sub>
 
 <br>

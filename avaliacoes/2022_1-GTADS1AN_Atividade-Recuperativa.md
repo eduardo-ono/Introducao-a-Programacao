@@ -30,7 +30,7 @@ OBS.: O resumo deve ser manuscrito. Programas apresentados nos vídeos devem ser
 
 | Vídeo | Tópicos abordados |
 | :-: | --- |
-|  1 | - Conceito de IDE.
+|  1 | <ul><li>[x] Conceito de IDE.</li></ul>
 |  2 | - Comentários em linguagem C;<br>- Conceito de Bibliotecas;<br>- Diretivas de Pré-Processamento, `#include`;<br>- Função `main()`;<br>- Programa "Olá Mundo!".
 |  3 | - Tipos de Dados: Tipos inteiros e de ponto flutuante;<br>- Tamanho dos tipos e faixa de valores (2 tabelas);<br>- Operador `sizeof`;<br>- Tipo `bool` (C99) e e biblioteca `stdbool.h`;<br>- Programa que imprime o tamanho de cada tipo de dado.<br>
 |  4 | - Variáveis;<br>- Palavras reservadas da linguagem (tabela);<br>- Declaração de Variáveis;<br>- Atribuição de valores à variáveis (definição de variáveis);<br>- Operador de atrtibuição `=`;<br>- Programa "Salário".

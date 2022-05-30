@@ -76,8 +76,8 @@ Introdução a algoritmos, lógica de programação e linguagem de programação
 
 | Thumb | Descrição |
 | --- | --- |
-| [![img](https://img.youtube.com/vi/cZRuFwzjJ8E/default.jpg)](https://youtu.be/cZRuFwzjJ8E) | <sup>[Bóson Treinamentos]</sup> [Curso de Programação em Linguagem C](https://www.youtube.com/playlist?list=PLucm8g_ezqNqzH7SM0XNjsp25AP0MN82R)<br><sub>(25 vídeos, YouTube, Jul/2021)</sub>
-| [![img](https://img.youtube.com/vi/UPuOQBocY48/default.jpg)](https://youtu.be/UPuOQBocY48) | <sup>[Professor Rafael Ivo]</sup> [Programação em C](https://www.youtube.com/playlist?list=PLvat2X-KHJNZwUCeTeve_S1qqrBOWhaU9)<br><sub>(14 vídeos, YouTube, Nov/2020)</sub>
+| [![img](https://img.youtube.com/vi/cZRuFwzjJ8E/default.jpg)](https://youtu.be/cZRuFwzjJ8E) | <sup>[Bóson Treinamentos]</sup><br>[Curso de Programação em Linguagem C](https://www.youtube.com/playlist?list=PLucm8g_ezqNqzH7SM0XNjsp25AP0MN82R)<br><sub>(25 vídeos, YouTube, Jul/2021)</sub>
+| [![img](https://img.youtube.com/vi/UPuOQBocY48/default.jpg)](https://youtu.be/UPuOQBocY48) | <sup>[Professor Rafael Ivo]</sup><br>[Programação em C](https://www.youtube.com/playlist?list=PLvat2X-KHJNZwUCeTeve_S1qqrBOWhaU9)<br><sub>(14 vídeos, YouTube, Nov/2020)</sub>
 
 <br>
 

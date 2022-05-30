@@ -73,6 +73,7 @@ Prof. Eduardo Ono
 | :-: | --- |
 | [![img](https://img.youtube.com/vi/UKm0D79kZZE/default.jpg)](https://www.youtube.com/watch?v=UKm0D79kZZE) | <sup>[balta.io]</sup><br>[__Por que você não é chamado para entrevistas dev__](https://www.youtube.com/watch?v=UKm0D79kZZE)<br><sub>(14:23, YouTube, Mai/2022)</sub>
 | [![img](https://img.youtube.com/vi/qZ1CWYp00iU/default.jpg)](https://www.youtube.com/watch?v=qZ1CWYp00iU) | <sup>[Mango]</sup><br>[__Porque faculdade é importante para programadores?__](https://www.youtube.com/watch?v=qZ1CWYp00iU)<br><sub>(14:00, YouTube, Nov/2020)</sub>
+| [![img](https://img.youtube.com/vi/JDGlqWCA8po/default.jpg)](https://www.youtube.com/watch?v=JDGlqWCA8po) | <sup>[balta.io]</sup><br>[__As 4 regras PRINCIPAIS do código limpo__](https://www.youtube.com/watch?v=JDGlqWCA8po)<br><sub>(11:06, YouTube, Abr/2022)</sub>
 | [![img](https://img.youtube.com/vi/ah-JwEtzs5U/default.jpg)](https://www.youtube.com/watch?v=ah-JwEtzs5U) | <sup>[Hélio Kamakawa]</sup><br>[__Padrões e Arquitetura de Software com Rodrigo Branas__](https://www.youtube.com/watch?v=ah-JwEtzs5U)<br><sub>(1:41:12, YouTube, Mai/2021)</sub>
 
 <br>
