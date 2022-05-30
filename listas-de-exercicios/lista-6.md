@@ -166,7 +166,7 @@ printf("%.2f\n", 0.01 * (rand() % 10000)); // Imprime um float entre 0.00 e 99.9
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__*Fórmula de Bhaskara.*__ Dada uma equação do 2º Grau do tipo _ax_^2 + _bx_ + _c_ = 0, com a&nbsp;&ne;&nbsp;0, escreva uma função que receba os parâmetros _a_, _b_ e _c_ e calcule as raízes _x_<sub>1</sub> e _x_<sub>2</sub> da equação.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;OBS.: A função não deve imprimir nenhum resultado, mas a função principal deverá imprimir as raízes calculadas pela função.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Obs.: A função não deve imprimir nenhum resultado, mas a função principal deverá imprimir as raízes calculadas pela função.
 
 <br>
 
@@ -176,9 +176,39 @@ printf("%.2f\n", 0.01 * (rand() % 10000)); // Imprime um float entre 0.00 e 99.9
 
 <br>
 
+<details>
+<summary>
+  <strong>Resolução</strong>
+</summary>
+<section markdown="1">
+
+```c
+int dec2bin(int dec)
+{
+    int digito;
+    int bin = 0;
+    int pot = 1;
+
+    while (dec > 0)
+    {
+        digito = dec % 2;
+        bin += digito * pot;
+        pot *= 10;
+        dec /= 2;
+    }
+
+    return bin;
+}
+```
+
+</section>
+</details>
+
+<br>
+
 ## Exercício 10
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Escreva uma função que receba um número inteiro positivo no sistema decimal e retorne o número no sistema hexadecimal.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Escreva um programa que peça ao usuário para entrar com um número inteiro positivo no sistema decimal e imprima o número no sistema hexadecimal.
 
 <br>
 
