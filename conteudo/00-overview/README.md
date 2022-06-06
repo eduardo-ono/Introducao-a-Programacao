@@ -53,6 +53,10 @@ Prof. Eduardo Ono
 
 * https://www.youtube.com/playlist?list=PLAqvrfhetN0gtmtp5gKA6N9lXZm7c5Oeb
 
+* https://www.youtube.com/playlist?list=PLkdzCsbqQcv1y1I420SHJgYXfaqst9DAi
+
+* (CC50): https://www.youtube.com/watch?v=gt_POIN14m8
+
 <br>
 
 ## Dicas para o Estudante

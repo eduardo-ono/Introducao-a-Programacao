@@ -32,87 +32,88 @@ Prof. Eduardo Ono
 
 * Vídeo 1
 
-- [ ] Conceito de IDE
+- [x] Conceito de IDE
 
 * Vídeo 2
 
 - [ ] Comentários em linguagem C
 - [ ] Conceito de Bibliotecas
 - [ ] Diretivas de Pré-Processamento, `#include`
-- [ ] Função `main()`
-- [ ] Programa "Olá Mundo!"
+- [x] Função `main()`
+- [x] Programa "Olá Mundo!"
 
 * Vídeo 3
 
-- [ ] Tipos de Dados: Tipos inteiros e de ponto flutuante
-- [ ] Tamanho dos tipos e faixa de valores (2 tabelas)
-- [ ] Operador `sizeof`
+- [x] Tipos de Dados: Tipos inteiros e de ponto flutuante
+- [ ] Tamanho dos tipos (tabela)
+- [ ] Faixa de valores (tabela)
+- [x] Operador `sizeof`
 - [ ] Tipo `bool` (C99) e e biblioteca `stdbool.h`
-- [ ] Programa que imprime o tamanho de cada tipo de dado
+- [x] Programa que imprime o tamanho de cada tipo de dado
 
 * Vídeo 4
 
-- [ ] Variáveis
+- [x] Variáveis
 - [ ] Palavras reservadas da linguagem (tabela)
-- [ ] Declaração de Variáveis
-- [ ] Atribuição de valores à variáveis (definição de variáveis)
-- [ ] Operador de atrtibuição `=`
-- [ ] Programa "Salário"
+- [x] Declaração de Variáveis
+- [x] Atribuição de valores à variáveis (definição de variáveis)
+- [x] Operador de atrtibuição `=`
+- [x] Programa "Salário"
 
 * Vídeo 5 
 
-- [ ] Função `printf()`
+- [x] Função `printf()`
 - [ ] Especificadores de formato (conversão)
-- [ ] Programa que utiliza vários especificadores de formato
+- [x] Programa que utiliza vários especificadores de formato
 - [ ] Programa que imprime os valores dos inteiros a e b
 
 * Vídeo 6
 
-- [ ] Função `printf()`: Tamanho de campos (colunas)
-- [ ] Programa que ilustra vários tamanhos de campos
+- [x] Função `printf()`: Tamanho de campos (colunas)
+- [x] Programa que ilustra vários tamanhos de campos
 
 * Vídeo 7
 
-- [ ] Precisão de valores no `printf()`
-- [ ] Programa que mostra vários exemplos de precisão através dos especificadores de formato
+- [x] Precisão de valores no `printf()`
+- [x] Programa que mostra vários exemplos de precisão através dos especificadores de formato
 
 * Vídeo 8
 
 - [ ] Sequências de Escape
-- [ ] Programa que mostra várias sequências de escape
+- [x] Programa que mostra várias sequências de escape
 
 * Vídeo 9
 
-- [ ] Função `scanf()`
-- [ ] Programa que lê dados do teclado
+- [x] Função `scanf()`
+- [x] Programa que lê dados do teclado
 - [ ] Programa que lê uma data do teclado
 
 * Vídeo 10
 
-- [ ] Operadores Aritméticos
-- [ ] Programa com várias expressões aritméticas
+- [x] Operadores Aritméticos
+- [x] Programa com várias expressões aritméticas
 - [ ] Programa que soma dois números e eleva um deles ao cubo
 
 * Vídeo 11
 
-- [ ] Estruturas de Decisão (ou Seleção)
+- [x] Estruturas de Decisão (ou Seleção)
 - [ ] Instrução `if`
 - [ ] Fluxograma
-- [ ] Programa que calcula a média de duas notas
+- [x] Programa que calcula a média de duas notas
 
 * Vídeo 12
 
-- [ ] Estruturas de Decisão: Desvio Condicional Composto
+- [x] Estruturas de Decisão: Desvio Condicional Composto
 - [ ] Instrução `if-else`
-- [ ] Fluxograma (1)
+- [x] Fluxograma (1)
 - [ ] Fluxograma (2)
-- [ ] Programa que calcula a média de duas notas
+- [x] Programa que calcula a média de duas notas
 
 * Vídeo 13
 
 - [ ] Estruturas de Decisão: Desvio Condicional Aninhado (ou Encadeado)
 - [ ] Fluxograma
 - [ ] Fluxograma (verifica se um aluno foi aprovado ou reprovado)
-- [ ] Programa que verifica se um aluno foi aprovado ou reprovado
+- [x] Programa que verifica se um aluno foi aprovado ou reprovado
 
 <br>

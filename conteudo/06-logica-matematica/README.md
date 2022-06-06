@@ -40,6 +40,7 @@ Prof. Eduardo Ono
 
 | Thumb | Descrição |
 | :-: | --- |
+| [![img](https://img.youtube.com/vi/mPIbTGRFXbc/default.jpg)](https://www.youtube.com/watch?v=mPIbTGRFXbc) | <sup>[LicoesDeLogica]</sup><br>[__Desafio de Lógica: Labirinto - A Magia do Tempo__](https://www.youtube.com/watch?v=mPIbTGRFXbc)<br><sub>(2:24, YouTube, Jul/2010)</sub>
 | [![img](https://img.youtube.com/vi/cXfJ8XmywqQ/default.jpg)](https://www.youtube.com/watch?v=cXfJ8XmywqQ) | <sup>[Cortes de Matemática e Física]</sup><br>[__O QUE É O CONJUNTO VAZIO? \| Elon Lages__](https://www.youtube.com/watch?v=cXfJ8XmywqQ)<br><sub>(6:07, YouTube, Jan/2022)</sub>
 
 <br>

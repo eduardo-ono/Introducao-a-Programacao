@@ -111,17 +111,55 @@ void imprimirDivisores(int num)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c) Inicialmente, você poderia pensar que _n_/2 é o limite superior dentro do qual deveria testar para ver se um número é primo, mas você só precisa ir até a raiz quadrada de _n_. Por quê? Reescreva o programa e execute-o das duas maneiras. Estime a melhoria do desempenho.
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ref.: https://www.youtube.com/watch?v=1SmEvOOgKME
+
 <br>
 
 ## Exercício 5
 
 &nbsp;&nbsp;&nbsp;&nbsp;(DEITEL-6e_2011, 5.28, p. 155, adaptado) __*Invertendo dígitos*__. Escreva uma função que receba um valor inteiro positivo e retorne o número com os seus dígitos invertidos.
 
-* Exemplo:
+* Exemplo
 
-| Entrada | Retorno |
+| Argumento | Retorno |
 | :-: | :-: |
-| 7631 | 1367 |
+| 1234 | 4321 |
+| 45000 | 54 |
+| 1234567890 | 987654321 |
+
+<details>
+<summary>
+  <strong>Resolução</strong>
+</summary>
+<section markdown="1">
+
+```c
+int inverterAlgarismos(int num)
+{
+    int n = num, pot = -1, algarismo, num_invertido = 0;
+
+    // Determina a maior potência de 10 do número
+    while (n != 0)
+    {
+        pot++;
+        n = n / 10;
+    }
+
+    // Inverte a ordem dos algarismos de num
+    while (pot >= 0)
+    {
+        algarismo = num % 10;
+        num_invertido += algarismo * pow(10, pot);
+        num = num / 10;
+        pot--;
+    }
+
+    return num_invertido;
+}
+```
+
+</section>
+</details>
 
 <br>
 
@@ -145,19 +183,19 @@ void imprimirDivisores(int num)
 
 ## Exercício 7
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(DEITEL-6e_2011, 5.31, p. 155, adaptado) __*Jogando uma moeda.*__ Escreva um programa que simule o lançamento de uma moeda. Para cada lançamento da moeda, o programa deverá imprimir Cara ou Coroa. Deixe o programa jogar 100 vezes e conte o número de vezes que cada lado da moeda aparece. Imprima os resultados. O programa deverá chamar uma função _flip_ separada, que não utilize argumentos e retorne 0 (zero) para cara e 1 para coroa. [_Nota_: se o programa realisticamente simula o lançamento de uma moeda, então cada lado da moeda deve aparecer aproximadamente em metade do tempo para um total de aproximadamente 50 caras e 50 coroas.]<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Obs.: Utilize a função `srand(time(0))` para gerar uma semente para a função `rand()`. São necessárias as bibliotecas `stdlib.h`, para as funções `srand()` e `rand()`, e a biblioteca `time.h`, para a função `time()`.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(DEITEL-6e_2011, 5.31, p. 155, adaptado) __*Jogando uma moeda.*__ Escreva um programa que simule o lançamento de uma moeda. Para cada lançamento da moeda, o programa deverá imprimir Cara ou Coroa. Deixe o programa jogar 100 vezes e conte o número de vezes que cada lado da moeda aparece. Imprima os resultados. O programa deverá chamar uma função _flip_ separada, que não utilize argumentos e retorne 0 (zero) para cara e 1 para coroa. [_Nota_: se o programa realisticamente simula o lançamento de uma moeda, então cada lado da moeda deve aparecer aproximadamente em metade do tempo para um total de aproximadamente 50 caras e 50 coroas.]<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Obs.: Utilize a função `srand(time(0))` para gerar uma semente para a função `rand()`. É necessária a biblioteca `stdlib.h`, para as funções `srand()` e `rand()`, e a biblioteca `time.h`, para a função `time()`.
 
 * Exemplos de geração de números aleatórios 
 
 ```c
 srand(time(0));
-printf("%d\n", rand() % 10); // Imprime um inteiro entre 0 e 9
-printf("%d\n", rand() % 50); // Imprime um inteiro entre 0 e 49
-printf("%d\n", rand() % 100); // Imprime um inteiro entre 0 e 99
-printf("%.1f\n", 0.1 * (rand() % 100)); // Imprime um float entre 0.0 e 9.9
-printf("%.1f\n", 0.1 * (rand() % 1000)); // Imprime um float entre 0.0 e 99.9
-printf("%.1f\n", 0.1 * (rand() % 10000)); // Imprime um float entre 0.0 e 999.9
-printf("%.2f\n", 0.01 * (rand() % 10000)); // Imprime um float entre 0.00 e 99.99
+printf("%d\n", rand() % 10); // Gera um inteiro entre 0 e 9
+printf("%d\n", rand() % 50); // Gera um inteiro entre 0 e 49
+printf("%d\n", rand() % 100); // Gera um inteiro entre 0 e 99
+printf("%.1f\n", 0.1 * (rand() % 100)); // Gera um float entre 0.0 e 9.9
+printf("%.1f\n", 0.1 * (rand() % 1000)); //Gera um float entre 0.0 e 99.9
+printf("%.1f\n", 0.1 * (rand() % 10000)); // Gera um float entre 0.0 e 999.9
+printf("%.2f\n", 0.01 * (rand() % 10000)); // Gera um float entre 0.00 e 99.99
 ```
 
 <br>
