@@ -96,35 +96,7 @@ int main()
 ## Questão 4
 
 ```c
-#include <stdio.h>
 
-int main()
-{
-    const int tempo_maximo = 4800; // em segundos
-    int mm, ss;
-    int tempo_total = 0, tempo_musica, num_musicas = 0;
-
-    while (tempo_total < tempo_maximo)
-    {
-        printf("Entre com o tempo da música [mm:ss]: ");
-        scanf("%d:%d", &mm, &ss);
-        if (mm >= 0 && mm < 60 && ss >= 0 && ss < 60)
-        {
-            tempo_musica = 60 * mm + ss;
-            if (tempo_total + tempo_musica <= tempo_maximo)
-            {
-                tempo_total += tempo_musica;
-                num_musicas++;
-            }
-            else
-                break;
-        }
-    }
-    printf("Número de músicas = %d\n", num_musicas);
-    printf("Tempo total = %d:%02d\n", tempo_total / 60, tempo_total % 60);
-
-    return 0;
-}
 ```
 
 <br>
