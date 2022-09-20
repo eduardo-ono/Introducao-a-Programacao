@@ -49,6 +49,10 @@ Prof. Eduardo Ono
 
 ## Cursos "Completos"
 
+| Thumb | Descrição |
+| :-: | --- |
+| [![img](https://img.youtube.com/vi/j-_s8f5K30I/default.jpg)](https://www.youtube.com/watch?v=j-_s8f5K30I) | <sup>[freeCodeCamp.org]</sup><br>[__Learn C Programming with Dr. Chuck (feat. classic book by Kernighan and Ritchie)__](https://www.youtube.com/watch?v=j-_s8f5K30I)<br><sub>(9:38:34, YouTube, Ago/2022)</sub>
+
 * [Papo Binário] https://www.youtube.com/playlist?list=PLIfZMtpPYFP5qaS2RFQxcNVkmJLGQwyKE
 
 * https://www.youtube.com/playlist?list=PLAqvrfhetN0gtmtp5gKA6N9lXZm7c5Oeb

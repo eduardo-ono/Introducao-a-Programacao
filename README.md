@@ -39,12 +39,17 @@ Introdução a algoritmos, lógica de programação e linguagem de programação
 | [14] | 23/05 | Aritmética de Ponteiros
 | [15] | 30/05 | Revisão para a Prova
 | [16] | 06/06 | __2a. Avaliação__
+| 17 |  | [Vetores (Arrays)]
+| 18 |  | Matrizes
+| 19 |  | [Strings]
 
 [01]: ./aulas/README.md#aula-01
 [02]: ./aulas/README.md#aula-02
 [03]: ./aulas/README.md#aula-03
 [04]: ./aulas/README.md#aula-04
 [05]: ./aulas/README.md#aula-05
+[Vetores (Arrays)]: ./conteudo/12-vetores/README.md
+[Strings]: ./conteudo/14-strings/README.md
 
 <br>
 

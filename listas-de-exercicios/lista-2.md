@@ -31,9 +31,15 @@ resto = dividendo - divisor * (dividendo / divisor);
 | --- | --- |
 | 123 | 1<br>2<br>3|
 
-<br>
+&nbsp;
 
 ## Exercício 3
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Se hoje é segunda-feira, daqui a 325 dias será?
+
+&nbsp;
+
+## Exercício 4
 
 * A brincadeira de "Pedra, Papel e Tesoura" é bastante antiga e muito conhecida. Porém, é possível aproveitar a ideia dessa brincadeira na criação de um novo joguinho de computador com cinco opções e não apenas três. Nesse joguinho, um jogador escolhe uma "mão" entre cinco opções, que serão representadas pelos números 0, 1, 2, 3 e 4 e o outro jogador escolhe uma outra "mão". A figura a seguir define as regras de quem será o vencedor. Por exemplo, se um jogador escolher o núemro e e o outro jogador escolher o número 2, o vencedor será o jogador que escolheu o número 2, pois existe na figura uma seta no sentido de 2 para 4.
 
@@ -87,7 +93,7 @@ int main()
 
 <br>
 
-## Exercício 4
+## Exercício 5
 
 * (FUVEST-1999, adaptado) Um estudante terminou um trabalho que tinha "_n_" páginas. Para numerar todas essas páginas iniciando com a página 1, ele escreveu 270 algarismos. Escreva um programa para determinar o valor de "_n_".
 
