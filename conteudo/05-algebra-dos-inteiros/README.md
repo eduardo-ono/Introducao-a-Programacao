@@ -11,14 +11,17 @@
 
 <br>
 
-<h1 align="center">
-Álgebra dos Inteiros
-</h1>
-<h4 align="center">
-Prof. Eduardo Ono
-</h4>
+<h1 align="center">Álgebra dos Inteiros</h1>
 
-<br>
+<h4 align="center">Prof. Eduardo Ono</h4>
+
+&nbsp;
+
+## Tópicos
+
+* ### [Teorema Fundamental da Aritmética](./teorema-fundamental-da-aritmetica/teorema-fundamental-da-aritmetica.ipynb)
+
+&nbsp;
 
 ## Divisão de Inteiros na Linguagem C
 
