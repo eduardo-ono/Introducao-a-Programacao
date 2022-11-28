@@ -1,10 +1,10 @@
 > <h5><a href="https://github.com/eduardo-ono/Introducao-a-Programacao">Introducao à Programacao</a> > Conteúdo</h5>
 
-# Ambiente de Desenvolvimento
+<h1 align="center">Ambiente de Desenvolvimento</h1>
 
-Prof. Eduardo Ono
+<h4 align="center">Prof. Eduardo Ono</h4>
 
-<br>
+&nbsp;
 
 ## Criação do Ambiente de Desenvolvimento para Programação em Linguagem C
 
@@ -12,7 +12,11 @@ Prof. Eduardo Ono
 
 * Compilador: TDM-GCC
 
+    * Downloads: [Windows 7/8/10/11 64-bit](https://jmeubank.github.io/tdm-gcc/)
+
 * Editor: VS Code
+
+    * Downloads: [Windows 7/8/10/11 64-bit](https://code.visualstudio.com) | [Windows 7 64-bit](https://update.code.visualstudio.com/1.70.2/win32-x64-user/stable)
 
 ### [Configuração de um Ambiente Portátil (Pen Drive ou unidade externa)](./pen-drive.md)
 
@@ -20,7 +24,9 @@ Prof. Eduardo Ono
 
 * Editor: VS Code portátil
 
-<br>
+    * Downloads: [Windows 10/11 64-bit](https://code.visualstudio.com) | [Windows 7 64-bit](https://update.code.visualstudio.com/1.70.2/win32-x64-archive/stable)
+
+&nbsp;
 
 ## GCC
 
