@@ -13,6 +13,7 @@ Comentários   :
 #include <time.h>
 #include "util.h"
 
+// flag = 1 para iniciar o benchmark, flag = 0 para terminar
 double benchmark(int flag)
 {
     static clock_t now = 0;

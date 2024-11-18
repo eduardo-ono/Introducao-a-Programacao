@@ -4,7 +4,55 @@
 
 &nbsp;
 
-## Vídeos de Apoio
+## Algoritmos
+
+### "Força Bruta"
+
+```c
+int main()
+{
+    int num = 600;
+
+    for (int i = 1; i <= num; i++)
+    {
+        if (num % i == 0)
+        {
+            printf("%d ", i);
+        }
+    }
+    printf("\n");
+
+    return 0;
+}
+```
+
+### Otimizações do Algoritmo "Força Bruta"
+
+```c
+int main()
+{
+    int num = 600;
+
+    for (int i = 1; i <= num / 2; i++)
+    {
+        if (num % i == 0)
+        {
+            printf("%d ", i);
+        }
+    }
+    printf("%d\n", num);
+
+    return 0;
+}
+```
+
+&nbsp;
+
+## Algoritmos Otimizados
+
+* Decomposição por fatores primos.
+
+### Vídeos de Apoio
 
 | Thumb | Descrição | Tópicos Abordados |
 | :-: | --- | --- |
